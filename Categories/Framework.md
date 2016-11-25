@@ -9,5 +9,5 @@
 ***
 
 * [OwnPush](http://v.ht/2Uno) ([website](https://ownpush.com/)): Next generation, open-source push services.
-![LGPL](https://img.shields.io/badge/License-Apache%202.0-green.svg?style=flat-square)
+![LGPL](https://img.shields.io/badge/License-LGPL-green.svg?style=flat-square)
 **(FOR DEVS ONLY)**
