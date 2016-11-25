@@ -77,9 +77,5 @@ WEB BROWSER | Self-explanatory
 
 
 ## DIFFERENCES COMPARED TO F-DROID
-Several apps listed here are not available on F-Droid. F-Droid is a `FLOSS app store` so they decline any open source apps that don't respect their [Inclusion Policy](#references). By the way, some FLOSS apps aren't available on F-Droid (lack of time or big apps to maintain).
+Several apps listed here are not available on F-Droid. F-Droid is a `FLOSS app store` so they decline any open source apps that don't respect their **Inclusion Policy**. By the way, some FLOSS apps aren't available on F-Droid (lack of time or big apps to maintain).
 I also tested more than 80% of the apps I posted in this thread so this is more or less my recommended app list.
-
-***
-
-[back to top](#readme)
