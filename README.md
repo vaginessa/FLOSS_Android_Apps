@@ -26,7 +26,7 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 
 | **CATEGORIES** | **SHORT DESCRIPTION** | 
 | :----------- | :----------- | 
-ALARM CLOCK | Alarm clock, timer and stopwatch
+[ALARM CLOCK](Categories/Alarm_clock.md) | Alarm clock, timer and stopwatch
 CALENDAR | Manage your calendars and contacts
 CAMERA | Take photos and videos
 KEYBOARD | Self-explanatory
