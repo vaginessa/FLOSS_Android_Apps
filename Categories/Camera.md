@@ -1,7 +1,7 @@
 ## CAMERA
 
 * [Open Camera](http://v.ht/QAaj): A feature rich camera application.  
-![GPLv3](https://img.shields.io/badge/License-GPLv3-green.svg?style=flat-square)
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Sourceforge-lightgrey.svg?style=flat-square)](https://sourceforge.net/p/opencamera/code)  
 [![](Pictures/F-Droid.png)](http://v.ht/QAaj)
 
