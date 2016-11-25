@@ -19,8 +19,8 @@
 
 * [Import contacts](http://v.ht/zyRr) / [Export contacts)(http://v.ht/I456): Import / Export your contacts directly from your Android device without the need to upload them to Google first.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-bzr.ed.am-lightgrey.svg?style=flat-square)](http://bzr.ed.am/android/import-contacts)
-[![](https://img.shields.io/badge/Source-bzr.ed.am-lightgrey.svg?style=flat-square)](http://bzr.ed.am/android/export-contacts)
+[![](https://img.shields.io/badge/Source Import-bzr.ed.am-lightgrey.svg?style=flat-square)](http://bzr.ed.am/android/import-contacts)
+[![](https://img.shields.io/badge/Source Export-bzr.ed.am-lightgrey.svg?style=flat-square)](http://bzr.ed.am/android/export-contacts)
 
 * [DAVdroid](http://v.ht/pkUE): CalDAV/CardDAV synchronisation adapter for Android 4+ devices.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
