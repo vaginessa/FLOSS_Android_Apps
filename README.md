@@ -5,7 +5,7 @@
 GitLab repo of my [XDA thread](http://forum.xda-developers.com/android/general/index-floss-list-free-libre-source-apps-t3482219/).
 
 ![Number of apps](https://img.shields.io/badge/Apps-166-brightgreen.svg?style=flat-square)
-![License](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)](https://gitlab.com/Primokorn/FLOSS_Android_apps/blob/master/LICENSE)
 ![Twitter](https://img.shields.io/badge/Twitter-@primokorn-blue.svg?style=flat-square)
 
 ---
