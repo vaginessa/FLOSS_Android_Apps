@@ -1,12 +1,5 @@
 ## GALLERY
 
-* [Leafpic](http://v.ht/d2Wr): Advanced replacement for the default image gallery.
-![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/HoraApps/LeafPic)  
-[![](Pictures/F-Droid.png)](http://v.ht/d2Wr)
-
-***
-
 * [A Photo Manager](http://v.ht/IhiE): Search photos in local media store for viewing and maintenance.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/k3b/androFotoFinder)  
@@ -25,6 +18,13 @@
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/mariotaku/imageviewer-gl)  
 [![](Pictures/F-Droid.png)](http://v.ht/ntrF)
+
+***
+
+* [Leafpic](http://v.ht/d2Wr): Advanced replacement for the default image gallery.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/HoraApps/LeafPic)  
+[![](Pictures/F-Droid.png)](http://v.ht/d2Wr)
 
 ***
 
