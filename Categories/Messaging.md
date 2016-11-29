@@ -21,6 +21,13 @@
 
 ***
 
+* [Riot](http://v.ht/klH6): Open team collaboration.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/vector-im/vector-android)  
+[![](Pictures/F-Droid.png)](http://v.ht/klH6)
+
+***
+
 * [Signal](http://v.ht/5XLr): Messaging app for simple private communication with friends.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/WhisperSystems/Signal-Android)  
