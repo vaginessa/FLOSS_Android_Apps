@@ -3,7 +3,7 @@
 * [Kernel Adiutor](http://v.ht/whYi): Manages your kernel parameters.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Grarak/KernelAdiutor)  
-[![](Pictures/Google-Play.png)](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor)
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor)
 _Proprietary dependencies like play-services, firebase or crashlytics_
 
 ***
