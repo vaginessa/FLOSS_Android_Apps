@@ -27,14 +27,14 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 | **CATEGORIES** | **SHORT DESCRIPTION** | 
 | :----------- | :----------- | 
 [ALARM CLOCK](Categories/Alarm_clock.md) | Alarm clock, timer and stopwatch
-CALENDAR | Manage your calendars and contacts
-CAMERA | Take photos and videos
-KEYBOARD | Self-explanatory
-EMAIL | Self-explanatory
-FRAMEWORK / SERVICES | Alternative to Google Play Services, push notifications...
-FILE MANAGER | Self-explanatory
-GALLERY | Self-explanatory
-LAUNCHER | Home and App launchers
+[CALENDAR](Categories/Calendar.md) | Manage your calendars and contacts
+[CAMERA](Categories/Camera.md) | Take photos and videos
+[KEYBOARD](Categories/Keyboard.md) | Self-explanatory
+[EMAIL](Categories/Email.md) | Self-explanatory
+[FRAMEWORK / SERVICES](Categories/Framework.md) | Alternative to Google Play Services, push notifications...
+[FILE MANAGER](Categories/File_manager.md) | Self-explanatory
+[GALLERY](Categories/Gallery.md) | Self-explanatory
+[LAUNCHER](Categories/Launcher/md) | Home and App launchers
 MESSAGING | IM, SMS/MMS, Chat
 MEDIA | Anything related to Audio and Video
 MONITOR | Tools to monitor or manage Android
