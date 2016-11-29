@@ -31,5 +31,5 @@
 * [Opengur](http://v.ht/LaAl): Open source Imgur Android App.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](http://v.ht/fD2Q)  
-[![](Pictures/Google_Play.png)](http://v.ht/LaAl)
+[![](Pictures/Google_Play.png)](http://v.ht/LaAl)  
 _Includes non-free software: crashlytics/fabric_
