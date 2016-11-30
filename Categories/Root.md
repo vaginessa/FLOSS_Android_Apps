@@ -13,9 +13,8 @@
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/seSuperuser/Superuser)  
 **Build bot**  
-[![](Pictures/3rd-party.png)](https://superuser.phh.me/)
-
-**update.zip format**
+[![](Pictures/3rd-party.png)](https://superuser.phh.me/)  
+**update.zip format**  
 [![](Pictures/3rd-party.png)](https://superuser.phh.me/superuser.zip)
 
 ***
