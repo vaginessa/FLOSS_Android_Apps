@@ -8,9 +8,28 @@
     Free Documentation License".
 -->
 
-* [NOM](hhhhhhhhhhhhhh): .
-![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](hhhhhhhhhhhh)  
-[![](Pictures/F-Droid.png)](hhhhhhhhhhhhhhh)
+* [Forecastie](http://v.ht/B44M): Show weather information. Data is gathered from OpenWeatherMap, via their public API.
+![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/martykan/forecastie)  
+[![](Pictures/F-Droid.png)](http://v.ht/B44M)
 
 ***
+
+* [Good Weather](http://v.ht/PSmE): Show current weather information from OpenWeatherMap.
+![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/qqq3/good-weather)  
+[![](Pictures/F-Droid.png)](http://v.ht/PSmE)
+
+***
+
+* [Weather](http://v.ht/P8En): Get weather information and forecast from Open Weather Map.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SecUSo/privacy-friendly-weather)  
+[![](Pictures/F-Droid.png)](http://v.ht/P8En)
+
+***
+
+* [World weather](http://v.ht/RBFc): Displays current weather and forecasts from OpenWeatherMap. Two kinds of forecast are available: 14-day daily weather and 5-day three-hourly weather.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Kestutis-Z/World-Weather)  
+[![](Pictures/F-Droid.png)](http://v.ht/RBFc)
