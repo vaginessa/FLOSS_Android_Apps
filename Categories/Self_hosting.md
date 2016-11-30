@@ -12,7 +12,7 @@
 * [Cozy cloud](https://cozy.io/en/): Cozy is an app-based personal cloud you host at home.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/cozy/cozy-mobile)  
-[![](Pictures/Google_play.png)](https://play.google.com/store/apps/details?id=io.cozy.files_client)
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=io.cozy.files_client)
 
 ***
 
