@@ -48,6 +48,20 @@ _Non-Free Addons - Tracks You - Upstream Non-Free_
 
 ***
 
+* [getChromium](http://v.ht/ETWs): Helps to install/update the open-source [Chromium browser](http://v.ht/9muz/).
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/andDevW/getChromium)  
+[![](Pictures/F-Droid.png)](http://v.ht/ETWs)  
+
+Many Chromium based browsers are available on XDA:
+1. [arter97's custom-built Chromium for Snapdragon devices](http://forum.xda-developers.com/android/apps-games/arter97-s-custom-built-chromium-t3477758)
+2. [Pyrope Browser](http://forum.xda-developers.com/android/apps-games/app-gello-browser-t3384782)
+3. [#NoChromo](http://forum.xda-developers.com/android/apps-games/app-nochromo-wild-browser-appears-t3130776)
+4. [My unofficial Chromium builds -ARM/X86-](http://forum.xda-developers.com/android/apps-games/unofficial-chromium-builds-arm-x86-t3355105)
+5. You can also find new ones on Google Play (e.g. [YuBrowser](https://play.google.com/store/apps/details?id=com.mokee.yubrowser)).
+
+***
+
 * [IceCatMobile](http://v.ht/4i1D): Browser using the Gecko layout engine to render web pages, which implements current and anticipated web standards. This is a free software rebranding of the latest Firefox-ESR release.
 ![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Mozilla-lightgrey.svg?style=flat-square)](http://hg.mozilla.org/)  
@@ -62,23 +76,35 @@ _Non-Free Addons - Tracks You - Upstream Non-Free_
 
 ***
 
+* [Lightning](http://v.ht/7YD1): Lightweight browser.
+![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/anthonycr/Lightning-Browser)  
+[![](Pictures/F-Droid.png)](http://v.ht/7YD1)
 
-- Lightning: Lightweight browser.
-License: MPL2
+***
 
+* [mBrowser](http://v.ht/VKoq): Simple webview based browser.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/chelovek84/mBrowser)  
+[![](Pictures/F-Droid.png)](http://v.ht/VKoq)
 
-- WebApps: Provide a secure way to browse popular webapps by eliminating referrers, 3rd party requests, cookies, cross-site scripting, etc.
-License: MIT
+***
 
-- Chromium. getChromium helps to install/update the open-source Chromium browser.
- 
-- mBrowser: Simple webview based browser. *** NEW ***
-License: MIT
+* [Orfox](http://v.ht/Iljf) / [Orbot](https://f-droid.org/repository/browse/?fdfilter=orbot&fdid=org.torproject.android): Tor is both software and an open network that helps you defend against network surveillance that threatens personal freedom and privacy, confidential business activities and relationships.
+![NewBSD](https://img.shields.io/badge/License-NewBSD-25B3D6.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source OrFox-Github-lightgrey.svg?style=flat-square)](https://github.com/guardianproject/Orfox)[![](https://img.shields.io/badge/Source Orbot-Tor Project-lightgrey.svg?style=flat-square)](https://gitweb.torproject.org/orbot.git)  
+[![](Pictures/Google_Play.png)](http://v.ht/Iljf) [![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=orbot&fdid=org.torproject.android)  
 
-- Privacy Browser: A web browser that protects your privacy by giving you easy control over the use of JavaScript, DOM storage, and cookies. Many websites use these technologies to track users between visits and between sites. Tapping the privacy shield toggles whether JavaScript is enabled and reloads the WebView. When JavaScript is disabled, not only are privacy and security increased, but web pages load faster with less bandwidth consumption.
-License: GPLv3+
+***
 
-- Orfox / Orbot: Tor is both software and an open network that helps you defend against network surveillance that threatens personal freedom and privacy, confidential business activities and relationships.
-License: NewBSD
-Orfox source code
-Check in the Guardian repo. Not available on F-Droid repo for this reason.
+* [Privacy Browser](http://v.ht/E8mm): A web browser that protects your privacy by giving you easy control over the use of JavaScript, DOM storage, and cookies. Many websites use these technologies to track users between visits and between sites. Tapping the privacy shield toggles whether JavaScript is enabled and reloads the WebView. When JavaScript is disabled, not only are privacy and security increased, but web pages load faster with less bandwidth consumption.
+![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Git Stoutner-lightgrey.svg?style=flat-square)](https://git.stoutner.com/?p=PrivacyBrowser.git;a=summary)  
+[![](Pictures/F-Droid.png)](http://v.ht/E8mm)
+
+***
+
+* [WebApps](http://v.ht/Du3R): Provide a secure way to browse popular webapps by eliminating referrers, 3rd party requests, cookies, cross-site scripting, etc.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/tobykurien/webapps)  
+[![](Pictures/F-Droid.png)](http://v.ht/Du3R)
