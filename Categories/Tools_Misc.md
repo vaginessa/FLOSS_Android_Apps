@@ -16,15 +16,33 @@
 
 ***
 
+* [BetterBatteryStats](http://v.ht/38wV): Advanced battery stats.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/asksven/BetterBatteryStats)  
+[![](Pictures/3rd-party.png)](http://forum.xda-developers.com/showpost.php?p=15869886&postcount=2)  
+_Upstream Non-Free_
+
+***
+
+* [BARIA](http://v.ht/hBzu): Backup And Restore Installed Apps (apk only).
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/easwareapps/BARIA/tree/HEAD)  
+[![](Pictures/F-Droid.png)](http://v.ht/hBzu)
+
+***
+
+* [Busybox](http://v.ht/GTJt): Install a recent and un-crippled version of BusyBox.
+![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/meefik/busybox)  
+[![](Pictures/F-Droid.png)](http://v.ht/GTJt)
+
+***
+
 
 - MatLog: Material-style log reader for Android based on CatLog
 License: GPLv3
 Source code
 Uses non-free software, namely crashlytics - Github issue
-
-- BetterBatteryStats: Advanced battery stats.
-License: Apache2
-F-Droid builds stopped. Upstream Non-Free
 
 - PowerToggles: An advanced power control widget. *** NEW ***
 License: MIT
@@ -33,18 +51,12 @@ License: MIT
 A fork of Omnidroid, now maintained and with more features. LibreTasks will allow you to set up certain triggers, such as plugging in your phone or missing a call, and allow you to specify certain actions that are done when that trigger occurs, such as sending a SMS or pausing your media.
 License: GPLv3,Apache2,LGPL
 
-- Busybox: Install a recent and un-crippled version of BusyBox. *** NEW ***
-License: GPLv3+
-
 - Movie and Tv suggestions: To browse a movie/tv catalog and see details for specific crewMembers.. *** NEW ***
 License: ?
 Non-free dependencies: Firebase
 
 - Red Moon: Screen filter for night time phone use. *** NEW ***
 License: GPLv3+
-
-- BARIA: Backup And Restore Installed Apps. *** NEW ***
-License: GPLv3
 
 - TrebleShot: An pair-to-pair file and text transferring application. *** NEW ***
 License: ?
