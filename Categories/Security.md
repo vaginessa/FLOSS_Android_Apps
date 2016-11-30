@@ -19,7 +19,7 @@
 * [AFWall+](http://v.ht/U5yM): An improved version of DroidWall (front-end application for the powerful iptables Linux firewall). It allows you to restrict which applications are permitted to access your data networks (2G/3G/4G/LTE and/or Wi-Fi and while in roaming).
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/ukanth/afwall)  
-[![](Pictures/F-Droid.png)](http://f-droid.org/repository/browse/?fdfilter=afwall+&fdid=dev.ukanth.ufirewall)[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)  
+[![](Pictures/F-Droid.png)](http://f-droid.org/repository/browse/?fdfilter=afwall+&fdid=dev.ukanth.ufirewall) [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)  
 _Non-Free Addons_
 
 ***
@@ -69,7 +69,7 @@ _Non-Free Addons_
 * [NetGuard](http://forum.xda-developers.com/android/apps-games/app-netguard-root-firewall-t3233012): Simple way to block access to the internet - no root required. Applications can individually be allowed or denied access via your Wi-Fi and/or mobile connection.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/M66B/NetGuard)  
-[![](Pictures/3rd_party.png)](https://github.com/M66B/NetGuard/releases/)  
+[![](Pictures/3rd-party.png)](https://github.com/M66B/NetGuard/releases/)  
 _Last [F-Droid](http://v.ht/H82W) version is 2.44 since later versions have non-free dependencies (Firebase)_
 
 ***
@@ -109,7 +109,8 @@ _Last [F-Droid](http://v.ht/H82W) version is 2.44 since later versions have non-
 
 ***
 
-
-- XPrivacy: XPrivacy can prevent applications from leaking privacy sensitive data. XPrivacy can restrict the categories of data an application can access.
-License: GPLv3
-3rd party apps not allowed - Github ref
+* [XPrivacy](http://v.ht/Iw2y): XPrivacy can prevent applications from leaking privacy sensitive data. XPrivacy can restrict the categories of data an application can access.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/M66B/XPrivacy)  
+[![](Pictures/3rd-party.png)](https://github.com/M66B/XPrivacy/releases/)  
+_3rd party apps not allowed - [Github ref](https://github.com/M66B/XPrivacy#FAQ72)_
