@@ -110,7 +110,7 @@ _Non-Free Network Services_
 ***
 
 * [ViPER4Android FX](http://v.ht/T2LF): Popular audio mod.
-![GPLv3](https://img.shields.io/badge/License-???-brightgreen.svg?style=flat-square)
+![](https://img.shields.io/badge/License-Missing-000000.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/vipersaudio/viper4android_fx)  
 [![](Pictures/3rd-party.png)](http://v.ht/T2LF)  
 ([Universal Fix SELinux Enforcing 6.0+](http://v.ht/zzjZ))
