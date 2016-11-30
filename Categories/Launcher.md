@@ -7,7 +7,7 @@
     A copy of the license is included in the section entitled "GNU
     Free Documentation License".
 -->
-## FRAMEWORK / SERVICES
+## LAUNCHER
 
 * [Fast Access](http://v.ht/vR0D): A tiny launcher or as Samsung likes to call it Floating Toolbox.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
