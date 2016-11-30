@@ -9,10 +9,14 @@
 -->
 ## TORRENT
 
-* [NOM](hhhhhhhhhhhhhh): .
+* [LibreTorrent](http://v.ht/CnN4): Torrent client for Android 4 and later, based on libtorrent. Download and share files directly on your device.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](hhhhhhhhhhhh)  
-[![](Pictures/F-Droid.png)](hhhhhhhhhhhhhhh)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/proninyaroslav/libretorrent)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=libretorrent&fdid=org.proninyaroslav.libretorrent)
 
 ***
 
+* [Transdroid](http://v.ht/Hsl8): Allows you to manage your torrents.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/erickok/transdroid)  
+[![](Pictures/F-Droid.png)](http://v.ht/Hsl8)
