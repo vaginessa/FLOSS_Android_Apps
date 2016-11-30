@@ -48,7 +48,7 @@ _Non-Free Addons_
 * [FreeOTP+](http://v.ht/1obJ): Fork of FreeOTP. Google Authenticator replacement with import/export support.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/helloworld1/FreeOTPPlus)  
-[![](Pictures/Google-Play.png)](https://play.google.com/store/apps/details?id=org.liberty.android.freeotpplus)
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=org.liberty.android.freeotpplus)
 
 ***
 
@@ -96,7 +96,7 @@ _Last [F-Droid](http://v.ht/H82W) version is 2.44 since later versions have non-
 ***
 
 * [PornAway](http://forum.xda-developers.com/android/apps-games/root-pornaway-block-porn-sites-t3460036): Extracted version of AdAway to block porn sites.
-![](https://img.shields.io/badge/License-Missing-brightgreen.svg?style=flat-square)
+![](https://img.shields.io/badge/License-Missing-000000.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/mhxion/pornaway/)  
 [![](Pictures/3rd-party.png)](https://github.com/mhxion/pornaway)
 
