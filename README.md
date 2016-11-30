@@ -61,6 +61,7 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 - [Why 'Free Software' is better than 'Open Source'](http://v.ht/BmlF)
 - [Various Licenses and Comments about Them](http://v.ht/lChF)
 - [F-Droid's Inclusion Policy](http://v.ht/iTAZo)
+- [F-Droid's Antifeatures](https://f-droid.org/wiki/page/Antifeatures)
 - [alternativeto.net](http://v.ht/0vYQ)
 - [Droid-Break](http://v.ht/8K8z)
 - [FLOSS and FOSS](http://v.ht/uw6c)
