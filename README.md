@@ -37,21 +37,21 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 [FILE MANAGER](Categories/File_manager.md) | Self-explanatory
 [GALLERY](Categories/Gallery.md) | Self-explanatory
 [LAUNCHER](Categories/Launcher/md) | Home and App launchers
-MESSAGING | IM, SMS/MMS, Chat
-MEDIA | Anything related to Audio and Video
-MONITOR | Tools to monitor or manage Android
-NAVIGATION | Maps, GPS, Tranport
-NEWS | RSS Feeds specific news
-NOTES | Reminders, to-do lists and notes
-ROOT | Specific app to obtain and manage root
-SECURITY | Improve your security and privacy
-SELF-HOSTING | Host files yourself or use free/libre services
-SOCIAL NETWORK | Spend time on Diaspora*, Twitter, Reddit...
-THEMING | Custom theme, icon pack, wallpaper
-TOOLS & MISC | Many tools and stuff with no dedicated category
-TORRENT | Self-explanatory
-WEATHER | Self-explanatory
-WEB BROWSER | Self-explanatory
+[MEDIA](Categories/Media.md) | Anything related to Audio and Video
+[MESSAGING](Categories/Messaging) | IM, SMS/MMS, Chat
+[MONITOR](Categories/Monitor.md) | Tools to monitor or manage Android
+[NAVIGATION](Categories/Navigation.md) | Maps, GPS, Tranport
+[NEWS](Categories/News/md) | RSS Feeds specific news
+[NOTES](Categories/Notes.md) | Reminders, to-do lists and notes
+[ROOT](Categories/Root.md) | Specific app to obtain and manage root
+[SECURITY](Categories/Security.md) | Improve your security and privacy
+[SELF-HOSTING](Categories/Self_hosting.md) | Host files yourself or use free/libre services
+[SOCIAL NETWORK](Categories/Social_Network.md) | Spend time on Diaspora*, Twitter, Reddit...
+[THEMING](Categories/Theming.md) | Custom theme, icon pack, wallpaper
+[TOOLS & MISC](Categories/Tools_Misc.md) | Many tools and stuff with no dedicated category
+[TORRENT](Categories/Torrent.md) | Self-explanatory
+[WEATHER](Categories/Weather.md) | Self-explanatory
+[WEB BROWSER](Categories/Web.md) | Self-explanatory
 
 ***
 
