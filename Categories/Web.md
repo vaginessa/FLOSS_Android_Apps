@@ -9,49 +9,71 @@
 -->
 ## WEB BROWSER
 
-* [NOM](hhhhhhhhhhhhhh): .
+
+* [BeHe ExploreR](http://forum.xda-developers.com/android/apps-games/app4-0-behe-explorer-internet-browser-t3313025): BeHe ExploreR it's a simple,small and minimalistic internet browser made for experimenting and learning.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/VladThodo/behe-explorer)  
+[![](Pictures/3rd-party.png)](https://github.com/VladThodo/behe-explorer/releases/)
+
+***
+
+* [Brave / Link Bubble](http://v.ht/dmwh): The new Brave browser automatically blocks ads and trackers, making it faster and safer than your current browser.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)(to be confirmed. That's the license used for the desktop version. No available information for the Android app)  
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](http://v.ht/sdTe)  
+[![](Pictures/Google_Play.png)](http://v.ht/dmwh)  
+_Non-free crashlytics_
+
+***
+
+* [Browser](http://v.ht/WBrf): Original Material browser based on webview.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](hhhhhhhhhhhh)  
-[![](Pictures/F-Droid.png)](hhhhhhhhhhhhhhh)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/scoute-dich/browser/)  
+[![](Pictures/3rd-party.png)](http://forum.xda-developers.com/showpost.php?p=69620290&postcount=2)
+
+***
+
+* [Cornowser](http://v.ht/WPjP): based on Chromium/Crosswalk. It is intended to be a fast, modern and inituitive browser. Ad-free.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/xdevs23/Cornowser)  
+[![](Pictures/3rd-party.png)](https://raw.githubusercontent.com/xdevs23/Cornowser/master/update/Cornowser.apk)
+
+***
+
+* [Firefox](http://v.ht/7TI2): (still maintained on F-Droid): Mobile version of the Firefox web browser. Uses the Gecko layout engine to render web pages, which implements current and anticipated web standards. Features include: bookmark sync, custom search engines, support for addons and the ability to enable or disable the search suggestions.  
+:bulb: Learn how to tweak the built-in option from about.config through a user.js config file.
+![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Mozilla-lightgrey.svg?style=flat-square)](http://hg.mozilla.org/)  
+[![](Pictures/F-Droid.png)](http://v.ht/7TI2)  
+_Non-Free Addons - Tracks You - Upstream Non-Free_
+
+***
+
+* [IceCatMobile](http://v.ht/4i1D): Browser using the Gecko layout engine to render web pages, which implements current and anticipated web standards. This is a free software rebranding of the latest Firefox-ESR release.
+![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Mozilla-lightgrey.svg?style=flat-square)](http://hg.mozilla.org/)  
+[![](Pictures/F-Droid.png)](http://v.ht/4i1D)
+
+***
+
+* [JumpGo](http://v.ht/bxGD): A fast, reliable and easy to use way to browse the web! Based on Lightning.
+![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/JTechMe/JumpGo)  
+[![](Pictures/F-Droid.png)](http://v.ht/bxGD)
 
 ***
 
 
-
-- Firefox (still maintained on F-Droid): Mobile version of the Firefox web browser. Uses the Gecko layout engine to render web pages, which implements current and anticipated web standards. Features include: bookmark sync, custom search engines, support for addons and the ability to enable or disable the search suggestions.
-License: MPL2
-Non-Free Addons - Tracks You - Upstream Non-Free (learn how to tweak the built-in option from about.config through a user.js config file.
-
-- Cornowser: based on Chromium/Crosswalk. It is intended to be a fast, modern and inituitive browser. Ad-free.
-License: MIT
-
-- Brave: The new Brave browser automatically blocks ads and trackers, making it faster and safer than your current browser.
-License: MPL2 (to be confirmed). That's the license used for the desktop version. No available information for the Android app.
-Source code
-Non-free crashlytics
-
-- Chromium. getChromium helps to install/update the open-source Chromium browser.
-
 - Lightning: Lightweight browser.
 License: MPL2
 
-- JumpGo: A fast, reliable and easy to use way to browse the web! Based on Lightning.
-License: MPL2
 
 - WebApps: Provide a secure way to browse popular webapps by eliminating referrers, 3rd party requests, cookies, cross-site scripting, etc.
 License: MIT
 
-- BeHe ExploreR: BeHe ExploreR it's a simple,small and minimalistic internet browser made for experimenting and learning. *** NEW ***
-License: Apache 2.0
-
+- Chromium. getChromium helps to install/update the open-source Chromium browser.
+ 
 - mBrowser: Simple webview based browser. *** NEW ***
 License: MIT
-
-- Browser: Original Material browser based on webview. *** NEW ***
-License: GPLv3
-
-- IceCatMobile: Browser using the Gecko layout engine to render web pages, which implements current and anticipated web standards. This is a free software rebranding of the latest Firefox-ESR release.
-License: MPL2
 
 - Privacy Browser: A web browser that protects your privacy by giving you easy control over the use of JavaScript, DOM storage, and cookies. Many websites use these technologies to track users between visits and between sites. Tapping the privacy shield toggles whether JavaScript is enabled and reloads the WebView. When JavaScript is disabled, not only are privacy and security increased, but web pages load faster with less bandwidth consumption.
 License: GPLv3+
@@ -60,6 +82,3 @@ License: GPLv3+
 License: NewBSD
 Orfox source code
 Check in the Guardian repo. Not available on F-Droid repo for this reason.
-
-- Lucid Browser: Built to be fast and small yet customizable and beautiful.
-Advertising - Non-Free Dependencies
