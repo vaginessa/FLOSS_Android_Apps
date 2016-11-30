@@ -9,21 +9,21 @@ _[Reasons why you don't find it on F-droid](https://webcache.googleusercontent.c
 ***
 
 * [OpenMapKit](http://v.ht/bCDyn): Browse OpenStreetMap features to create and edit OSM tags.
-![BSD](https://img.shields.io/badge/License-BSD-46E8C4.svg?style=flat-square)
+![BSD](https://img.shields.io/badge/License-BSD-1EC9AA.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/AmericanRedCross/OpenMapKitAndroid)  
 [![](Pictures/F-Droid.png)](http://v.ht/bCDyn)
 
 ***
 
+* [OsmAnd](http://v.ht/iXyL): Offline/online maps and navigation.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/osmandapp/Osmand)  
+[![](Pictures/F-Droid.png)](http://v.ht/iXyL)  
+_Non-Free Assets (the most common case is apps using artwork - images, sounds, music, etc - under a non-commercial license)_
 
+***
 
-- OsmAnd: Offline/online maps and navigation.
-License: GPLv3
-Non-Free Assets (the most common case is apps using artwork - images, sounds, music, etc - under a non-commercial license)
-
-
-- Transportr: The public transport companion that respects your privacy and your freedom. Transportr is a non-profit app developed by people around the world to make using public transport as easy as possible wherever you are.
-License: GPLv3+
-
-
-License: BSD
+* [Transportr](http://v.ht/jQqp): The public transport companion that respects your privacy and your freedom. Transportr is a non-profit app developed by people around the world to make using public transport as easy as possible wherever you are.
+![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/grote/Transportr)  
+[![](Pictures/F-Droid.png)](http://v.ht/jQqp)
