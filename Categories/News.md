@@ -11,8 +11,8 @@
 
 * [Flym](http://v.ht/4HY6) and [spaRSS](http://v.ht/626Z): It checks RSS/Atom news feeds, polling for updates from the device on a regular basis. Fetched items are available for offline reading.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source Flym-Github-lightgrey.svg?style=flat-square)](https://github.com/FredJul/Flym)[![](https://img.shields.io/badge/Source spaRSS-Github-lightgrey.svg?style=flat-square)](https://github.com/Etuldan/spaRSS)  
-[![](Pictures/F-Droid.png)](http://v.ht/4HY6)[![](Pictures/F-Droid.png)](http://v.ht/626Z)
+[![](https://img.shields.io/badge/Source Flym-Github-lightgrey.svg?style=flat-square)](https://github.com/FredJul/Flym) [![](https://img.shields.io/badge/Source spaRSS-Github-lightgrey.svg?style=flat-square)](https://github.com/Etuldan/spaRSS)  
+[![](Pictures/F-Droid.png)](http://v.ht/4HY6) [![](Pictures/F-Droid.png)](http://v.ht/626Z)
 
 ***
 
