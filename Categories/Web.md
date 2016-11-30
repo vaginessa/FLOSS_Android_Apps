@@ -92,7 +92,7 @@ Many Chromium based browsers are available on XDA:
 
 * [Orfox](http://v.ht/Iljf) / [Orbot](https://f-droid.org/repository/browse/?fdfilter=orbot&fdid=org.torproject.android): Tor is both software and an open network that helps you defend against network surveillance that threatens personal freedom and privacy, confidential business activities and relationships.
 ![NewBSD](https://img.shields.io/badge/License-NewBSD-25B3D6.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source OrFox-Github-lightgrey.svg?style=flat-square)](https://github.com/guardianproject/Orfox)[![](https://img.shields.io/badge/Source Orbot-Tor Project-lightgrey.svg?style=flat-square)](https://gitweb.torproject.org/orbot.git)  
+[![](https://img.shields.io/badge/Source OrFox-Github-lightgrey.svg?style=flat-square)](https://github.com/guardianproject/Orfox) [![](https://img.shields.io/badge/Source Orbot-Tor Project-lightgrey.svg?style=flat-square)](https://gitweb.torproject.org/orbot.git)  
 [![](Pictures/Google_Play.png)](http://v.ht/Iljf) [![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=orbot&fdid=org.torproject.android)  
 
 ***
