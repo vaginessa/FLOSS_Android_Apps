@@ -50,6 +50,13 @@
 
 ***
 
+* [MaterialOS](https://f-droid.org/repository/browse/?fdid=com.materialos.cm.theme): CM12/CM12.1. It features Material Design and Material Inspired illustrations and iconography from MaterialOS.
+![CC-BY-4.0](https://img.shields.io/badge/License-CC BY 4.0-9327E8.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/materialos/CM12-Theme)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.materialos.cm.theme)
+
+***
+
 * [Paper FOSS Theme](http://v.ht/ZI8C): CM12 theme that is inspired by material design. It's aiming to provide a consistent and minimalistic look to your device.
 ![LGPLv3,CC-BY-SA-4.0](https://img.shields.io/badge/License-LGPLv3, CC BY SA 4.0-16AB36.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/beli3ver/Paper-FOSS-Theme)  
