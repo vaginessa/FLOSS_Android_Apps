@@ -23,6 +23,13 @@
 
 ***
 
+* [Notes](https://f-droid.org/repository/browse/?fdid=org.secuso.privacyfriendlynotes): Create and manage notes. It is also possible to can define categories and assign them to the notes..
+![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SecUSo/privacy-friendly-notes)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=org.secuso.privacyfriendlynotes)
+
+***
+
 * [Omni Notes](http://v.ht/isNI): Note taking open-source application aimed to have both a simple interface but keeping smart behavior.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/federicoiosue/Omni-Notes)  
