@@ -7,7 +7,7 @@
     A copy of the license is included in the section entitled "GNU
     Free Documentation License".
 -->
-## IM / SMS / MMS / CHAT
+## IM / SMS / MMS / CHAT / COMMUNICATION
 
 * [Conversations](http://v.ht/XAGO): XMPP client designed with ease of use and security in mind.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
@@ -27,6 +27,13 @@
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/qklabs/qksms)  
 [![](Pictures/F-Droid.png)](http://v.ht/9laI)
+
+***
+
+* [Ring](https://f-droid.org/repository/browse/?fdid=cx.ring): Ring (formerly SFLphone) is a free distributed multimedia communication software. It is developed by Savoir-faire Linux with the help of a global community of users and contributors. Savoir-faire Linux is a Canadian company specialized in Linux and free software.
+![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://ring.cx/en/documentation/faq#node-106)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=cx.ring)
 
 ***
 
