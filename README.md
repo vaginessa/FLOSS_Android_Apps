@@ -4,7 +4,7 @@
 
 GitLab repo of my [XDA thread](http://forum.xda-developers.com/android/general/index-floss-list-free-libre-source-apps-t3482219/).
 
-![Number of apps](https://img.shields.io/badge/Apps-165-brightgreen.svg?style=flat-square)  
+![Number of apps](https://img.shields.io/badge/Apps-170-brightgreen.svg?style=flat-square)  
 
 ![License](Pictures/gnu-fdl.png)  
 
@@ -67,6 +67,7 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 - [FLOSS and FOSS](http://v.ht/uw6c)
 - [Why Open Source misses the point of Free Software](http://v.ht/G4pm)
 - [Liberate Your Device!](http://v.ht/aHEk)
+- [Android without Google](https://android.izzysoft.de/articles/named/android-without-google-1) (For general information only. There are weird advices like using Cheetah Mobile apps to improve your privacy... :scream:)
 
 ***
 
