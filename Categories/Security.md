@@ -105,7 +105,8 @@ _Last [F-Droid](http://v.ht/H82W) version is 2.44 since later versions have non-
 * [Prey](https://play.google.com/store/apps/details?id=com.prey): Prey is a lightweight theft protection software that lets you keep an eye over them whether in town or abroad, and helps you recover them if ever lost or stolen.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/prey/prey-android-client)  
-[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.prey)
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.prey)  
+_Non-free dependencies: Play Services_
 
 ***
 
