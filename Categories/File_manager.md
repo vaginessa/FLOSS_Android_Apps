@@ -34,3 +34,10 @@
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Sourceforge-lightgrey.svg?style=flat-square)](https://sourceforge.net/p/ghostcommander/code)  
 [![](Pictures/F-Droid.png)](http://v.ht/VlNg)
+
+***
+
+* [Material File Manager](http://forum.xda-developers.com/android/apps-games/app-material-file-manager-source-t3492062): Basic Open Source File explorer developed following the Material Design guidelines.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/CosimoSguanci/Material-File-Manager)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=app.android.com.materialfilemanager)
