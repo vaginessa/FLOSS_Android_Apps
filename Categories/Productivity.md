@@ -8,7 +8,7 @@
     Free Documentation License".
 -->
 
-* [TextFairy](hhhhhhhhhhhhhh): Convert your phone into a mobile text scanner (OCR).
+* [TextFairy](https://play.google.com/store/apps/details?id=com.renard.ocr): Convert your phone into a mobile text scanner (OCR).
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/renard314/textfairy)  
 [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.renard.ocr)
