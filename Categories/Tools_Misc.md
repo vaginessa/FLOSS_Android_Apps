@@ -124,13 +124,6 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
-* [Shopping List](http://v.ht/G2Xl): Create shopping lists and manage them by adding, editing and deleting of lists and items.
-![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SecUSo/privacy-friendly-shopping-list)  
-[![](Pictures/F-Droid.png)](http://v.ht/G2Xl)
-
-***
-
 * [SMS Backup+](http://v.ht/IL1T): Backup SMS and call logs to IMAP.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/jberkel/sms-backup-plus)  
