@@ -109,6 +109,13 @@ _Non-Free Network Services_
 
 ***
 
+* [Transcribe](https://github.com/p-edelman/Transcribe): A tool for people who need to transcribe audio recordings to text (more specifically, people that are slow typists and have sticky fingers.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/p-edelman/Transcribe)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=org.mrpi.transcribe)
+
+***
+
 * [ViPER4Android FX](http://v.ht/T2LF): Popular audio mod.
 ![](https://img.shields.io/badge/License-Missing-000000.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/vipersaudio/viper4android_fx)  
