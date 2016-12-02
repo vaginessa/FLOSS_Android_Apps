@@ -30,27 +30,31 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 | :----------- | :----------- | 
 [ALARM CLOCK](Categories/Alarm_clock.md) | Alarm clock, timer and stopwatch
 [CALENDAR](Categories/Calendar.md) | Manage your calendars and contacts
-[CAMERA](Categories/Camera.md) | Take photos and videos
-[KEYBOARD](Categories/Keyboard.md) | Self-explanatory
+[COMMUNICATION](Categories/Communication.md) | IM / SMS / MMS / Chat / Team collaboration
+[ENTERTAINMENT](Categories/Entertainment.md) | Movies, TV...
 [EMAIL](Categories/Email.md) | Self-explanatory
 [FRAMEWORK / SERVICES](Categories/Framework.md) | Alternative to Google Play Services, push notifications...
 [FILE MANAGER](Categories/File_manager.md) | Self-explanatory
-[GALLERY](Categories/Gallery.md) | Self-explanatory
+[GALLERY](Categories/Gallery.md) | View your pictures and videos
+[HEALTH and FITNESS](Categories/ Health_Fitness.md) | To be healthy and stay healthy
+[KEYBOARD](Categories/Keyboard.md) | Self-explanatory
 [LAUNCHER](Categories/Launcher.md) | Home and App launchers
-[MEDIA](Categories/Media.md) | Anything related to Audio and Video
-[MESSAGING](Categories/Messaging.md) | IM, SMS/MMS, Chat
 [MONITOR](Categories/Monitor.md) | Tools to monitor or manage Android
+[MUSIC](Categories/Music.md) | Self-explanatory
 [NAVIGATION](Categories/Navigation.md) | Maps, GPS, Tranport
 [NEWS](Categories/News.md) | RSS Feeds specific news
+[PHOTOGRAPHY](Categories/Photography.md) | Take photos and videos
 [PRODUCTIVITY](Categories/Productivity.md) | Apps that save time
 [NOTES](Categories/Notes.md) | Reminders, to-do lists and notes
 [ROOT](Categories/Root.md) | Specific app to obtain and manage root
 [SECURITY](Categories/Security.md) | Improve your security and privacy
 [SELF-HOSTING](Categories/Self_hosting.md) | Host files yourself or use free/libre services
+[SHOPPING](Categories/Shopping.md) | Self-explanatory
 [SOCIAL NETWORK](Categories/Social_Network.md) | Spend time on Diaspora*, Twitter, Reddit...
 [THEMING](Categories/Theming.md) | Custom theme, icon pack, wallpaper
 [TOOLS & MISC](Categories/Tools_Misc.md) | Many tools and stuff with no dedicated category
 [TORRENT](Categories/Torrent.md) | Self-explanatory
+[VIDEO / AUDIO PLAYERS](Categories/Video_Audio_Players.md) | Video/Audio players and editors
 [WEATHER](Categories/Weather.md) | Self-explanatory
 [WEB BROWSER](Categories/Web.md) | Self-explanatory
 
