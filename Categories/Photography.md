@@ -7,7 +7,7 @@
     A copy of the license is included in the section entitled "GNU
     Free Documentation License".
 -->
-## CAMERA
+## PHOTOGRAPHY
 
 * [Camera](http://v.ht/vnQl): A front/rear camera with flash and zoom.  
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
