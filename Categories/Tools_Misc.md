@@ -145,6 +145,14 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
+* [Telecine](https://play.google.com/store/apps/details?id=com.jakewharton.telecine): Record full-resolution video on your Android devices.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/JakeWharton/Telecine)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.jakewharton.telecine)  
+_Non-Free software: Google Analytics_
+
+***
+
 * [TrebleShot](http://v.ht/ESVR): An pair-to-pair file and text transferring application.
 ![](https://img.shields.io/badge/License-Missing-000000.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/genonbeta/TrebleShot)  
