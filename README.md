@@ -36,7 +36,7 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 [FRAMEWORK / SERVICES](Categories/Framework.md) | Alternative to Google Play Services, push notifications...
 [FILE MANAGER](Categories/File_manager.md) | Self-explanatory
 [GALLERY](Categories/Gallery.md) | View your pictures and videos
-[HEALTH and FITNESS](Categories/ Health_Fitness.md) | To be healthy and stay healthy
+[HEALTH and FITNESS](Categories/Health_Fitness.md) | To be healthy and stay healthy
 [KEYBOARD](Categories/Keyboard.md) | Self-explanatory
 [LAUNCHER](Categories/Launcher.md) | Home and App launchers
 [MONITOR](Categories/Monitor.md) | Tools to monitor or manage Android
