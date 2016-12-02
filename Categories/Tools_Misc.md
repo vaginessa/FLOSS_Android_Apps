@@ -88,13 +88,6 @@ _Uses non-free software, namely crashlytics - [Github issue](http://v.ht/FkWI)_
 
 ***
 
-* [Pedometer](http://v.ht/t9uU): Count your steps in background to provide you an overview about your walked steps, distance and about the calories you have burned while walking.
-![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SecUSo/privacy-friendly-activity-tracker)  
-[![](Pictures/F-Droid.png)](http://v.ht/t9uU)
-
-***
-
 * [PowerToggles](http://v.ht/odu8): An advanced power control widget.
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/sunnygoyal/PowerToggles)  
