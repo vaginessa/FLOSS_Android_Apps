@@ -7,16 +7,3 @@
     A copy of the license is included in the section entitled "GNU
     Free Documentation License".
 -->
-## MEDIA / AUDIO / VIDEO
-
-* [Obsqr](http://v.ht/z9AI): Fast and simple QR code scanner that uses the zbar library. Minimalistic design allows you to access QR content with a single tap.
-![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/trikita/obsqr)  
-[![](Pictures/F-Droid.png)](http://v.ht/z9AI)
-
-***
-
-* [QR Scanner](http://v.ht/BVj7): Scan QR codes.
-![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SecUSo/privacy-friendly-qr-scanner)  
-[![](Pictures/F-Droid.png)](http://v.ht/BVj7)
