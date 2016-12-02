@@ -74,6 +74,13 @@ _Non-Free Network Services_
 
 ***
 
+* [Transistor](http://v.ht/XLDQ): Transistor is a bare bones app for listening to radio programs over the internet.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/y20k/transistor)  
+[![](Pictures/F-Droid.png)](http://v.ht/XLDQ)
+
+***
+
 * [VLC](http://v.ht/mj27): Video and audio player that supports a wide range of formats, for both local and remote playback.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://code.videolan.org/videolan/vlc-android)  
