@@ -38,6 +38,13 @@ _Upstream Non-Free_
 
 ***
 
+* [Dukto](https://play.google.com/store/apps/details?id=it.msec.dukto): An easy file transfer tool designed for LAN use. Transfer files from one PC (or other device) to another, without worrying about users, permissions, operating systems, protocols, clients, servers and so on...
+![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Sourceforge-lightgrey.svg?style=flat-square)](https://sourceforge.net/projects/dukto/)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=it.msec.dukto&hl=fr)
+
+***
+
 * [FTP Server](http://v.ht/xwpM): This app can serve files over the internet but the most likely usage is to access files from another computer without needing a cable.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/ppareit/swiftp)  
