@@ -74,14 +74,6 @@ _Uses non-free software, namely crashlytics - [Github issue](http://v.ht/FkWI)_
 
 ***
 
-* [MuPDF](http://v.ht/E7l7): Lightweight document viewer. MuPDF supports PDF 1.7 with transparency, encryption, hyperlinks, annotations, searching, form editing and more. It also reads OpenXPS and CBZ (comic book) documents.
-![AGPLv3+](https://img.shields.io/badge/License-AGPLv3+-green.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Ghostscript-lightgrey.svg?style=flat-square)](http://git.ghostscript.com/?p=mupdf.git;a=summary)  
-[![](Pictures/F-Droid.png)](http://v.ht/E7l7)  
-_[Material Design version here](http://v.ht/P3mE) (Android 5.0+)_
-
-***
-
 * [Night Screen](http://v.ht/aU7S): Prevent your eyes from being hurt by screen light.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/fython/Blackbulb)  
@@ -93,13 +85,6 @@ _[Material Design version here](http://v.ht/P3mE) (Android 5.0+)_
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/trikita/obsqr)  
 [![](Pictures/F-Droid.png)](http://v.ht/z9AI)
-
-***
-
-* [PDF Creator](http://v.ht/8dlR): Create and edit PDF files.
-![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/scoute-dich/PDFCreator)  
-[![](Pictures/F-Droid.png)](http://v.ht/8dlR)
 
 ***
 
@@ -139,13 +124,6 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
-* [ScreenCam Screen Recorder](http://v.ht/cEQz): (no root) User friendly minimal screen recorder for all devices with lollipop 5.0 and Up. It is opensourced and is completely free and ad free..
-![AGPLv3](https://img.shields.io/badge/License-AGPLv3-green.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/vijai1996/screenrecorder)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=screencam&fdid=com.orpheusdroid.screenrecorder)
-
-***
-
 * [Share via HTTP](http://v.ht/eRI3d): Share files from your phone to one or many, quickly and easily.
 ![NewBSD](https://img.shields.io/badge/License-NewBSD-25B3D6.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/marcosdiez/shareviahttp)  
@@ -178,13 +156,6 @@ _Admob needs to be replaced with a dummy library_
 ![](https://img.shields.io/badge/License-Missing-000000.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/genonbeta/TrebleShot)  
 [![](Pictures/3rd-party.png)](https://github.com/genonbeta/TrebleShot/releases/)
-
-***
-
-* [Turbo Editor](http://v.ht/clQ9): Simple, yet powerful editor for text files.
-![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/vmihalachi/turbo-editor)  
-[![](Pictures/F-Droid.png)](http://v.ht/clQ9)
 
 ***
 
