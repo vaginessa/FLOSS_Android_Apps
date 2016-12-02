@@ -42,6 +42,7 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 [MONITOR](Categories/Monitor.md) | Tools to monitor or manage Android
 [NAVIGATION](Categories/Navigation.md) | Maps, GPS, Tranport
 [NEWS](Categories/News.md) | RSS Feeds specific news
+[PRODUCTIVITY](Categories/Productivity.md) | Apps that save time
 [NOTES](Categories/Notes.md) | Reminders, to-do lists and notes
 [ROOT](Categories/Root.md) | Specific app to obtain and manage root
 [SECURITY](Categories/Security.md) | Improve your security and privacy
