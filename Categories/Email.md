@@ -27,3 +27,10 @@
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/scoute-dich/K9-MailClient)  
 [![](Pictures/3rd-party.png)](http://forum.xda-developers.com/showpost.php?p=67674989&postcount=2)
+
+***
+
+* [Tutanota](https://tutanota.com/): Tutanota is the end-to-end encrypted email client that enables you to communicate securely with anyone.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/tutao/tutanota)  
+[![](Pictures/F-Droid.png)](https://play.google.com/store/apps/details?id=de.tutao.tutanota)
