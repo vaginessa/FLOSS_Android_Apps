@@ -16,6 +16,13 @@
 
 ***
 
+* [ApertureGallery](https://github.com/MJonesDev/ApertureGallery).
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/MJonesDev/ApertureGallery)  
+[![](Pictures/3rd-party.png)](https://github.com/MJonesDev/ApertureGallery/releases)
+
+***
+
 * [Gallery](http://v.ht/3C93): A gallery for viewing photos and videos.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SimpleMobileTools/Simple-Gallery)  
