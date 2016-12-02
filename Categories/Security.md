@@ -66,6 +66,13 @@ _Non-Free Addons_
 
 ***
 
+* [Master Password](http://www.devland.de/): Password manager that doesn’t store your personal passwords on the device. Instead it generates all passwords on the demand by using a single master password that never leaves the device.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/dkunzler/masterpassword)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=de.devland.masterpassword)
+
+***
+
 * [NetGuard](http://forum.xda-developers.com/android/apps-games/app-netguard-root-firewall-t3233012): Simple way to block access to the internet - no root required. Applications can individually be allowed or denied access via your Wi-Fi and/or mobile connection.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/M66B/NetGuard)  
