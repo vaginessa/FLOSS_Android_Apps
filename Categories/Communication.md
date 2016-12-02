@@ -7,7 +7,7 @@
     A copy of the license is included in the section entitled "GNU
     Free Documentation License".
 -->
-## IM / SMS / MMS / CHAT / COMMUNICATION
+## COMMUNICATION : IM / SMS / MMS / CHAT / TEAM COLLABORATION
 
 * [Conversations](http://v.ht/XAGO): XMPP client designed with ease of use and security in mind.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
