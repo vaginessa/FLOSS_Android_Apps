@@ -168,13 +168,6 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
-* [Transistor](http://v.ht/XLDQ): Transistor is a bare bones app for listening to radio programs over the internet.
-![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/y20k/transistor)  
-[![](Pictures/F-Droid.png)](http://v.ht/XLDQ)
-
-***
-
 * [TrebleShot](http://v.ht/ESVR): An pair-to-pair file and text transferring application.
 ![](https://img.shields.io/badge/License-Missing-000000.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/genonbeta/TrebleShot)  
