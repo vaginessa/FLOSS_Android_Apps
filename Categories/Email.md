@@ -33,4 +33,5 @@
 * [Tutanota](https://tutanota.com/): Tutanota is the end-to-end encrypted email client that enables you to communicate securely with anyone.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/tutao/tutanota)  
-[![](Pictures/F-Droid.png)](https://play.google.com/store/apps/details?id=de.tutao.tutanota)
+[![](Pictures/F-Droid.png)](https://play.google.com/store/apps/details?id=de.tutao.tutanota)  
+_Non-free dependencies: Play Services_
