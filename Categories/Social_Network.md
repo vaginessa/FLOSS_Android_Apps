@@ -9,6 +9,13 @@
 -->
 ## SOCIAL NETWORK
 
+* [AndStatus](https://f-droid.org/repository/browse/?fdid=org.andstatus.app): A low traffic social networking client with tree-like threaded conversations. It supports multiple protocols, including GNU social/StatusNet (e.g. Quitter, LoadAverage, Vinilox etc.), Twitter and Pump.io. It combines your accounts from all networks into one timeline and allows you reading and posting even while you are offline.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/andstatus/andstatus)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=org.andstatus.app)
+
+***
+
 * [Dandelion*](http://v.ht/XfCe): dandelion* is a client for the community-run, distributed social network diaspora*. It adds some useful features to your networking experience.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Diaspora-for-Android/dandelion)  
