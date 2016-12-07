@@ -7,7 +7,7 @@
     A copy of the license is included in the section entitled "GNU
     Free Documentation License".
 -->
-## SOCIAL NETWORK
+## SOCIAL
 
 * [AndStatus](https://f-droid.org/repository/browse/?fdid=org.andstatus.app): A low traffic social networking client with tree-like threaded conversations. It supports multiple protocols, including GNU social/StatusNet (e.g. Quitter, LoadAverage, Vinilox etc.), Twitter and Pump.io. It combines your accounts from all networks into one timeline and allows you reading and posting even while you are offline.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
@@ -65,3 +65,11 @@ _Non-Free Network Services_
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/TwidereProject/Twidere-Android)  
 [![](Pictures/F-Droid.png)](http://v.ht/hLKR)
+
+***
+
+* [WordPress](https://play.google.com/store/apps/details?id=org.wordpress.android): A client for WordPress blogs, which allows post creation and editing, and comment viewing, replying and moderation.
+![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/wordpress-mobile/WordPress-Android)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=org.wordpress.android)  
+_Non-free libraries like crashlytics. Last F-Droid build dates back to 2014-04-12._
