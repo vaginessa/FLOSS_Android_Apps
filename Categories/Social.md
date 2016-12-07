@@ -72,4 +72,4 @@ _Non-Free Network Services_
 ![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/wordpress-mobile/WordPress-Android)  
 [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=org.wordpress.android)  
-_Non-free libraries like crashlytics. Last F-Droid build dates back to 2014-04-12._
+_Non-free libraries like crashlytics. Latest F-Droid build dates back to 2014-04-12._
