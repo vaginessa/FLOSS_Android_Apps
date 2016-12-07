@@ -4,7 +4,7 @@
 
 GitLab repo of my [XDA thread](http://forum.xda-developers.com/android/general/index-floss-list-free-libre-source-apps-t3482219/).
 
-![Number of apps](https://img.shields.io/badge/Apps-177-brightgreen.svg?style=flat-square)  
+![Number of apps](https://img.shields.io/badge/Apps-179-brightgreen.svg?style=flat-square)  
 
 ![License](Pictures/gnu-fdl.png)  
 
@@ -50,7 +50,7 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 [SECURITY](Categories/Security.md) | Improve your security and privacy
 [SELF-HOSTING](Categories/Self_hosting.md) | Host files yourself or use free/libre services
 [SHOPPING](Categories/Shopping.md) | Self-explanatory
-[SOCIAL NETWORK](Categories/Social_Network.md) | Spend time on Diaspora*, Twitter, Reddit...
+[SOCIAL](Categories/Social.md) | Spend time on Diaspora*, Twitter, Reddit, WordPress...
 [THEMING](Categories/Theming.md) | Custom theme, icon pack, wallpaper
 [TOOLS & MISC](Categories/Tools_Misc.md) | Many tools and stuff with no dedicated category
 [TORRENT](Categories/Torrent.md) | Self-explanatory
