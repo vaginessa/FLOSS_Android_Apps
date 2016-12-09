@@ -9,6 +9,13 @@
 -->
 ## NOTES / REMINDERS / TODO LIST
 
+* [Memento](https://github.com/yaa110/Memento/releases/): A simple note taking app (categories, drawing notes, backup/restore, Rich Text WYSIWYG Editor...).
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/yaa110/Memento)  
+[![](Pictures/3rd-party.png)](https://github.com/yaa110/Memento/releases/)
+
+***
+
 * [Mirakel](http://v.ht/NrjA): A simple but powerful tool for managing your TODO-lists. You can sync your lists with your own server.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/MirakelX/mirakel-android)  
