@@ -41,7 +41,7 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 [LAUNCHER](Categories/Launcher.md) | Home and App launchers
 [MONITOR](Categories/Monitor.md) | Tools to monitor or manage Android
 [MUSIC](Categories/Music.md) | Self-explanatory
-[NAVIGATION](Categories/Navigation.md) | Maps, GPS, Tranport
+[NAVIGATION](Categories/Navigation.md) | Maps, GPS, Transport
 [NEWS](Categories/News.md) | RSS Feeds specific news
 [PHOTOGRAPHY](Categories/Photography.md) | Take photos and videos
 [PRODUCTIVITY](Categories/Productivity.md) | Apps that save time
