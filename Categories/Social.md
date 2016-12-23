@@ -31,6 +31,13 @@ _Non-Free Network Services_
 
 ***
 
+* [Kickstarter](https://play.google.com/store/apps/details?id=com.kickstarter.kickstarter): Kickstarter is a global community that helps bring creative projects to life. Explore thousands of projects in art, design, film, games, music, and more, and pledge to your favorites right from the app.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/kickstarter/android-oss)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.kickstarter.kickstarter)
+
+***
+
 * [MaterialFBook](http://forum.xda-developers.com/android/apps-games/app-materialfbook-minimalist-facebook-t3477896): Minimalist facebook client.
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/ZeeRooo/MaterialFBook)  
