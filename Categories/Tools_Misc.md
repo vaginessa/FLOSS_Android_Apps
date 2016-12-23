@@ -60,6 +60,13 @@ _Non-free: Google’s firebase_
 
 ***
 
+* [Hangar](http://forum.xda-developers.com/showthread.php?t=2770533): Provides a customizable shortcut launcher in your notification drawer to give you relevant, easy access to your most frequently used apps based on smart filtering algorithms.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/corcoran/Hangar)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=Hangar&fdid=ca.mimic.apphangar) [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=ca.mimic.apphangar)
+
+***
+
 * [LibreTasks](http://v.ht/2Ae2): Trigger actions when certain events happen. A fork of Omnidroid, now maintained and with more features. LibreTasks will allow you to set up certain triggers, such as plugging in your phone or missing a call, and allow you to specify certain actions that are done when that trigger occurs, such as sending a SMS or pausing your media.
 ![GPLv3,Apache2,LGPL](https://img.shields.io/badge/License-GPLv3,Apache2,LGPL-347D07.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/biotinker/LibreTasks/)  
