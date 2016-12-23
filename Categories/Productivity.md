@@ -7,6 +7,7 @@
     A copy of the license is included in the section entitled "GNU
     Free Documentation License".
 -->
+## PRODUCTIVITY
 
 * [MuPDF](http://v.ht/E7l7): Lightweight document viewer. MuPDF supports PDF 1.7 with transparency, encryption, hyperlinks, annotations, searching, form editing and more. It also reads OpenXPS and CBZ (comic book) documents.
 ![AGPLv3+](https://img.shields.io/badge/License-AGPLv3+-green.svg?style=flat-square)
