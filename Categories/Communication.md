@@ -59,6 +59,13 @@ _Non-free components. 3rd party builds NOT allowed. Google Play Services._
 
 ***
 
+* [Simple IRC](https://f-droid.org/repository/browse/?fdid=tk.jordynsmediagroup.simpleirc.fdroid): A simple IRC client based on Atomic.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/jcjordyn130/simpleirc)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=tk.jordynsmediagroup.simpleirc.fdroid)
+
+***
+
 * [Telegram](http://v.ht/4DyJ): Chat with friends, start group chats and share all kinds of content. All of your messages and conversations are stored in Telegram's cloud.
 ![GPLv2+](https://img.shields.io/badge/License-GPLv2+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/slp/Telegram-FOSS)  
