@@ -145,6 +145,13 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
+* [Stringlate](https://f-droid.org/repository/browse/?fdfilter=Stringlate&fdid=io.github.lonamiwebs.stringlate): Fetches remote GitHub repositories containing the source code for Android applications downloading the available `strings.xml` files in them for you to translate the strings to any other locale, in order to help the authors localize their applications into other languages.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/LonamiWebs/Stringlate)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=Stringlate&fdid=io.github.lonamiwebs.stringlate)
+
+***
+
 * [Taskbar](http://v.ht/cAWj): Puts a start menu and recent apps tray on top of your screen accessible at any time.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/farmerbb/Taskbar)  
