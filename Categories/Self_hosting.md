@@ -23,6 +23,13 @@
 
 ***
 
+* [Nextcloud](https://f-droid.org/repository/browse/?fdid=com.nextcloud.android.beta): A safe home for all your data. Access & share your files, calendars, contacts, mail & more from any device, on your terms.
+![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/nextcloud/android)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.nextcloud.android.beta)
+
+***
+
 * [OwnCloud](http://v.ht/KDTH): A free software package you can install on a server to manage files, contacts, calendars, music, pictures and much more. This is the official Android app which enables you to view and upload files.
 ![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/owncloud/android)  
