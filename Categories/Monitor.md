@@ -12,7 +12,7 @@
 * [Kernel Adiutor](http://v.ht/whYi): Manages your kernel parameters.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Grarak/KernelAdiutor)  
-[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor)
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor)  
 _Proprietary dependencies like play-services, firebase or crashlytics_
 
 ***
@@ -20,7 +20,7 @@ _Proprietary dependencies like play-services, firebase or crashlytics_
 * [Kernel Adiutor-Mod](http://forum.xda-developers.com/android/apps-games/kernel-adiutor-mod-singularity-kernel-t3333549): Fork of Kernel Adiutor.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/yoinx/kernel_adiutor)  
-[![](Pictures/3rd-party.png)](https://github.com/yoinx/kernel_adiutor/raw/master/download/app/app-release.apk)
+[![](Pictures/3rd-party.png)](https://github.com/yoinx/kernel_adiutor/raw/master/download/app/app-release.apk)  
 _Non-free dependencies and crashlytics_
 
 ***
