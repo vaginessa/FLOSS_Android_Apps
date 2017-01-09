@@ -31,6 +31,13 @@ _Uses Firebase (Firebase Cloud Messaging)_
 
 ***
 
+* [OpenLauncher](https://play.google.com/store/apps/details?id=com.benny.openlauncher): This an open source Android launcher project, started from scratch. We aim to create a powerful and community driven Android launcher.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/BennyKok/OpenLauncher)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.benny.openlauncher)
+
+***
+
 * [SlimLauncher](http://v.ht/rWLo): lightweight aosp based launcher with lots of customizations.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SlimRoms/packages_apps_SlimLauncher)  
