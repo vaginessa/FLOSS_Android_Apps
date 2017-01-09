@@ -66,13 +66,6 @@ _Non-Free Addons_
 
 ***
 
-* [I2P](https://f-droid.org/repository/browse/?fdid=net.i2p.android.router): I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate.
-![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/i2p)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=net.i2p.android.router)
-
-***
-
 * [Master Password](http://www.devland.de/): Password manager that doesn’t store your personal passwords on the device. Instead it generates all passwords on the demand by using a single master password that never leaves the device.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/dkunzler/masterpassword)  
