@@ -60,6 +60,13 @@ _Non-free: Google’s firebase_
 
 ***
 
+* [GigaGet Download Manager](https://f-droid.org/repository/browse/?fdid=us.shandian.giga): Simple, multi-thread download manager.
+![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/PaperAirplane-Dev-Team/GigaGet)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=us.shandian.giga)
+
+***
+
 * [Hangar](http://forum.xda-developers.com/showthread.php?t=2770533): Provides a customizable shortcut launcher in your notification drawer to give you relevant, easy access to your most frequently used apps based on smart filtering algorithms.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/corcoran/Hangar)  
@@ -193,3 +200,10 @@ _Non-Free software: Google Analytics_
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/wikimedia/apps-android-wikipedia)  
 [![](Pictures/F-Droid.png)](http://v.ht/3X1S)  
 _Tracks You_
+
+***
+
+* [Xposed Installer](https://f-droid.org/app/de.robv.android.xposed.installer): Official installer for the Xposed framework.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/rovo89/XposedInstaller)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/app/de.robv.android.xposed.installer)
