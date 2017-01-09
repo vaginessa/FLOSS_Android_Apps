@@ -4,7 +4,7 @@
 
 GitLab repo of my [XDA thread](http://forum.xda-developers.com/android/general/index-floss-list-free-libre-source-apps-t3482219/).
 
-![Number of apps](https://img.shields.io/badge/Apps-196-brightgreen.svg?style=flat-square)  
+![Number of apps](https://img.shields.io/badge/Apps-197-brightgreen.svg?style=flat-square)  
 
 ![License](Pictures/gnu-fdl.png)  
 
@@ -29,6 +29,7 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 | **CATEGORIES** | **SHORT DESCRIPTION** | 
 | :----------- | :----------- | 
 [ALARM CLOCK](Categories/Alarm_clock.md) | Alarm clock, timer and stopwatch
+[BOOKS & REFERENCES](Categories/Books.md) | Translation, books...
 [CALENDAR](Categories/Calendar.md) | Manage your calendars and contacts
 [COMMUNICATION](Categories/Communication.md) | IM / SMS / MMS / Chat / Team collaboration
 [ENTERTAINMENT](Categories/Entertainment.md) | Movies, TV...
