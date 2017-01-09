@@ -68,6 +68,13 @@ _Non-Free Network Services_
 
 ***
 
+* [Surespot](https://play.google.com/store/apps/details?id=com.twofours.surespot): A mobile messaging application that secures all messages using end-to-end encryption.
+![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/surespot/android)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.twofours.surespot)
+
+***
+
 * [Twidere](http://v.ht/hLKR): Microblogging client for Twitter.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/TwidereProject/Twidere-Android)  
