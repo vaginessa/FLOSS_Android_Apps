@@ -9,6 +9,14 @@
 -->
 ## MUSIC and AUDIO
 
+* [Encore](https://play.google.com/store/apps/details?id=com.fastbootmobile.encore.app): An open source, extendable music player for Android.
+![GPL](https://img.shields.io/badge/License-GPL-brightgreen.svg?style=flat-square)[More information](https://github.com/fastbootmobile/encore/blob/master/LICENSES.md)  
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/fastbootmobile/encore)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.fastbootmobile.encore.app)  
+Uses proprietary play-services and some binary jar files.
+
+***
+
 * [Lyrically](http://v.ht/Qjqc): An everywhere lyrics app which can be used by simply swiping a part of your screen. See the lyrics without interrupting what you're doing.
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/shkcodes/Lyrically)  
