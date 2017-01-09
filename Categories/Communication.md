@@ -23,6 +23,13 @@
 
 ***
 
+* [OpenKeychain](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain): Encrypt files and communications with OpenPGP.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/openpgp-keychain/openpgp-keychain)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain)
+
+***
+
 * [QKSMS](http://v.ht/9laI): Replacement for the stock AOSP messaging app.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/qklabs/qksms)  
