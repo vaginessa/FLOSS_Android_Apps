@@ -67,6 +67,13 @@ _Uses play-services, crashlytics and a lot of third-party repositories_
 
 ***
 
+* [SyncOrg](https://f-droid.org/repository/browse/?fdid=com.coste.syncorg): Note taking app that supports Emacs OrgMode.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/wizmer/syncorg)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.coste.syncorg)
+
+***
+
 * [Tasks](http://v.ht/u13o): Fork of Astrid Tasks & To-Do List.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/abaker/tasks)  
