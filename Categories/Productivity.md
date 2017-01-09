@@ -9,6 +9,13 @@
 -->
 ## PRODUCTIVITY
 
+* [AN2Linux](https://f-droid.org/app/kiwi.root.an2linuxclient): Sync Android notifications encrypted to a Linux desktop with tcp or bluetooth.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/rootkiwi/an2linuxclient)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/app/kiwi.root.an2linuxclient)
+
+***
+
 * [LabCoat](https://f-droid.org/app/com.commit451.gitlab): GitLab client.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/Commit451/LabCoat)  
