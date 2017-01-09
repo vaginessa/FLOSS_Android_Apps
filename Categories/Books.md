@@ -7,6 +7,7 @@
     A copy of the license is included in the section entitled "GNU
     Free Documentation License".
 -->
+## BOOKS and REFERENCES
 
 * [QuickDic](https://f-droid.org/repository/browse/?fdid=de.reimardoeffinger.quickdic): Offline translation dictionary.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
