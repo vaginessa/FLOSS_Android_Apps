@@ -23,6 +23,13 @@
 
 ***
 
+* [I2P](https://f-droid.org/repository/browse/?fdid=net.i2p.android.router): I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/i2p)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=net.i2p.android.router)
+
+***
+
 * [OpenKeychain](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain): Encrypt files and communications with OpenPGP.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/openpgp-keychain/openpgp-keychain)  
