@@ -23,6 +23,13 @@
 
 ***
 
+* [Nextcloud](https://f-droid.org/repository/browse/?fdid=com.nextcloud.client): A safe home for all your data. Access & share your files, calendars, contacts, mail & more from any device, on your terms. This is the official Android app.
+![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/nextcloud/android)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.nextcloud.client)
+
+***
+
 * [Nextcloud beta](https://f-droid.org/repository/browse/?fdid=com.nextcloud.android.beta): A safe home for all your data. Access & share your files, calendars, contacts, mail & more from any device, on your terms.
 ![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/nextcloud/android)  
