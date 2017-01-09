@@ -9,6 +9,13 @@
 -->
 ## PRODUCTIVITY
 
+* [LabCoat](https://f-droid.org/app/com.commit451.gitlab): GitLab client.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/Commit451/LabCoat)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/app/com.commit451.gitlab)
+
+***
+
 * [MuPDF](http://v.ht/E7l7): Lightweight document viewer. MuPDF supports PDF 1.7 with transparency, encryption, hyperlinks, annotations, searching, form editing and more. It also reads OpenXPS and CBZ (comic book) documents.
 ![AGPLv3+](https://img.shields.io/badge/License-AGPLv3+-green.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Ghostscript-lightgrey.svg?style=flat-square)](http://git.ghostscript.com/?p=mupdf.git;a=summary)  
