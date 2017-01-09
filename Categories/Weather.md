@@ -15,6 +15,13 @@
 
 ***
 
+* [Geometric Weather](https://play.google.com/store/apps/details?id=wangdaye.com.geometricweather): Worlwide weather app with material design.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/WangDaYeeeeee/GeometricWeather)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=wangdaye.com.geometricweather)
+
+***
+
 * [Good Weather](http://v.ht/PSmE): Show current weather information from OpenWeatherMap.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/qqq3/good-weather)  
