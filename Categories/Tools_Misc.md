@@ -88,6 +88,13 @@ _Several files/threads to download/read_
 
 ***
 
+* [Mather](https://f-droid.org/repository/browse/?fdid=org.icasdri.mather): A powerful expression-based calculator, unit converter, and computation engine.
+![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/icasdri/Mather)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=org.icasdri.mather)
+
+***
+
 * [MatLog](http://v.ht/OBE0): Material-style log reader for Android based on CatLog.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](Pictures/Google_Play.png)](http://v.ht/OBE0)  
