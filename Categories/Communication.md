@@ -9,6 +9,13 @@
 -->
 ## COMMUNICATION : IM / SMS / MMS / CHAT / TEAM COLLABORATION
 
+* [BlitzMail / BlitzNote](https://f-droid.org/repository/browse/?fdfilter=blitzmail&fdid=de.grobox.blitzmail): To set up your email account once and then use it to send emails or short notes to an address of your choice.
+![AGPLv3+](https://img.shields.io/badge/License-AGPLv3+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/grote/BlitzMail)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=blitzmail&fdid=de.grobox.blitzmail)
+
+***
+
 * [Conversations](http://v.ht/XAGO): XMPP client designed with ease of use and security in mind.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/siacs/Conversations)  
