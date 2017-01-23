@@ -116,6 +116,13 @@ _Uses non-free software, namely crashlytics - [Github issue](http://v.ht/FkWI)_
 
 ***
 
+* [oandbackup](https://f-droid.org/repository/browse/?fdid=dk.jens.backup): Make backups of selected apps on your device and restore from those backups.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/jensstein/oandbackup)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=dk.jens.backup)
+
+***
+
 * [Obsqr](http://v.ht/z9AI): Fast and simple QR code scanner that uses the zbar library. Minimalistic design allows you to access QR content with a single tap.
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/trikita/obsqr)  
