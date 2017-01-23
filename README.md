@@ -35,6 +35,7 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 [CRYPTOCURRENCY](Categories/Cryptocurrency.md) | New currencies like Bitcoin
 [ENTERTAINMENT](Categories/Entertainment.md) | Movies, TV...
 [EMAIL](Categories/Email.md) | Self-explanatory
+[FOOD & DRINK](Categories/Food_drink.md) | Know what you eat and drink
 [FRAMEWORK / SERVICES](Categories/Framework.md) | Alternative to Google Play Services, push notifications...
 [FILE MANAGER](Categories/File_manager.md) | Self-explanatory
 [GALLERY](Categories/Gallery.md) | View your pictures and videos
