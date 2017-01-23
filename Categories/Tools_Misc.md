@@ -116,6 +116,14 @@ _Uses non-free software, namely crashlytics - [Github issue](http://v.ht/FkWI)_
 
 ***
 
+* [OpenGapps Downloader](https://f-droid.org/repository/browse/?fdfilter=opengapps&fdid=org.opengappsdownloader): App to auto download opengapps zip files from github.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](hhhhhhhhhhhh)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=opengapps&fdid=org.opengappsdownloader)  
+_Non-Free add-ons_
+
+***
+
 * [Port Authority](https://f-droid.org/repository/browse/?fdid=com.aaronjwood.portauthority): A handy systems and security-focused tool, Port Authority is a very fast port scanner.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/aaronjwood/PortAuthority)  
