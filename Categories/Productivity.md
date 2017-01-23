@@ -57,3 +57,11 @@ _Non-free dependencies: Play Services_
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/vmihalachi/turbo-editor)  
 [![](Pictures/F-Droid.png)](http://v.ht/clQ9)
+
+***
+
+* [Yalp Store](https://f-droid.org/repository/browse/?fdfilter=yalp&fdid=com.github.yeriomin.yalpstore): Download apks from Google Play Store.
+![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/yeriomin/YalpStore)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=yalp&fdid=com.github.yeriomin.yalpstore)  
+_Promotes a non-Free network service_
