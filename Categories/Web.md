@@ -32,6 +32,14 @@ _Non-free crashlytics_
 
 ***
 
+* [Code Aurora SWE Browser](https://forum.xda-developers.com/android/apps-games/app-code-aurora-swe-browser-m55-t3523365): Fully stock and unchanged Code Aurora Snapdragon Optimized Browser.
+![](https://img.shields.io/badge/License-Various-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://source.codeaurora.org/quic/chrome4sdp/)  
+[![](Pictures/3rd-party.png)](https://forum.xda-developers.com/android/apps-games/app-code-aurora-swe-browser-m55-t3523365)  
+[Licenses](https://wiki.codeaurora.org/xwiki/bin/Chromium+for+Snapdragon/#HLicenses)
+
+***
+
 * [Cornowser](http://v.ht/WPjP): based on Chromium/Crosswalk. It is intended to be a fast, modern and inituitive browser. Ad-free.
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/xdevs23/Cornowser)  
