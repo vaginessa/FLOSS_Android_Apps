@@ -210,6 +210,13 @@ _Non-Free software: Google Analytics_
 
 ***
 
+* [TouchDetector](https://f-droid.org/repository/browse/?fdfilter=TouchDetector&fdid=com.msapps.touchdetector): Display your finger touches on screen.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/sujithkanna/TouchDetector)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=TouchDetector&fdid=com.msapps.touchdetector)
+
+***
+
 * [TrebleShot](http://v.ht/ESVR): An pair-to-pair file and text transferring application.
 ![](https://img.shields.io/badge/License-Missing-000000.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/genonbeta/TrebleShot)  
