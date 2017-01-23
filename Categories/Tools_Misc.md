@@ -16,6 +16,13 @@
 
 ***
 
+* [Atomize](https://forum.xda-developers.com/android/apps-games/app-atomize-simple-png-image-compression-t3521092): Atomize can shrink the file size of an image significantly, often by as much as 70%, and maintains an image's transparency with little to no loss in quality. Atomize uses pngquant as its backend, and is fully opensource.
+![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/wrmndfzzy/Atomize)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.wrmndfzzy.atomize)
+
+***
+
 * [BetterBatteryStats](http://v.ht/38wV): Advanced battery stats.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/asksven/BetterBatteryStats)  
