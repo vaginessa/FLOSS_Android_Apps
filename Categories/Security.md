@@ -95,6 +95,13 @@ _Last [F-Droid](http://v.ht/H82W) version is 2.44 since later versions have non-
 
 ***
 
+* [Password Store](https://f-droid.org/repository/browse/?fdfilter=password+store&fdid=com.zeapo.pwdstore): Simple password manager that is compatible with [pass](http://www.passwordstore.org/): Passwords are stored in simple text files which are encrypted with OpenPGP.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/zeapo/Android-Password-Store)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=password+store&fdid=com.zeapo.pwdstore)
+
+***
+
 * [PixelKnot](http://v.ht/AFqD): Hide messages inside files.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/guardianproject/PixelKnot)  
