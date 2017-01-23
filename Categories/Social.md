@@ -46,6 +46,13 @@ _Non-Free Network Services_
 
 ***
 
+* [Movim](https://f-droid.org/repository/browse/?fdfilter=movim&fdid=com.movim.movim): A distributed social networking platform that tries to protect your privacy and comes with a set of interesting features.
+![AGPLv3+](https://img.shields.io/badge/License-AGPLv3+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/movim/movim_android)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=movim&fdid=com.movim.movim)
+
+***
+
 * [RedReader](http://v.ht/q3wA): An unofficial client for the news site reddit.com.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/QuantumBadger/RedReader)  
