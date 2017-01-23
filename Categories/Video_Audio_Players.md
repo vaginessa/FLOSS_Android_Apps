@@ -23,6 +23,13 @@
 
 ***
 
+* [Music](https://forum.xda-developers.com/android/apps-games/app-music-t3506636): A music player based on Auro.
+![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/DominionOS/packages_apps_Music)  
+[![](Pictures/3rd-party.png)](https://github.com/DominionOS/packages_apps_Music/releases/)
+
+***
+
 * [Music Player](http://v.ht/csxi): A clean music player with a customizable widget.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SimpleMobileTools/Simple-Music-Player)  
