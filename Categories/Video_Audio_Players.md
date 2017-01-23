@@ -26,7 +26,8 @@
 * [Music](https://forum.xda-developers.com/android/apps-games/app-music-t3506636): A music player based on Auro.
 ![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/DominionOS/packages_apps_Music)  
-[![](Pictures/3rd-party.png)](https://github.com/DominionOS/packages_apps_Music/releases/)
+[![](Pictures/3rd-party.png)](https://github.com/DominionOS/packages_apps_Music/releases/)  
+_non-free dependencies: Google's firebase_
 
 ***
 
