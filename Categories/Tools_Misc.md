@@ -118,7 +118,7 @@ _Uses non-free software, namely crashlytics - [Github issue](http://v.ht/FkWI)_
 
 * [OpenGapps Downloader](https://f-droid.org/repository/browse/?fdfilter=opengapps&fdid=org.opengappsdownloader): App to auto download opengapps zip files from github.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](hhhhhhhhhhhh)  
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/daktak/opengapps_downloader)  
 [![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=opengapps&fdid=org.opengappsdownloader)  
 _Non-Free add-ons_
 
@@ -157,6 +157,13 @@ _Admob needs to be replaced with a dummy library_
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/raatmarien/red-moon)  
 [![](Pictures/F-Droid.png)](http://v.ht/vKnu)
+
+***
+
+* [Screens](https://f-droid.org/repository/browse/?fdid=uk.co.keepawayfromfire.screens): Automatically enter split screen mode from launcher shortcuts and Quick Settings tiles.
+![SimplifiedBSD](https://img.shields.io/badge/License-SimplifiedBSD-1EC9AA.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Cj-Malone/Screens)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=uk.co.keepawayfromfire.screens)
 
 ***
 
