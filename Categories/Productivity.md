@@ -48,7 +48,8 @@ _[Material Design version here](http://v.ht/P3mE) (Android 5.0+)_
 * [SlimFileManager](https://forum.xda-developers.com/android/apps-games/app-slimfilemanager-t3515110): Open source, lightweight file manager.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/gmillz/SlimFileManager/tree/main)  
-[![](Pictures/3rd-party.png)](https://www.androidfilehost.com/?fid=385035244224404539)
+[![](Pictures/3rd-party.png)](https://www.androidfilehost.com/?fid=385035244224404539)  
+_Uses Play Services_
 
 ***
 
