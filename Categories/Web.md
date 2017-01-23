@@ -13,7 +13,7 @@
 * [BeHe ExploreR](http://forum.xda-developers.com/android/apps-games/app4-0-behe-explorer-internet-browser-t3313025): BeHe ExploreR it's a simple,small and minimalistic internet browser made for experimenting and learning.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/VladThodo/behe-explorer)  
-[![](Pictures/3rd-party.png)](https://github.com/VladThodo/behe-explorer/releases/)
+[![](Pictures/F-Droid.png)](https://f-droid.org/app/com.vlath.beheexplorer)
 
 ***
 
