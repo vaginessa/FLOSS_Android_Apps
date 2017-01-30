@@ -174,6 +174,13 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
+* [Screen Shift](https://f-droid.org/repository/browse/?fdfilter=Screen+Shift&fdid=com.sagar.screenshift2): Change screen resolution, density and overscan.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/aravindsagar/ScreenShift)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=Screen+Shift&fdid=com.sagar.screenshift2)
+
+***
+
 * [Screens](https://f-droid.org/repository/browse/?fdid=uk.co.keepawayfromfire.screens): Automatically enter split screen mode from launcher shortcuts and Quick Settings tiles.
 ![SimplifiedBSD](https://img.shields.io/badge/License-SimplifiedBSD-1EC9AA.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Cj-Malone/Screens)  
