@@ -25,6 +25,13 @@ _Non-free dependencies and crashlytics_
 
 ***
 
+* [Net Monitor](https://f-droid.org/app/org.secuso.privacyfriendlynetmonitor): Monitors active network activity and provides information on the scanned connections and apps. The Connection's local and remote socket information is displayed along with a resolved hostname information and protocol evaluation based on well-known ports.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SecUSo/privacy-friendly-netmonitor)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/app/org.secuso.privacyfriendlynetmonitor)
+
+***
+
 * [Network Log](http://v.ht/4vEn): See what's accessing the internet.
 ![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/pragma-/networklog)  
