@@ -94,7 +94,8 @@ Many Chromium based browsers are available on XDA:
 * [Lucid browser](https://play.google.com/store/apps/details?id=com.powerpoint45.lucidbrowser): Free and open source browser designed to be small, light, fast, and simple.
 ![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/powerpoint45/Lucid-Browser)  
-[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.powerpoint45.lucidbrowser)
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.powerpoint45.lucidbrowser)  
+_Non-free dependencies: Play Services_
 
 ***
 
