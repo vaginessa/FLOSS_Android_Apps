@@ -9,6 +9,13 @@
 -->
 ## LAUNCHER
 
+* [App Launcher](https://f-droid.org/repository/browse/?fdid=com.simplemobiletools.applauncher): A simple holder for your favourite app launchers.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SimpleMobileTools/Simple-App-Launcher)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.simplemobiletools.applauncher)
+
+***
+
 * [Fast Access](http://v.ht/vR0D): A tiny launcher or as Samsung likes to call it Floating Toolbox.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/k0shk0sh/FastAccess)  
@@ -24,6 +31,13 @@ _Uses Firebase (Firebase Cloud Messaging)_
 
 ***
 
+* [Hayai Launcher](https://f-droid.org/repository/browse/?fdid=com.hayaisoftware.launcher): A fast, lightweight search-based launcher.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/seizonsenryaku/HayaiLauncher)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.hayaisoftware.launcher)
+
+***
+
 * [KISS launcher](http://v.ht/JqyL): Search through you app, contacts and settings lightning fast. No more time spent trying to find the app you need to launch: enter a few characters from the name and press enter. Need to phone someone? Don't meddle with the call log, just give three letters of their name and push the "phone" button.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Neamar/KISS)  
@@ -35,6 +49,20 @@ _Uses Firebase (Firebase Cloud Messaging)_
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/BennyKok/OpenLauncher)  
 [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.benny.openlauncher)
+
+***
+
+* [Search Based Launcher](https://f-droid.org/repository/browse/?fdid=com.vackosar.searchbasedlauncher): Minimalistic home-screen.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/vackosar/search-based-launcher/)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.vackosar.searchbasedlauncher)
+
+***
+
+* [Silverfish](https://f-droid.org/repository/browse/?fdid=com.launcher.silverfish): A launcher with a "less is more" philosophy.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/stanipintjuk/Silverfish)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.launcher.silverfish)
 
 ***
 
