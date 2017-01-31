@@ -36,3 +36,12 @@ _Non-Free Assets (the most common case is apps using artwork - images, sounds, m
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/grote/Transportr)  
 [![](Pictures/F-Droid.png)](http://v.ht/jQqp)
+
+***
+
+* [ZANavi](https://f-droid.org/repository/browse/?fdid=com.zoffcc.applications.zanavi): Car Navigation System.
+![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/zoff99/zanavi)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.zoffcc.applications.zanavi)
+
+***
