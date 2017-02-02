@@ -37,6 +37,14 @@
 
 ***
 
+* [IRCCloud](https://play.google.com/store/apps/details?id=com.irccloud.android): Chat on IRC from anywhere, and never miss a message.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/irccloud/android)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.irccloud.android)  
+_Non-free dependencies: Play Services_
+
+***
+
 * [OpenKeychain](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain): Encrypt files and communications with OpenPGP.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/openpgp-keychain/openpgp-keychain)  
