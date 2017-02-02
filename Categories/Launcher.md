@@ -45,6 +45,12 @@ _Uses Firebase (Firebase Cloud Messaging)_
 
 ***
 
+* [LaunchTime](https://f-droid.org/repository/browse/?fdid=com.quaap.launchtime): Alternative homescreen which features a side menu used to organize your apps into common-sense and configurable categories.
+![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/quaap/LaunchTime)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.quaap.launchtime)
+
+***
 
 * [OpenLauncher](https://play.google.com/store/apps/details?id=com.benny.openlauncher): This an open source Android launcher project, started from scratch. We aim to create a powerful and community driven Android launcher.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
