@@ -76,7 +76,7 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 - [Why Open Source misses the point of Free Software](http://v.ht/G4pm)
 - [Liberate Your Device!](http://v.ht/aHEk)
 - [Android without Google](https://android.izzysoft.de/articles/named/android-without-google-1)  
-- [Shadow53](https://shadow53.com/no-gapps/)
+- [How to use Android without Google Play Services](https://shadow53.com/no-gapps/)
 
 ***
 
