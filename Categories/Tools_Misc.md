@@ -130,6 +130,13 @@ _Uses non-free software, namely crashlytics - [Github issue](http://v.ht/FkWI)_
 
 ***
 
+* [OpenAPK](https://f-droid.org/repository/browse/?fdfilter=OpenAPK&fdid=com.dkanada.openapk): A material design app manager forked from ML Manager.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/dkanada/OpenAPK)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=OpenAPK&fdid=com.dkanada.openapk)
+
+***
+
 * [OpenGapps Downloader](https://f-droid.org/repository/browse/?fdfilter=opengapps&fdid=org.opengappsdownloader): App to auto download opengapps zip files from github.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/daktak/opengapps_downloader)  
