@@ -23,6 +23,13 @@
 
 ***
 
+* [LnkShortener](https://f-droid.org/repository/browse/?fdfilter=LnkShortener&fdid=de.hirtenstrasse.michael.lnkshortener): Shortens URL using the Polr API.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/michaelachmann/LnkShortener)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=LnkShortener&fdid=de.hirtenstrasse.michael.lnkshortener)
+
+***
+
 * [MuPDF](http://v.ht/E7l7): Lightweight document viewer. MuPDF supports PDF 1.7 with transparency, encryption, hyperlinks, annotations, searching, form editing and more. It also reads OpenXPS and CBZ (comic book) documents.
 ![AGPLv3+](https://img.shields.io/badge/License-AGPLv3+-green.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Ghostscript-lightgrey.svg?style=flat-square)](http://git.ghostscript.com/?p=mupdf.git;a=summary)  
