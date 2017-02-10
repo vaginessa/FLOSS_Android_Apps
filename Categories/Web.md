@@ -25,10 +25,10 @@ _Non-free crashlytics_
 
 ***
 
-* [Browser](http://v.ht/WBrf): Original Material browser based on webview.
+* [Browser](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=de.baumann.browser): Original Material browser based on webview.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/scoute-dich/browser/)  
-[![](Pictures/3rd-party.png)](http://forum.xda-developers.com/showpost.php?p=69620290&postcount=2)
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=de.baumann.browser)
 
 ***
 
