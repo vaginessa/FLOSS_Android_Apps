@@ -50,4 +50,4 @@ Uses proprietary play-services and some binary jar files.
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/vipersaudio/viper4android_fx)  
 [![](Pictures/3rd-party.png)](http://v.ht/T2LF)  
 ([Universal Fix SELinux Enforcing 6.0+](http://v.ht/zzjZ))  
-Discontinued. Forks are not open source (ViPER4Arise, ViPERFX...)
+Up to Android 5. The source code of newer versions is not available. Forks are not open source (ViPER4Arise, ViPERFX...)
