@@ -23,6 +23,13 @@
 
 ***
 
+* [Delta Chat](https://f-droid.org/repository/browse/?fdid=com.b44t.messenger): Communicate instantly via e-mail.
+![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/r10s/messenger-android)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.b44t.messenger)
+
+***
+
 * [Kontalk](http://v.ht/uhWn): Secure instant messenger, allowing you to send and receive text, image and voice messages to and from other Kontalk users completely free of charge.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/kontalk/androidclient)  
