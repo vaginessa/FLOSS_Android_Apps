@@ -260,6 +260,13 @@ _Tracks You_
 
 ***
 
+* [waut.ch!](https://forum.xda-developers.com/android/apps-games/app-waut-ch-calibration-android-t3549967): Utility for background calibration, curation and tuning of the device towards an intuitive interface.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Openand-I)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=ch.waut)
+
+***
+
 * [Xposed Installer](https://f-droid.org/app/de.robv.android.xposed.installer): Official installer for the Xposed framework.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/rovo89/XposedInstaller)  
