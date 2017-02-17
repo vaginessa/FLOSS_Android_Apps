@@ -37,6 +37,13 @@
 
 ***
 
+* [Omni Notes FOSS](https://f-droid.org/repository/browse/?fdfilter=omni&fdid=it.feio.android.omninotes.foss): FOSS version of Omni Notes app.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/federicoiosue/Omni-Notes)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=omni&fdid=it.feio.android.omninotes.foss)
+
+***
+
 * [Omni Notes](http://v.ht/isNI): Note taking open-source application aimed to have both a simple interface but keeping smart behavior.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/federicoiosue/Omni-Notes)  
