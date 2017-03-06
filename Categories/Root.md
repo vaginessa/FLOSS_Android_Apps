@@ -9,6 +9,20 @@
 -->
 ## ROOT
 
+* [iSU](https://forum.xda-developers.com/android/apps-games/isu-simple-app-to-deactivate-activate-t3478348): Deactivate/Activates CyanogenMod/LineageOS SU at will.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/bhb27/isu)  
+[![](Pictures/3rd-party.png)](https://forum.xda-developers.com/android/apps-games/isu-simple-app-to-deactivate-activate-t3478348)
+
+***
+
+* [MagiskSU](http://v.ht/zoff): Magic Mask to Alter System Systemless-ly.  
+[All source are mentioned there](http://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)  
+[![](Pictures/3rd-party.png)](http://v.ht/zoff)  
+_Several files/threads to download/read_
+
+***
+
 * [phh's SuperUser](http://v.ht/UyAH): OpenSource SELinux-capable SuperUser. Fork of Koush's Superuser. Read the XDA thread for more information!
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/seSuperuser/Superuser)  
