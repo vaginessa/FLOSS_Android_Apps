@@ -9,10 +9,10 @@
 -->
 ## ALARM CLOCK / TIMER / STOPWATCH
 
-* [Clock+](https://play.google.com/store/apps/details?id=com.philliphsu.clock2): Alternative to the Google Clock app for Android, featuring UI/UX enhancements and new time pickers.
-![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+* [Clock+](https://f-droid.org/repository/browse/?fdfilter=clock&fdid=com.philliphsu.clock2): Alternative to the Google Clock app for Android, featuring UI/UX enhancements and new time pickers.
+![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](http://v.ht/HXbd)  
-[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.philliphsu.clock2)
+[![](Pictures/F-droid.png)](https://f-droid.org/repository/browse/?fdfilter=clock&fdid=com.philliphsu.clock2)
 
 ***
 
