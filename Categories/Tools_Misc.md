@@ -88,13 +88,6 @@ _Non-free: Google’s firebase_
 
 ***
 
-* [Magisk](http://v.ht/zoff): Magic Mask to Alter System Systemless-ly.  
-[All source are mentioned there](http://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)  
-[![](Pictures/3rd-party.png)](http://v.ht/zoff)  
-_Several files/threads to download/read_
-
-***
-
 * [Mather](https://f-droid.org/repository/browse/?fdid=org.icasdri.mather): A powerful expression-based calculator, unit converter, and computation engine.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/icasdri/Mather)  
