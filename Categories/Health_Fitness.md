@@ -16,6 +16,13 @@
 
 ***
 
+* [openScale](https://f-droid.org/repository/browse/?fdfilter=openScale&fdid=com.health.openscale): Log your weight, body fat, water and muscle percentage.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/oliexdev/openScale)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=openScale&fdid=com.health.openscale)
+
+***
+
 * [Quit Smoking](https://f-droid.org/repository/browse/?fdid=de.baumann.quitsmoking): Application to help smokers to quit smoking.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/scoute-dich/QuitSmoking)  
