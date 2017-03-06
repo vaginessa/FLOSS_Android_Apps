@@ -23,6 +23,13 @@
 
 ***
 
+* [Note Crypt Pro](https://f-droid.org/repository/browse/?fdid=com.notecryptpro): Keep your notes safe and secure.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/RyuzakiKK/NoteCrypt)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.notecryptpro)
+
+***
+
 * [Notepad](http://v.ht/Y7ds): Simple note taking app that let's you draw on notes.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/szafir1100/drawable-notepad)  
