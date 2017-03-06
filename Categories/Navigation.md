@@ -12,7 +12,8 @@
 * [LibreTaxi](http://libretaxi.org/): Free and open source alternative to Uber/Lyft connecting passengers and drivers.
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/ro31337/libretaxi)  
-[![](Pictures/3rd-party.png)](http://libretaxi.org/)
+[![](Pictures/3rd-party.png)](http://libretaxi.org/)  
+_non-free dependencies_
 
 ***
 
