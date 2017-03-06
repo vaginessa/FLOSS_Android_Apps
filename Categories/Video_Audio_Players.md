@@ -60,10 +60,10 @@ _Non-Free Network Services_
 
 ***
 
-* [SoundWaves](http://v.ht/ZiuP): Manage, fetch and listen to podcasts.
+* [Shuttle](https://play.google.com/store/apps/details?id=another.music.player): A famous music player.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/bottiger/SoundWaves)  
-[![](Pictures/F-Droid.png)](http://v.ht/ZiuP)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://www.github.com/timusus/Shuttle)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=another.music.player)
 
 ***
 
@@ -72,6 +72,13 @@ _Non-Free Network Services_
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/ram-on/SkyTube)  
 [![](Pictures/F-Droid.png)](http://v.ht/oatg)  
 _Non-Free Network Services_
+
+***
+
+* [SoundWaves](http://v.ht/ZiuP): Manage, fetch and listen to podcasts.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/bottiger/SoundWaves)  
+[![](Pictures/F-Droid.png)](http://v.ht/ZiuP)
 
 ***
 
