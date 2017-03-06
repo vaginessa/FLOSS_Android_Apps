@@ -13,7 +13,14 @@
 ![GPL](https://img.shields.io/badge/License-GPL-brightgreen.svg?style=flat-square)[More information](https://github.com/fastbootmobile/encore/blob/master/LICENSES.md)  
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/fastbootmobile/encore)  
 [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.fastbootmobile.encore.app)  
-Uses proprietary play-services and some binary jar files.
+_Uses proprietary play-services and some binary jar files_
+
+***
+
+* [Audinaut](https://f-droid.org/repository/browse/?fdfilter=Audinaut&fdid=net.nullsum.audinaut): Connect to a libresonic instance and access your media.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/nvllsvm/Audinaut)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=Audinaut&fdid=net.nullsum.audinaut)
 
 ***
 
