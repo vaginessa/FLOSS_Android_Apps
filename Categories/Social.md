@@ -82,6 +82,13 @@ _Non-Free Network Services_
 
 ***
 
+* [Tusky](https://f-droid.org/repository/browse/?fdid=com.keylesspalace.tusky): Share words, photos, and videos with others.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Vavassor/Tusky)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.keylesspalace.tusky)
+
+***
+
 * [Twidere](http://v.ht/hLKR): Microblogging client for Twitter.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/TwidereProject/Twidere-Android)  
