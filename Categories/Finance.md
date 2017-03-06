@@ -7,7 +7,7 @@
     A copy of the license is included in the section entitled "GNU
     Free Documentation License".
 -->
-## CRYPTOCURRENCY
+## FINANCE
 
 * [ABCore](https://f-droid.org/repository/browse/?fdfilter=bitcoin&fdid=com.greenaddress.abcore): ABCore is a wrapper for Bitcoin Core for Android.
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
