@@ -59,6 +59,7 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 [TOOLS & MISC](Categories/Tools_Misc.md) | Many tools and stuff with no dedicated category
 [TORRENT](Categories/Torrent.md) | Self-explanatory
 [VIDEO / AUDIO PLAYERS](Categories/Video_Audio_Players.md) | Video/Audio players and editors
+[VEHICLES](Categories/Vehicles.md) | Auto, taxi, gas
 [WEATHER](Categories/Weather.md) | Self-explanatory
 [WEB BROWSER](Categories/Web.md) | Self-explanatory
 
