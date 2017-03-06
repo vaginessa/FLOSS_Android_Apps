@@ -45,6 +45,13 @@ Uses non-free dependencies: Google’s firebase.
 
 ***
 
+* [EtherPay](https://play.google.com/store/apps/details?id=com.bringcommunications.etherpay): Ether Wallet app for Android.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/dbenrosen/EtherPay)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.bringcommunications.etherpay)
+
+***
+
 * [GreenBits](https://f-droid.org/repository/browse/?fdfilter=bitcoin&fdid=com.greenaddress.greenbits_android_wallet): GreenBits is a Bitcoin Wallet for Android provided by GreenAddress. The wallet main strengths are security, privacy, easy of use and aims is to provide a great user experience.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/greenaddress/GreenBits)  
