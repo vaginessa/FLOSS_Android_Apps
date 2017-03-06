@@ -9,6 +9,13 @@
 -->
 ## NAVIGATION / MAPS / GPS
 
+* [LibreTaxi](http://libretaxi.org/): Free and open source alternative to Uber/Lyft connecting passengers and drivers.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/ro31337/libretaxi)  
+[![](Pictures/3rd-party.png)](http://libretaxi.org/)
+
+***
+
 * [Maps.me](http://v.ht/3Stm): An open source cross-platform offline maps application, built on top of crowd-sourced OpenStreetMap data.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/mapsme/omim/)  
