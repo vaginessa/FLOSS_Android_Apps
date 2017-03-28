@@ -30,6 +30,13 @@
 
 ***
 
+* [Play Music Exporter](https://f-droid.org/repository/browse/?fdid=re.jcg.playmusicexporter): This app allows you to export your music from Play Music onto your internal storage, or even some DocumentsProvider.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/jcgruenhage/PlayMusicExporter)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=re.jcg.playmusicexporter)
+
+***
+
 * [RadioDroid](http://v.ht/xoOG1): Browse and stream internet radios.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/segler-alex/RadioDroid)  
