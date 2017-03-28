@@ -9,6 +9,13 @@
 -->
 ## NEWS / RSS FEEDS
 
+* [Feeder](https://f-droid.org/repository/browse/?fdfilter=Feeder&fdid=com.nononsenseapps.feeder): This is a no-nonsense RSS/Atom feed reader app for Android.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/spacecowboy/feeder)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=Feeder&fdid=com.nononsenseapps.feeder)
+
+***
+
 * [Flym](http://v.ht/4HY6) and [spaRSS](http://v.ht/626Z): It checks RSS/Atom news feeds, polling for updates from the device on a regular basis. Fetched items are available for offline reading.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source Flym-Github-lightgrey.svg?style=flat-square)](https://github.com/FredJul/Flym) [![](https://img.shields.io/badge/Source spaRSS-Github-lightgrey.svg?style=flat-square)](https://github.com/Etuldan/spaRSS)  
