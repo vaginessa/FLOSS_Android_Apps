@@ -9,6 +9,13 @@
 -->
 ## NOTES / REMINDERS / TODO LIST
 
+* [Laverna](https://laverna.cc/index.html): Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
+![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Laverna/laverna/)  
+[![](Pictures/3rd-party.png)](https://github.com/Laverna/laverna/releases)
+
+***
+
 * [Memento](https://github.com/yaa110/Memento/releases/): A simple note taking app (categories, drawing notes, backup/restore, Rich Text WYSIWYG Editor...).
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/yaa110/Memento)  
