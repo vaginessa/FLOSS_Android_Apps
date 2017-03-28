@@ -196,6 +196,13 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
+* [SELinuxToggler](https://forum.xda-developers.com/android/apps-games/app-selinuxtoggler-t3574688): This app can change the SELinux Modes without having to permanently modify the boot script files of the device.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/ibuprophen1/SELinuxToggler)  
+[![](Pictures/3rd-party.png)](https://forum.xda-developers.com/devdb/project/?id=19837#downloads)
+
+***
+
 * [Share via HTTP](http://v.ht/eRI3d): Share files from your phone to one or many, quickly and easily.
 ![NewBSD](https://img.shields.io/badge/License-NewBSD-25B3D6.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/marcosdiez/shareviahttp)  
