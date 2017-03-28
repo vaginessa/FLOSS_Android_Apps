@@ -4,7 +4,7 @@
 
 GitLab repo of my [XDA thread](http://forum.xda-developers.com/android/general/index-floss-list-free-libre-source-apps-t3482219/).
 
-![Number of apps](https://img.shields.io/badge/Apps-250-brightgreen.svg?style=flat-square)  
+![Number of apps](https://img.shields.io/badge/Apps-265-brightgreen.svg?style=flat-square)  
 
 ![License](Pictures/gnu-fdl.png)  
 
