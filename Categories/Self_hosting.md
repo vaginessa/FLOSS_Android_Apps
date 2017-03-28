@@ -23,6 +23,13 @@
 
 ***
 
+* [MyOwnNotes](https://f-droid.org/repository/browse/?fdfilter=MyOwnNotes&fdid=org.aykit.MyOwnNotes): Create, edit, delete and sync your notes with ownCloud.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/aykit/MyOwnNotes)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=MyOwnNotes&fdid=org.aykit.MyOwnNotes)
+
+***
+
 * [Nextcloud](https://f-droid.org/repository/browse/?fdid=com.nextcloud.client): A safe home for all your data. Access & share your files, calendars, contacts, mail & more from any device, on your terms. This is the official Android app.
 ![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/nextcloud/android)  
