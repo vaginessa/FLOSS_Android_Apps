@@ -53,6 +53,13 @@ _Non-Free Network Services_
 
 ***
 
+* [Phonograph](https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone): A material designed local music player for Android.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/kabouzeid/Phonograph)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone)
+
+***
+
 * [PodListen](http://v.ht/tG3t): Podcast player with lightweight interface.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/einmalfel/PodListen)  
