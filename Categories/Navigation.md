@@ -40,6 +40,14 @@ _Non-Free Assets (the most common case is apps using artwork - images, sounds, m
 
 ***
 
+* [Street­Complete](https://f-droid.org/repository/browse/?fdid=de.westnordost.streetcomplete): Help to improve the OpenStreetMap with StreetComplete!  
+This app finds incomplete and extendable data in your vicinity and displays it on a map as markers. Each of those is solvable by answering a simple question to complete the info on site.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/westnordost/StreetComplete)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=de.westnordost.streetcomplete)
+
+***
+
 * [Transportr](http://v.ht/jQqp): The public transport companion that respects your privacy and your freedom. Transportr is a non-profit app developed by people around the world to make using public transport as easy as possible wherever you are.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/grote/Transportr)  
