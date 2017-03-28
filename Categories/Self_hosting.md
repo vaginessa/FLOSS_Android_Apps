@@ -37,6 +37,13 @@
 
 ***
 
+* [Nextcloud SMS](https://f-droid.org/repository/browse/?fdid=fr.unix_experience.owncloud_sms): App to synchronize your SMS messages on a remote NextCloud instance and let you read your messages from it.
+![AGPLv3](https://img.shields.io/badge/License-AGPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/nerzhul/ownCloud-SMS-App)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=fr.unix_experience.owncloud_sms)
+
+***
+
 * [OwnCloud](http://v.ht/KDTH): A free software package you can install on a server to manage files, contacts, calendars, music, pictures and much more. This is the official Android app which enables you to view and upload files.
 ![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/owncloud/android)  
