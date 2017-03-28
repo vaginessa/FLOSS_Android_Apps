@@ -66,6 +66,13 @@ _Non-Free Addons_
 
 ***
 
+* [Lesspass](https://lesspass.com/): LessPass derives a site, a login and a master password to generate a unique password. This means you can manage your passwords locally without having to sync your password vault across every device.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/lesspass/cordova)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.lesspass.android)
+
+***
+
 * [Master Password](http://www.devland.de/): Password manager that doesn’t store your personal passwords on the device. Instead it generates all passwords on the demand by using a single master password that never leaves the device.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/dkunzler/masterpassword)  
