@@ -116,6 +116,13 @@ _Uses play-services, crashlytics and a lot of third-party repositories_
 
 ***
 
+* [TagSpaces](https://www.tagspaces.org/): TagSpaces is an offline, open source, personal data manager. It helps you organize files on your Windows, Linux, Android or Mac.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/tagspaces/tagspaces)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=org.tagspaces.androidle)
+
+***
+
 * [Tasks](http://v.ht/u13o): Fork of Astrid Tasks & To-Do List.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/abaker/tasks)  
