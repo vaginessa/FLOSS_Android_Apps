@@ -32,6 +32,13 @@ _[Reasons why you don't find it on F-droid](https://webcache.googleusercontent.c
 
 ***
 
+* [OpenStreetCam](https://play.google.com/store/apps/details?id=com.telenav.streetview): Capture and submit street level images. These can be explored online or used to help improve OpenStreetMaps.
+![LGPL](https://img.shields.io/badge/License-LGPLv3-green.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/openstreetview/android)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.telenav.streetview)
+
+***
+
 * [OsmAnd](http://v.ht/iXyL): Offline/online maps and navigation.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/osmandapp/Osmand)  
