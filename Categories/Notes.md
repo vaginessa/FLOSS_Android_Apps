@@ -66,6 +66,13 @@ _Uses Google Analytics, play-services, personal repos_
 
 ***
 
+* [Orgzly](https://f-droid.org/repository/browse/?fdfilter=Orgzly&fdid=com.orgzly): Orgzly stores notebooks in plain-text and keeps them where you choose to.
+![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/orgzly/orgzly-android)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=Orgzly&fdid=com.orgzly)
+
+***
+
 * [Recurrence](http://v.ht/8KxI): Get reminded about notifications.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/jonasbleyl/Recurrence)  
