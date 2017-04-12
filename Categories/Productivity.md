@@ -16,6 +16,13 @@
 
 ***
 
+* [Audio Recorder](https://play.google.com/store/apps/details?id=com.github.axet.audiorecorder): Audio Recorder with custom recording folder, nice recording volume indicator, recording notification, recording lock screen activity.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/axet/android-audio-recorder)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.github.axet.audiorecorder)
+
+***
+
 * [CuprumPDF](https://f-droid.org/repository/browse/?fdid=org.ninthfloor.copperpdf): View PDF files via pdf.js embedded into a WebView.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/paride/CopperPDF)  
