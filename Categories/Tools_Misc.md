@@ -146,6 +146,13 @@ _Non-Free add-ons_
 
 ***
 
+* [PhoneProfilesPlus](https://play.google.com/store/apps/details?id=sk.henrichg.phoneprofilesplus): Android application - manualy and event triggered change of device settings like ringer mode, sounds, Wifi, Bluetooth, launcher wallpaper.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/henrichg/PhoneProfilesPlus)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=sk.henrichg.phoneprofilesplus)
+
+***
+
 * [Port Authority](https://f-droid.org/repository/browse/?fdid=com.aaronjwood.portauthority): A handy systems and security-focused tool, Port Authority is a very fast port scanner.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/aaronjwood/PortAuthority)  
