@@ -267,6 +267,13 @@ _Non-Free software: Google Analytics_
 
 ***
 
+* [Unit Converter Ultimate](https://f-droid.org/repository/browse/?fdfilter=unit+converter&fdid=com.physphil.android.unitconverterultimate): A simple and easy-to-use unit converter to handle any conversion you'll ever need.
+![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/physphil/UnitConverterUltimate)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=unit+converter&fdid=com.physphil.android.unitconverterultimate)
+
+***
+
 * [Wikipedia](http://v.ht/3X1S): Official Wikipedia application.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/wikimedia/apps-android-wikipedia)  
