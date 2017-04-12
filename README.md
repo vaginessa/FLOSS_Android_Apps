@@ -8,8 +8,6 @@ GitLab repo of my [XDA thread](http://forum.xda-developers.com/android/general/i
 
 ![License](Pictures/gnu-fdl.png)  
 
-![Twitter](https://img.shields.io/badge/Twitter-@primokorn-blue.svg?style=flat-square)
-
 ---
 
 I use Android phones for 5 years but I'm interested in FLOSS development for only 1 year. Conlusion? `FLOSS apps` are very important for the community (not only for Android OS) but they are often underestimated or not well known.
