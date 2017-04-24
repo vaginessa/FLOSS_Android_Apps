@@ -238,6 +238,13 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
+* [SystemUI Tuner](https://forum.xda-developers.com/android/apps-games/app-systemui-tuner-t3588675): A replica of Android's SystemUI Tuner + extras.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/zacharee/SystemUITuner2/)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.zacharee1.systemuituner)
+
+***
+
 * [Taskbar](http://v.ht/cAWj): Puts a start menu and recent apps tray on top of your screen accessible at any time.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/farmerbb/Taskbar)  
