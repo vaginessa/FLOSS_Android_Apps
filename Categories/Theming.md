@@ -8,6 +8,13 @@
     Free Documentation License".
 -->
 
+* [AMOLED mnml](https://forum.xda-developers.com/android/apps-games/app-amoled-mnml-free-minimalistic-t3593574): A fully free & Ad-free wallpaper app with lots of Minimalistic AMOLED wallpapers which are updated daily.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/AlienCreature7/AMOLED-mnml-wallpaper-app)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=yasanq.amoledmnml.wallpapers)
+
+***
+
 * [Blue Minimal](http://v.ht/ayrf): A Material Design inspired theme for Lollipop aiming to provide a consistent and minimalistic look to your device.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/scoute-dich/Baumann_Theme)  
