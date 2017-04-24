@@ -303,6 +303,13 @@ _Tracks You_
 
 ***
 
+* [WiFiAnalyzer](https://f-droid.org/repository/browse/?fdid=com.vrem.wifianalyzer): Optimize your WiFi network by examining surrounding WiFi networks, measuring their signal strength as well as identifying crowded channels.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/VREMSoftwareDevelopment/WifiAnalyzer)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.vrem.wifianalyzer)
+
+***
+
 * [Xposed Installer](https://f-droid.org/app/de.robv.android.xposed.installer): Official installer for the Xposed framework.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/rovo89/XposedInstaller)  
