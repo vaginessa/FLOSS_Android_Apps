@@ -30,6 +30,13 @@
 
 ***
 
+* [Kodis](https://github.com/iamareebjamal/Kodis/): Text editor that features basic file management(Create files and/or folders), syntax highlighting, multi-sessions support, etc.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/iamareebjamal/Kodis)  
+[![](Pictures/3rd-party.png)](https://github.com/iamareebjamal/Kodis/releases)
+
+***
+
 * [LabCoat](https://f-droid.org/app/com.commit451.gitlab): GitLab client.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/Commit451/LabCoat)  
