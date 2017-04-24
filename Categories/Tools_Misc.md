@@ -38,6 +38,13 @@ _Upstream Non-Free_
 
 ***
 
+* [BirthDayDroid](https://f-droid.org/repository/browse/?fdfilter=BirthDayDroid&fdid=com.tmendes.birthdaydroid): Helps you to remember your contact's birthdays. It scans your local contact list looking for birthdays.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/trmendes/BirthDayDroid)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=BirthDayDroid&fdid=com.tmendes.birthdaydroid)
+
+***
+
 * [Busybox](http://v.ht/GTJt): Install a recent and un-crippled version of BusyBox.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/meefik/busybox)  
