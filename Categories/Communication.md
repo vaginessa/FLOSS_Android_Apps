@@ -107,3 +107,12 @@ _Non-free components. 3rd party builds NOT allowed. Google Play Services._
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/slp/Telegram-FOSS)  
 [![](Pictures/F-Droid.png)](http://v.ht/4DyJ)  
 _Non-Free Network Services_
+
+***
+
+* [Wire Messenger](https://wire.com/): The safest open-audited E2EE app. Security white-paper and independent studies exist. Open source both on client and on server.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/wireapp)  
+[![](Pictures/F-Droid.png)](https://play.google.com/store/apps/details?id=com.wire)  
+APK available [here](https://wire.com/en/download/)  
+_Non-free dependencies_
