@@ -109,6 +109,13 @@ _Uses play-services, crashlytics and a lot of third-party repositories_
 
 ***
 
+* [Standard Notes](https://standardnotes.org/): A simple notes app that delivers only the essentials in note-taking. It's fast, syncs your notes on almost every device, supports strong encryption and privacy, gives you 100% data ownership, and supports custom extensions like Markdown and Dropbox Sync.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/standardnotes/android)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=org.standardnotes.notes)
+
+***
+
 * [SyncOrg](https://f-droid.org/repository/browse/?fdid=com.coste.syncorg): Note taking app that supports Emacs OrgMode.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/wizmer/syncorg)  
