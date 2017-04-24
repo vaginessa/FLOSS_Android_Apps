@@ -23,6 +23,13 @@
 
 ***
 
+* [Diode](https://f-droid.org/repository/browse/?fdfilter=Diode&fdid=in.shick.diode): A quick and easy access to Reddit on your device complete with login, commenting and submissions.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/zagaberoo/diode)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=Diode&fdid=in.shick.diode)
+
+***
+
 * [Face Slim](http://v.ht/VyZJ): Unofficial app built around the mobile Facebook site.
 ![GPLv2+](https://img.shields.io/badge/License-GPLv2+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/indywidualny/FaceSlim)  
