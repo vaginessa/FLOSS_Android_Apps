@@ -25,6 +25,13 @@ _[Reasons why you don't find it on F-droid](https://webcache.googleusercontent.c
 
 ***
 
+* [Marble Maps](https://play.google.com/store/apps/details?id=org.kde.marble.maps): OpenStreetMap viewing/navigation.
+![GPL-2.1](https://img.shields.io/badge/License-GPL2.1-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Git-lightgrey.svg?style=flat-square)](https://cgit.kde.org/marble.git/)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=org.kde.marble.maps)
+
+***
+
 * [OpenMapKit](http://v.ht/bCDyn): Browse OpenStreetMap features to create and edit OSM tags.
 ![BSD](https://img.shields.io/badge/License-BSD-1EC9AA.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/AmericanRedCross/OpenMapKitAndroid)  
