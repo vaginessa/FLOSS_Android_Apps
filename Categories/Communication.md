@@ -84,7 +84,8 @@ _Non-free dependencies: Play Services_
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/WhisperSystems/Signal-Android)  
 [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)  
-_Non-free components. 3rd party builds NOT allowed. Google Play Services._
+_Non-free components. 3rd party builds NOT allowed. Google Play Services._  
+These official [apk files](https://signal.org/android/apk/) shouldn't have Play Services dependencies. Moxie doesn't want to offer Signal on F-Droid so don't hold your breath.
 
 ***
 
