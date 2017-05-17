@@ -245,6 +245,13 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
+* [Signature Spoofing Checker](https://github.com/Lanchon/sigspoof-checker/releases): This Android app tests the signature spoofing capability of your OS as required by the [microG Project](https://forum.xda-developers.com/android/apps-games/app-microg-gmscore-floss-play-services-t3217616).
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Lanchon/sigspoof-checker)  
+[![](Pictures/3rd-party.png)](https://github.com/Lanchon/sigspoof-checker/releases)
+
+***
+
 * [SMS Backup+](http://v.ht/IL1T): Backup SMS and call logs to IMAP.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/jberkel/sms-backup-plus)  
