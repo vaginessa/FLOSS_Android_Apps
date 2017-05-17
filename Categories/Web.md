@@ -77,6 +77,14 @@ Many Chromium based browsers are available on XDA:
 
 ***
 
+* [Jelly](https://forum.xda-developers.com/android/apps-games/apk-jelly-browser-t3600876): Stock browser of Lineage OS custom ROM.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/LineageOS/android_packages_apps_Jelly)  
+[![](Pictures/3rd-party.png)](https://forum.xda-developers.com/android/apps-games/apk-jelly-browser-t3600876)  
+(of course, available on builds of Lineage OS custom ROM)
+
+***
+
 * [JumpGo](http://v.ht/bxGD): A fast, reliable and easy to use way to browse the web! Based on Lightning.
 ![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/JTechMe/JumpGo)  
