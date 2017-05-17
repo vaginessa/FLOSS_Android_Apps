@@ -16,6 +16,13 @@
 
 ***
 
+* [Circle of Music App](http://circleofmusic-sidzi.rhcloud.com): A basic music player, with add to favorite feature, alarm, Monthly picks and more...
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Circle-Of-Music-Makers/com-android)  
+[![](Pictures/3rd-party.png)](http://circleofmusic-sidzi.rhcloud.com/circle-of-music.apk)
+
+***
+
 * [Encore](https://play.google.com/store/apps/details?id=com.fastbootmobile.encore.app): An open source, extendable music player for Android.
 ![GPL](https://img.shields.io/badge/License-GPL-brightgreen.svg?style=flat-square)[More information](https://github.com/fastbootmobile/encore/blob/master/LICENSES.md)  
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/fastbootmobile/encore)  
