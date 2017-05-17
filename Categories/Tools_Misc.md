@@ -167,6 +167,13 @@ _Non-Free add-ons_
 
 ***
 
+* [OpenLink With](https://f-droid.org/repository/browse/?fdid=com.tasomaniac.openwith.floss): Open the current webpage you have in another app.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/tasomaniac/OpenLinkWith/)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.tasomaniac.openwith.floss)
+
+***
+
 * [PhoneProfilesPlus](https://play.google.com/store/apps/details?id=sk.henrichg.phoneprofilesplus): Android application - manualy and event triggered change of device settings like ringer mode, sounds, Wifi, Bluetooth, launcher wallpaper.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/henrichg/PhoneProfilesPlus)  
