@@ -16,6 +16,13 @@
 
 ***
 
+* [Android CUPS Print](https://f-droid.org/repository/browse/?fdid=io.github.benoitduffez.cupsprint): Have a local printer shared over CUPS or IPP? Then this app allows you to directly print to it from your Android device.
+![LGPLv3](https://img.shields.io/badge/License-LGPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/BenoitDuffez/AndroidCupsPrint/tree/fdroid)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=io.github.benoitduffez.cupsprint)
+
+***
+
 * [Audio Recorder](https://play.google.com/store/apps/details?id=com.github.axet.audiorecorder): Audio Recorder with custom recording folder, nice recording volume indicator, recording notification, recording lock screen activity.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/axet/android-audio-recorder)  
