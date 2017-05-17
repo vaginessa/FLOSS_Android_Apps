@@ -1,5 +1,5 @@
 <!--
-    Copyright (C)  2016 PRIMOKORN.
+    Copyright (C)  2017 PRIMOKORN.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
@@ -8,6 +8,13 @@
     Free Documentation License".
 -->
 ## NOTES / REMINDERS / TODO LIST
+
+* [Kolab Notes](https://f-droid.org/repository/browse/?fdid=org.kore.kolabnotes.android): Take notes locally and optionally sync them with Kolab and IMAP servers in the Kolab v3 storage format.
+![LGPL-3.0](https://img.shields.io/badge/License-LGPL-3.0-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/konradrenner/kolabnotes-android)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=org.kore.kolabnotes.android)
+
+***
 
 * [Laverna](https://laverna.cc/index.html): Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 ![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
