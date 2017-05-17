@@ -24,6 +24,13 @@ _Uses proprietary play-services and some binary jar files_
 
 ***
 
+* [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi): An award-winning free and open source cross-platform software media player and entertainment hub for digital media for HTPCs (Home theater PCs).
+![GPLv2+](https://img.shields.io/badge/License-GPLv2+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/xbmc/xbmc)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=org.xbmc.kodi)
+
+***
+
 * [Material Player](http://v.ht/fX3P): Simple audiobook player.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Ph1b/MaterialAudiobookPlayer)  
