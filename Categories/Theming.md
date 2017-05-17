@@ -64,6 +64,14 @@
 
 ***
 
+* [Muzei](https://f-droid.org/repository/browse/?fdfilter=Muzei&fdid=net.nurik.roman.muzei): A live wallpaper that gently refreshes your home screen each day with famous works of art.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/romannurik/muzei)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=Muzei&fdid=net.nurik.roman.muzei)  
+_The upstream source code is non-free_
+
+***
+
 * [Mysplash photography & wallpaper](https://play.google.com/store/apps/details?id=com.wangdaye.mysplash): Unsplash Client.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/WangDaYeeeeee/Mysplash)  
