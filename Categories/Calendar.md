@@ -1,5 +1,5 @@
 <!--
-    Copyright (C)  2016 PRIMOKORN.
+    Copyright (C)  2017 PRIMOKORN.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
@@ -9,17 +9,24 @@
 -->
 ## CALENDARS / CONTACTS
 
-* [Calendar](http://v.ht/LHAu): A simple calendar with events and a customizable widget.
+* [Calendar](https://f-droid.org/repository/browse/?fdfilter=Calendar&fdid=com.simplemobiletools.calendar): A simple calendar with events and a customizable widget.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SimpleMobileTools/Simple-Calendar)  
-[![](Pictures/F-Droid.png)](http://v.ht/LHAu)
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=Calendar&fdid=com.simplemobiletools.calendar)
 
 ***
 
-* [Calendar Import-Export](http://v.ht/sRMe): Import/Export calendars via ics files.
+* [Calendar Import-Export](https://f-droid.org/repository/browse/?fdfilter=calendar+import&fdid=org.sufficientlysecure.ical): Import/Export calendars via ics files.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SufficientlySecure/calendar-import-export)  
-[![](Pictures/F-Droid.png)](http://v.ht/sRMe)
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=calendar+import&fdid=org.sufficientlysecure.ical)
+
+***
+
+* [Calendar Widget](https://f-droid.org/repository/browse/?fdid=com.plusonelabs.calendar): Home screen widget displaying a list of upcoming calendar events so that you can easily have a glimpse of your upcoming appointments.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/plusonelabs/calendar-widget)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.plusonelabs.calendar)
 
 ***
 
