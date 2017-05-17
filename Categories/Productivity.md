@@ -1,5 +1,5 @@
 <!--
-    Copyright (C)  2016 PRIMOKORN.
+    Copyright (C)  2017 PRIMOKORN.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
@@ -27,6 +27,14 @@
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/paride/CopperPDF)  
 [![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=org.ninthfloor.copperpdf)
+
+***
+
+* [Fasthub](https://f-droid.org/repository/browse/?fdid=com.fastaccess.github): Yet another open-source GitHub client app but unlike any other app, FastHub was built from scratch.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/k0shk0sh/FastHub)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.fastaccess.github)  
+_Promotes a non-Free network service_
 
 ***
 
