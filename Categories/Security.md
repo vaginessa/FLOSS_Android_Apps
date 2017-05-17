@@ -1,5 +1,5 @@
 <!--
-    Copyright (C)  2016 PRIMOKORN.
+    Copyright (C)  2017 PRIMOKORN.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
@@ -52,10 +52,10 @@ _Non-Free Addons_
 
 ***
 
-* [Keepass2Android](http://v.ht/PPE4): Fork of KeePassDroid. Password manager. It reads and writes .kdbx-files, the database format used by the popular KeePass 2.x Password Safe.
+* [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android ): Fork of KeePassDroid. Password manager. It reads and writes .kdbx-files, the database format used by the popular KeePass 2.x Password Safe.
 ![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](http://v.ht/S3EI)  
-[![](Pictures/Google_Play.png)](http://v.ht/PPE4)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://keepass2android.codeplex.com/)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=keepass2android.keepass2android )
 
 ***
 
