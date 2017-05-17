@@ -51,7 +51,7 @@
 
 ***
 
-* [ViPER4Android FX](http://v.ht/T2LF): Popular audio mod.
+* [ViPER4Android FX](http://v.ht/T2LF) (interface only): Popular audio mod.
 ![](https://img.shields.io/badge/License-Missing-000000.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/vipersaudio/viper4android_fx)  
 [![](Pictures/3rd-party.png)](http://v.ht/T2LF)  
