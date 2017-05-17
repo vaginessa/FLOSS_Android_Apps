@@ -1,5 +1,5 @@
 <!--
-    Copyright (C)  2016 PRIMOKORN.
+    Copyright (C)  2017 PRIMOKORN.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
@@ -8,6 +8,13 @@
     Free Documentation License".
 -->
 ## SOCIAL
+
+* [11t](https://play.google.com/store/apps/details?id=com.jeroensmeets.mastodon): App for connecting to Mastodon, written in FuseTools. 11t lets you use any Mastodon instance.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/jeroensmeets/mastodon-app)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.jeroensmeets.mastodon)
+
+***
 
 * [AndStatus](https://f-droid.org/repository/browse/?fdid=org.andstatus.app): A low traffic social networking client with tree-like threaded conversations. It supports multiple protocols, including GNU social/StatusNet (e.g. Quitter, LoadAverage, Vinilox etc.), Twitter and Pump.io. It combines your accounts from all networks into one timeline and allows you reading and posting even while you are offline.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
@@ -79,6 +86,13 @@ _Non-Free Network Services_
 [![](https://img.shields.io/badge/Source Facebook-Github-lightgrey.svg?style=flat-square)](https://github.com/rignaneseleo/SlimSocial-for-Facebook) [![](https://img.shields.io/badge/Source Twitter-Github-lightgrey.svg?style=flat-square)](https://github.com/rignaneseleo/SlimSocial-for-Twitter)  
 [![](Pictures/F-Droid.png)](http://v.ht/ZTvN) [![](Pictures/F-Droid.png)](http://v.ht/C1Hy)  
 _Non-Free Network Services_
+
+***
+
+* [SubwayTooter](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter): Another Mastodon client app.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/tateisu/SubwayTooter)  
+[![](Pictures/F-Droid.png)](https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter)
 
 ***
 
