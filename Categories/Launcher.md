@@ -24,6 +24,14 @@ _Uses Firebase (Firebase Cloud Messaging)_
 
 ***
 
+* [Flick Launcher](https://play.google.com/store/apps/details?id=com.universallauncher.universallauncher): Pixel Launcher (with a few tweaks) for everyone!
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/michelelacorte/FlickLauncher)  
+Free version [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.universallauncher.universallauncher)  
+Pro version [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.universallauncher.flicklauncherpro)
+
+***
+
 * [G2L](http://v.ht/GZ0U): Define gestures to launch an action like an app, a phone call or playing a song.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/easwareapps/g2l-gesture-launcher)  
