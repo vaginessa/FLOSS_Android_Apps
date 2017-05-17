@@ -1,5 +1,5 @@
 <!--
-    Copyright (C)  2016 PRIMOKORN.
+    Copyright (C)  2017 PRIMOKORN.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
@@ -53,6 +53,13 @@ _Non-free crashlytics_
 [![](https://img.shields.io/badge/Source-Mozilla-lightgrey.svg?style=flat-square)](http://hg.mozilla.org/)  
 [![](Pictures/F-Droid.png)](http://v.ht/7TI2)  
 _Non-Free Addons - Tracks You - Upstream Non-Free_
+
+***
+
+* [Firefox Focus](https://forum.xda-developers.com/android/apps-games/4-1-focus-mozilla-t3605123) : Browse like no one’s watching. The new Firefox Focus automatically blocks a wide range of online trackers — from the moment you launch it to the second you leave it. Easily erase your history, passwords and cookies, so you won’t get followed by things like unwanted ads.
+![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/mozilla-mobile/focus-android)  
+[![](Pictures/3rd-party.png)](https://forum.xda-developers.com/android/apps-games/4-1-focus-mozilla-t3605123)
 
 ***
 
