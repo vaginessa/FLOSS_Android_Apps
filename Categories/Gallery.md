@@ -30,10 +30,10 @@
 
 ***
 
-* [Gallery](http://v.ht/3C93): A gallery for viewing photos and videos.
-![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SimpleMobileTools/Simple-Gallery)  
-[![](Pictures/F-Droid.png)](http://v.ht/3C93)
+* [Gallery](https://forum.xda-developers.com/android/apps-games/gallery-want-gallery-app-simple-t3619264): Designed to be easy to use and simple.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/enricocid/Gallery)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.enrico.gallery.galleryapp)
 
 ***
 
@@ -56,3 +56,10 @@
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](http://v.ht/fD2Q)  
 [![](Pictures/Google_Play.png)](http://v.ht/LaAl)  
 _Includes non-free software: crashlytics/fabric_
+
+***
+
+* [Simple Gallery](http://v.ht/3C93): A gallery for viewing photos and videos.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SimpleMobileTools/Simple-Gallery)  
+[![](Pictures/F-Droid.png)](http://v.ht/3C93)
