@@ -23,6 +23,13 @@
 
 ***
 
+* [Camera Roll](https://play.google.com/store/apps/details?id=us.koller.cameraroll): Simple Gallery App for Android, with lovely Material Design.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/kollerlukas/Camera-Roll-Android-App)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=us.koller.cameraroll)
+
+***
+
 * [Gallery](http://v.ht/3C93): A gallery for viewing photos and videos.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SimpleMobileTools/Simple-Gallery)  
