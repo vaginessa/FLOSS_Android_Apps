@@ -95,6 +95,13 @@ Pro version [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/d
 
 ***
 
+* [SlimLauncher (Fork)](https://forum.xda-developers.com/android/apps-games/app-5-slimlauncher-t3611099): Fork of popular Slimlauncher from SlimRoms + new features.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/scoute-dich/packages_apps_SlimLauncher)  
+[![](Pictures/3rd-party.png)](https://forum.xda-developers.com/showpost.php?p=72402889&postcount=3)
+
+***
+
 * [T-UI](http://v.ht/3DzZ): Launcher, which emulates a unix-like shell and its terminal interface, that is adpated for the use on mobile devices. It also implements a lot of commands.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Andre1299/TUI-ConsoleLauncher)  
