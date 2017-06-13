@@ -53,6 +53,13 @@ Pro version [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/d
 
 ***
 
+* [Launcher3 with Pixel Launcher features](https://forum.xda-developers.com/android/apps-games/launcher3-pixel-launcher-features-t3620972)
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/amirzaidi/Launcher3)  
+[![](Pictures/3rd-party.png)](https://github.com/amirzaidi/Launcher3/releases)
+
+***
+
 * [LaunchTime](https://f-droid.org/repository/browse/?fdid=com.quaap.launchtime): Alternative homescreen which features a side menu used to organize your apps into common-sense and configurable categories.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/quaap/LaunchTime)  
