@@ -44,7 +44,7 @@
 
 ***
 
-* [Reformed DSP Manager](https://forum.xda-developers.com/android/apps-games/app-reformed-dsp-manager-t3607970): .
+* [Reformed DSP Manager](https://forum.xda-developers.com/android/apps-games/app-reformed-dsp-manager-t3607970): Advanced audio DSP features with extra audio experience and able to run in all android rom include Samsung, AOSP, Cyanogenmod and all CPU platform.
 ![GPLv2+](https://img.shields.io/badge/License-GPLv2+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/james34602/JamesDSPManager/)  
 [![](Pictures/3rd-party.png)](https://github.com/james34602/JamesDSPManager/releases)
