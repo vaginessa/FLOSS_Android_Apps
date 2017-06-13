@@ -45,6 +45,13 @@ _Promotes a non-Free network service_
 
 ***
 
+* [HyperTrack Live](https://forum.xda-developers.com/android/apps-games/source-hypertrack-live-android-app-t3604751): Let your friends and family track you on a map when you are on the way. No more phone calls asking where you are.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/hypertrack/hypertrack-live-android)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=io.hypertrack.sendeta)
+
+***
+
 * [Kodis](https://github.com/iamareebjamal/Kodis/): Text editor that features basic file management(Create files and/or folders), syntax highlighting, multi-sessions support, etc.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/iamareebjamal/Kodis)  
