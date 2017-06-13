@@ -31,6 +31,13 @@ _Non-Free Addons_
 
 ***
 
+* [Daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus): No root required Android DNS modifier and hosts/DNSMasq resolver.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/iTXTech/Daedalus)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=org.itxtech.daedalus)
+
+***
+
 * [DNS66](http://v.ht/Uy3w): Allows blocking host names via DNS. This can be used for ad blocking. It also allows other DNS servers to be added, for more privacy.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/julian-klode/dns66)  
