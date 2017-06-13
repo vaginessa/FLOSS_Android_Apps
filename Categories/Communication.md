@@ -1,5 +1,5 @@
 <!--
-    Copyright (C)  2016 PRIMOKORN.
+    Copyright (C)  2017 PRIMOKORN.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
@@ -56,6 +56,13 @@ _Non-free dependencies: Play Services_
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/openpgp-keychain/openpgp-keychain)  
 [![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain)
+
+***
+
+* [Pix-Art Messenger](https://github.com/kriztan/Pix-Art-Messenger/): Based on Conversations (XMPP / Jabber Messenger).
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/kriztan/Pix-Art-Messenger/)  
+[![](Pictures/3rd-party.png)](https://github.com/kriztan/Pix-Art-Messenger/releases)
 
 ***
 
