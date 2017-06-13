@@ -44,6 +44,13 @@
 
 ***
 
+* [Reformed DSP Manager](https://forum.xda-developers.com/android/apps-games/app-reformed-dsp-manager-t3607970): .
+![GPLv2+](https://img.shields.io/badge/License-GPLv2+-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/james34602/JamesDSPManager/)  
+[![](Pictures/3rd-party.png)](https://github.com/james34602/JamesDSPManager/releases)
+
+***
+
 * [Transcribe](https://github.com/p-edelman/Transcribe): A tool for people who need to transcribe audio recordings to text (more specifically, people that are slow typists and have sticky fingers.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/p-edelman/Transcribe)  
