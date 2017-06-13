@@ -1,5 +1,5 @@
 <!--
-    Copyright (C)  2016 PRIMOKORN.
+    Copyright (C)  2017 PRIMOKORN.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
@@ -20,6 +20,13 @@
 ![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/wrmndfzzy/Atomize)  
 [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.wrmndfzzy.atomize)
+
+***
+
+* [Batch uninstaller](https://play.google.com/store/apps/details?id=com.saha.batchuninstaller): Uninstall multiple apps at once (only if root permission is available, otherwise need to confirm each time).
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/sarbajitsaha/Batch-Uninstaller)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.saha.batchuninstaller)
 
 ***
 
