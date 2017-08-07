@@ -1,4 +1,9 @@
-<!--
+* [NOM](hhhhhhhhhhhhhh): .
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](hhhhhhhhhhhh)  
+[![](Pictures/F-Droid.png)](hhhhhhhhhhhhhhh)
+
+***<!--
     Copyright (C)  2016 PRIMOKORN.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
@@ -42,6 +47,15 @@ _Uses proprietary play-services and some binary jar files_
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Ph1b/MaterialAudiobookPlayer)  
 [![](Pictures/F-Droid.png)](http://v.ht/fX3P)
+
+***
+
+* [mpv for Android](https://github.com/mpv-android/mpv-android): .
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/mpv-android/mpv-android)  
+[![](Pictures/F-Droid.png)](https://apt.izzysoft.de/fdroid/index/apk/is.xyz.mpv)(additional repo Izzysoft required)
+[![](Pictures/3rd-party.png)](https://github.com/mpv-android/mpv-android/releases)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=is.xyz.mpv)
 
 ***
 
