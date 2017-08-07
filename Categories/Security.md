@@ -24,6 +24,15 @@ _Non-Free Addons_
 
 ***
 
+* [andOTP](https://forum.xda-developers.com/android/apps-games/app-andotp-android-otp-authenticator-t3636993): OTP Authenticator.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/flocke/andOTP)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.shadowice.flocke.andotp/)
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=org.shadowice.flocke.andotp)
+[![](Pictures/3rd-party.png)](https://github.com/flocke/andOTP/releases)
+
+***
+
 * [Bitwarden](http://v.ht/5uWB): Stores all of your logins and passwords while conveniently keeping them synced between all of your devices (multi platforms). 100% free.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/bitwarden)  
