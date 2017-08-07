@@ -130,6 +130,13 @@ _Uses non-free software, namely crashlytics - [Github issue](http://v.ht/FkWI)_
 
 ***
 
+* [Media Merger](https://f-droid.org/packages/com.github.axet.mover//): Utitily moves /sdcard/DCIM/* and /sdcard/Pictures/Screenshots to user specified folder.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/axet/android-media-merger/tree/HEAD)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.github.axet.mover//)
+
+***
+
 * [Night Screen](http://v.ht/aU7S): Prevent your eyes from being hurt by screen light.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/fython/Blackbulb)  
