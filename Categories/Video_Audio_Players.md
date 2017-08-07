@@ -89,6 +89,13 @@ _Non-Free Network Services_
 
 ***
 
+* [Ringdroid](https://f-droid.org/packages/com.ringdroid/): For editing and creating your own ringtones, alarms, and notification sounds.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/google/ringdroid/)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.ringdroid/)
+
+***
+
 * [Shuttle](https://play.google.com/store/apps/details?id=another.music.player): A famous music player.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://www.github.com/timusus/Shuttle)  
