@@ -67,6 +67,13 @@ Pro version [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/d
 
 ***
 
+* [Lawnchair](https://forum.xda-developers.com/android/apps-games/lawnchair-customizable-pixel-launcher-t3627137): free, open source launcher aiming at bringing Pixel Launcher features to other devices.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Deletescape-Media/Lawnchair)  
+[![](Pictures/3rd-party.png)](https://github.com/Deletescape-Media/Lawnchair/releases)
+
+***
+
 * [OpenLauncher](https://play.google.com/store/apps/details?id=com.benny.openlauncher): This an open source Android launcher project, started from scratch. We aim to create a powerful and community driven Android launcher.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/BennyKok/OpenLauncher)  
