@@ -23,6 +23,13 @@
 
 ***
 
+* [Android Samba Client](https://play.google.com/store/apps/details?id=com.google.android.sambadocumentsprovider): Access network file shares directly from the Android Downloads/Files app.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/google/samba-documents-provider)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.google.android.sambadocumentsprovider)
+
+***
+
 * [Audio Recorder](https://play.google.com/store/apps/details?id=com.github.axet.audiorecorder): Audio Recorder with custom recording folder, nice recording volume indicator, recording notification, recording lock screen activity.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/axet/android-audio-recorder)  
