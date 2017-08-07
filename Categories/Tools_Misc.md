@@ -59,6 +59,13 @@ _Upstream Non-Free_
 
 ***
 
+* [Call Recorder](https://f-droid.org/packages/com.github.axet.callrecorder//): Simple call recorder, no ads, open-source.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/axet/android-call-recorder/tree/HEAD)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.github.axet.callrecorder//)
+
+***
+
 * [Dukto](https://play.google.com/store/apps/details?id=it.msec.dukto): An easy file transfer tool designed for LAN use. Transfer files from one PC (or other device) to another, without worrying about users, permissions, operating systems, protocols, clients, servers and so on...
 ![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Sourceforge-lightgrey.svg?style=flat-square)](https://sourceforge.net/projects/dukto/)  
