@@ -9,6 +9,14 @@
 -->
 ## TORRENT
 
+* [FrostWire](http://www.frostwire.com/): An easy to use Cloud Downloader, BitTorrent Client and Media Player. Search, Download, Play, Share.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/frostwire/frostwire)  
+[![](Pictures/3rd-party.png)](https://github.com/frostwire/frostwire/releases)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.frostwire.android)
+
+***
+
 * [LibreTorrent](http://v.ht/CnN4): Torrent client for Android 4 and later, based on libtorrent. Download and share files directly on your device.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/proninyaroslav/libretorrent)  
