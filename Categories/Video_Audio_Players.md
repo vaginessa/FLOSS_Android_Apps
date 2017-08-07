@@ -53,7 +53,7 @@ _Uses proprietary play-services and some binary jar files_
 * [mpv for Android](https://github.com/mpv-android/mpv-android): .
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/mpv-android/mpv-android)  
-[![](Pictures/F-Droid.png)](https://apt.izzysoft.de/fdroid/index/apk/is.xyz.mpv)(additional repo Izzysoft required)
+[![](Pictures/F-Droid.png)](https://apt.izzysoft.de/fdroid/index/apk/is.xyz.mpv)(additional repo Izzysoft required)  
 [![](Pictures/3rd-party.png)](https://github.com/mpv-android/mpv-android/releases)  
 [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=is.xyz.mpv)
 
