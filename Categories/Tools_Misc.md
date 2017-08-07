@@ -224,6 +224,13 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
+* [RunInBackgroundSetter](https://forum.xda-developers.com/android/apps-games/app-runinbackgroundsetter-v1-0-t3637705): App to use android's hidden RUN_IN_BACKGROUND permission to restrict app's background behavior.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/MrBIMC/RunInBackgroundPermissionSetter)  
+[![](Pictures/3rd-party.png)](https://github.com/MrBIMC/RunInBackgroundPermissionSetter/releases)
+
+***
+
 * [Screen Shift](https://f-droid.org/repository/browse/?fdfilter=Screen+Shift&fdid=com.sagar.screenshift2): Change screen resolution, density and overscan.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/aravindsagar/ScreenShift)  
