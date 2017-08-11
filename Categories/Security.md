@@ -161,6 +161,14 @@ _Non-free dependencies: Play Services_
 
 ***
 
+* [Umbrella](http://www.secfirst.org/): Digital and Physical Security Advice App.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/securityfirst/Umbrella_android)  
+[![](Pictures/F-Droid.png)](https://secfirst.org/fdroid/repo)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=org.secfirst.umbrella)
+
+***
+
 * [Wi-Fi Privacy Police](http://v.ht/xHWR): Prevents your smartphone or tablet from leaking privacy sensitive information via Wi-Fi networks.
 ![GPLv2+](https://img.shields.io/badge/License-GPLv2+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/BramBonne/privacypolice)  
