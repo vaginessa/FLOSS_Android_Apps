@@ -67,6 +67,13 @@ _Non-Free Network Services_
 
 ***
 
+* [Peerio 2](https://www.peerio.com/): A messaging, email, file management, and team collaboration platform. Always encrypted.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/PeerioTechnologies/peerio-mobile)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.peerio.app)
+
+***
+
 * [RedReader](http://v.ht/q3wA): An unofficial client for the news site reddit.com.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/QuantumBadger/RedReader)  
