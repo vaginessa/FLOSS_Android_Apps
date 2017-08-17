@@ -66,6 +66,14 @@ _Other OwnCloud apps are available on F-Droid_
 
 ***
 
+* [Syncopoli](https://f-droid.org/packages/org.amoradi.syncopoli/): FAn rsync client that allows you to backup files/directories on your phone to your remote server.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://gitlab.com/fengshaun/syncopoli/tree/HEAD)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.amoradi.syncopoli/)
+
+
+***
+
 * [Syncthing](http://v.ht/ZwZX): File synchronization. Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
 ![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/syncthing/syncthing-android)  
