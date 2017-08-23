@@ -16,6 +16,13 @@
 
 ***
 
+* [Briar](https://briarproject.org/index.html): Secure messaging, anywhere.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://code.briarproject.org/akwizgran/briar/tree/master)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=org.briarproject.briar.beta)
+
+***
+
 * [Conversations](http://v.ht/XAGO): XMPP client designed with ease of use and security in mind.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/siacs/Conversations)  
