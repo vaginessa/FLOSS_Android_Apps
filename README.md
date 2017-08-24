@@ -66,16 +66,16 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 
 
 ## REFERENCES
-- [What is free software?](http://v.ht/BCtj)
-- [Why 'Free Software' is better than 'Open Source'](http://v.ht/BmlF)
-- [Various Licenses and Comments about Them](http://v.ht/lChF)
-- [F-Droid's Inclusion Policy](http://v.ht/iTAZo)
+- [What is free software?](https://www.gnu.org/philosophy/free-sw.en.html)
+- [Why 'Free Software' is better than 'Open Source'](https://www.gnu.org/philosophy/free-software-for-freedom.en.html)
+- [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.en.html)
+- [F-Droid's Inclusion Policy](https://f-droid.org/wiki/page/Inclusion_Policy)
 - [F-Droid's Antifeatures](https://f-droid.org/wiki/page/Antifeatures)
-- [alternativeto.net](http://v.ht/0vYQ)
-- [Droid-Break](http://v.ht/8K8z)
-- [FLOSS and FOSS](http://v.ht/uw6c)
-- [Why Open Source misses the point of Free Software](http://v.ht/G4pm)
-- [Liberate Your Device!](http://v.ht/aHEk)
+- [alternativeto.net](http://alternativeto.net/)
+- [Droid-Break](https://droid-break.info/)
+- [FLOSS and FOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html)
+- [Why Open Source misses the point of Free Software](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html)
+- [Liberate Your Device!](https://fsfe.org/campaigns/android/liberate.en.html)
 - [Android without Google](https://android.izzysoft.de/articles/named/android-without-google-1)  
 - [How to use Android without Google Play Services](https://shadow53.com/no-gapps/)
 
