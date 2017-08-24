@@ -52,6 +52,13 @@ _Upstream Non-Free_
 
 ***
 
+* [Brevent](https://forum.xda-developers.com/android/apps-games/introduce-brevent-black-prevent-root-t3559151): Brevent, black prevent, can app-standby (Since Android 6.0) or force-stop apps without ROOT, prevent apps from running in long time (Greenify alternative).
+![WTFPL](https://img.shields.io/badge/License-WTFPL-b02b2b.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/brevent/Brevent)  
+[![](Pictures/3rd-party.png)](http://piebridge.me/br/)  [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=me.piebridge.brevent)
+
+***
+
 * [Busybox](http://v.ht/GTJt): Install a recent and un-crippled version of BusyBox.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/meefik/busybox)  
