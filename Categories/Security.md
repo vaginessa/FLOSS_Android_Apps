@@ -43,7 +43,7 @@ _Non-Free Addons_
 * [Blokada](https://github.com/blokadaorg/blokada): Free, open source, compact, fast ad blocker for Android that works for all apps and does not require root.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/blokadaorg/blokada)  
-[![](Pictures/3rd-party.png)](https://github.com/blokadaorg/blokada/releases)
+[![](Pictures/3rd-party.png)](https://github.com/blokadaorg/blokada/releases) [![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.blokada.alarm/)
 
 ***
 
