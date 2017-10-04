@@ -1,5 +1,5 @@
 <!--
-    Copyright (C)  2016 PRIMOKORN.
+    Copyright (C)  2017 PRIMOKORN.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
@@ -17,17 +17,17 @@
 
 ***
 
-* [LibreTorrent](http://v.ht/CnN4): Torrent client for Android 4 and later, based on libtorrent. Download and share files directly on your device.
+* [LibreTorrent](https://forum.xda-developers.com/android/apps-games/libretorrent-t3483550): Torrent client for Android 4 and later, based on libtorrent. Download and share files directly on your device.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/proninyaroslav/libretorrent)  
 [![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=libretorrent&fdid=org.proninyaroslav.libretorrent)
 
 ***
 
-* [Transdroid](http://v.ht/Hsl8): Allows you to manage your torrents.
+* [Transdroid](https://f-droid.org/packages/org.transdroid.full/): Allows you to manage your torrents.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/erickok/transdroid)  
-[![](Pictures/F-Droid.png)](http://v.ht/Hsl8)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.transdroid.full/)
 
 ***
 
