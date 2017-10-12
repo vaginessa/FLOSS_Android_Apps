@@ -266,6 +266,13 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
+* [SecScanQR](https://f-droid.org/packages/de.t_dankworth.secscanqr/): Scan QR codes and share them right away with friends or copy them to the clipboard for further processing. Furthermore, with SecScanQR you can generate QR codes and all these features without a big amount of permission.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Fr4gorSoftware/SecScanQR)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/de.t_dankworth.secscanqr/)
+
+***
+
 * [SELinuxToggler](https://forum.xda-developers.com/android/apps-games/app-selinuxtoggler-t3574688): This app can change the SELinux Modes without having to permanently modify the boot script files of the device.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/ibuprophen1/SELinuxToggler)  
