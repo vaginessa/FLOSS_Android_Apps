@@ -30,6 +30,13 @@
 
 ***
 
+* [App Watcher](https://play.google.com/store/apps/details?id=com.anod.appwatcher): Helps you to follow updates of applications in Play Store that are not installed currently on your device.  
+![CC-AS 3.0](https://img.shields.io/badge/License-CC-AS 3.0-9327E8.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://github.com/anod/AppWatcher)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.anod.appwatcher)
+
+***
+
 * [Audio Recorder](https://play.google.com/store/apps/details?id=com.github.axet.audiorecorder): Audio Recorder with custom recording folder, nice recording volume indicator, recording notification, recording lock screen activity.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/axet/android-audio-recorder)  
