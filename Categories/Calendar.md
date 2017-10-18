@@ -52,4 +52,5 @@
 
 ***
 
-[All F-Droid apps related to Calendar](https://f-droid.org/en/packages/#q=calendar)
+• [All F-Droid apps related to Calendar](https://f-droid.org/en/packages/#q=calendar)  
+• [All F-Droid apps related to Contacts](https://f-droid.org/en/packages/#q=contacts)
