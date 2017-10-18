@@ -9,7 +9,7 @@
 -->
 ## MONITOR
 
-* [Kernel Adiutor](http://v.ht/whYi): Manages your kernel parameters.
+* [Kernel Adiutor](https://forum.xda-developers.com/android/apps-games/app-kernel-adiutor-t2986129): Manages your kernel parameters.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Grarak/KernelAdiutor)  
 [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor)  
@@ -25,31 +25,24 @@ _Non-free dependencies and crashlytics_
 
 ***
 
-* [Net Monitor](https://f-droid.org/app/org.secuso.privacyfriendlynetmonitor): Monitors active network activity and provides information on the scanned connections and apps. The Connection's local and remote socket information is displayed along with a resolved hostname information and protocol evaluation based on well-known ports.
+* [Net Monitor](https://f-droid.org/packages/org.secuso.privacyfriendlynetmonitor): Monitors active network activity and provides information on the scanned connections and apps. The Connection's local and remote socket information is displayed along with a resolved hostname information and protocol evaluation based on well-known ports.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SecUSo/privacy-friendly-netmonitor)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/app/org.secuso.privacyfriendlynetmonitor)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.secuso.privacyfriendlynetmonitor)
 
 ***
 
-* [Network Log](http://v.ht/4vEn): See what's accessing the internet.
-![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/pragma-/networklog)  
-[![](Pictures/F-Droid.png)](http://v.ht/4vEn)
-
-***
-
-* [Network Monitor](http://v.ht/yLLn): Check network connectivity.
+* [Network Monitor](https://f-droid.org/packages/ca.rmen.android.networkmonitor/): Check network connectivity.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/caarmen/network-monitor)  
-[![](Pictures/F-Droid.png)](http://v.ht/yLLn)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/ca.rmen.android.networkmonitor/)
 
 ***
 
-* [OS Monitor](http://v.ht/hi6b): Monitor the Operating System.
+* [OS Monitor](https://f-droid.org/en/packages/com.eolwral.osmonitor/): Monitor the Operating System.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/eolwral/OSMonitor)  
-[![](Pictures/F-Droid.png)](http://v.ht/hi6b)
+[![](Pictures/F-Droid.png)](https://f-droid.org/en/packages/com.eolwral.osmonitor/)
 
 ***
 
@@ -59,7 +52,7 @@ _Non-free dependencies and crashlytics_
 
 ***
 
-* [Wirebug](http://v.ht/jKO6): Enables or disables debugging over Wi-Fi.
+* [Wirebug](https://f-droid.org/packages/com.github.sryze.wirebug/): Enables or disables debugging over Wi-Fi.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/sryze/wirebug)  
-[![](Pictures/F-Droid.png)](http://v.ht/jKO6)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.github.sryze.wirebug/)
