@@ -9,10 +9,10 @@
 -->
 ## COMMUNICATION : IM / SMS / MMS / CHAT / TEAM COLLABORATION
 
-* [BlitzMail / BlitzNote](https://f-droid.org/repository/browse/?fdfilter=blitzmail&fdid=de.grobox.blitzmail): To set up your email account once and then use it to send emails or short notes to an address of your choice.
+* [BlitzMail / BlitzNote](https://f-droid.org/packages/de.grobox.blitzmail): To set up your email account once and then use it to send emails or short notes to an address of your choice.
 ![AGPLv3+](https://img.shields.io/badge/License-AGPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/grote/BlitzMail)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=blitzmail&fdid=de.grobox.blitzmail)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/de.grobox.blitzmail)
 
 ***
 
@@ -23,31 +23,31 @@
 
 ***
 
-* [Conversations](http://v.ht/XAGO): XMPP client designed with ease of use and security in mind.
+* [Conversations](https://f-droid.org/packages/eu.siacs.conversations/): XMPP client designed with ease of use and security in mind.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/siacs/Conversations)  
-[![](Pictures/F-Droid.png)](http://v.ht/XAGO)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/eu.siacs.conversations/)
 
 ***
 
-* [Delta Chat](https://f-droid.org/repository/browse/?fdid=com.b44t.messenger): Communicate instantly via e-mail.
+* [Delta Chat](https://f-droid.org/packages/com.b44t.messenger): Communicate instantly via e-mail.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/r10s/messenger-android)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.b44t.messenger)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.b44t.messenger)
 
 ***
 
-* [Kontalk](http://v.ht/uhWn): Secure instant messenger, allowing you to send and receive text, image and voice messages to and from other Kontalk users completely free of charge.
+* [Kontalk](https://f-droid.org/packages/org.kontalk/): Secure instant messenger, allowing you to send and receive text, image and voice messages to and from other Kontalk users completely free of charge.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/kontalk/androidclient)  
-[![](Pictures/F-Droid.png)](http://v.ht/uhWn)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.kontalk/)
 
 ***
 
-* [I2P](https://f-droid.org/repository/browse/?fdid=net.i2p.android.router): I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate.
+* [I2P](https://f-droid.org/packages/net.i2p.android.router): I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/i2p)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=net.i2p.android.router)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/net.i2p.android.router)
 
 ***
 
@@ -59,10 +59,10 @@ _Non-free dependencies: Play Services_
 
 ***
 
-* [OpenKeychain](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain): Encrypt files and communications with OpenPGP.
+* [OpenKeychain](https://f-droid.org/packages/org.sufficientlysecure.keychain): Encrypt files and communications with OpenPGP.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/openpgp-keychain/openpgp-keychain)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=org.sufficientlysecure.keychain)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.sufficientlysecure.keychain)
 
 ***
 
@@ -73,28 +73,28 @@ _Non-free dependencies: Play Services_
 
 ***
 
-* [QKSMS](http://v.ht/9laI): Replacement for the stock AOSP messaging app.
+* [QKSMS](https://f-droid.org/packages/com.moez.QKSMS/): Replacement for the stock AOSP messaging app.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/qklabs/qksms)  
-[![](Pictures/F-Droid.png)](http://v.ht/9laI)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.moez.QKSMS/)
 
 ***
 
-* [Ring](https://f-droid.org/repository/browse/?fdid=cx.ring): Ring (formerly SFLphone) is a free distributed multimedia communication software. It is developed by Savoir-faire Linux with the help of a global community of users and contributors. Savoir-faire Linux is a Canadian company specialized in Linux and free software.
+* [Ring](https://f-droid.org/packages/cx.ring): Ring (formerly SFLphone) is a free distributed multimedia communication software. It is developed by Savoir-faire Linux with the help of a global community of users and contributors. Savoir-faire Linux is a Canadian company specialized in Linux and free software.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://ring.cx/en/documentation/faq#node-106)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=cx.ring)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/cx.ring)
 
 ***
 
-* [Riot](http://v.ht/klH6): Open team collaboration.
+* [Riot.im](https://f-droid.org/packages/im.vector.alpha/): Open team collaboration.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/vector-im/vector-android)  
-[![](Pictures/F-Droid.png)](http://v.ht/klH6)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/im.vector.alpha/)
 
 ***
 
-* [Signal](http://v.ht/5XLr): Messaging app for simple private communication with friends.
+* [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms): Messaging app for simple private communication with friends.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/WhisperSystems/Signal-Android)  
 [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)  
@@ -103,24 +103,24 @@ These official [apk files](https://signal.org/android/apk/) shouldn't have Play 
 
 ***
 
-* [Silence](http://v.ht/3Do5): SMS/MMS application that allows you to protect your privacy while communicating with friends. Using Silence, you can send SMS messages and share media or attachments with complete privacy.
+* [Silence](https://f-droid.org/packages/org.smssecure.smssecure/): SMS/MMS application that allows you to protect your privacy while communicating with friends. Using Silence, you can send SMS messages and share media or attachments with complete privacy.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SilenceIM/Silence)  
-[![](Pictures/F-Droid.png)](http://v.ht/3Do5)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.smssecure.smssecure/)
 
 ***
 
-* [Simple IRC](https://f-droid.org/repository/browse/?fdid=tk.jordynsmediagroup.simpleirc.fdroid): A simple IRC client based on Atomic.
+* [Simple IRC](https://f-droid.org/packages/tk.jordynsmediagroup.simpleirc.fdroid): A simple IRC client based on Atomic.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/jcjordyn130/simpleirc)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=tk.jordynsmediagroup.simpleirc.fdroid)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/tk.jordynsmediagroup.simpleirc.fdroid)
 
 ***
 
-* [Telegram](http://v.ht/4DyJ): Chat with friends, start group chats and share all kinds of content. All of your messages and conversations are stored in Telegram's cloud.
+* [Telegram](https://f-droid.org/packages/org.telegram.messenger/): Chat with friends, start group chats and share all kinds of content. All of your messages and conversations are stored in Telegram's cloud.
 ![GPLv2+](https://img.shields.io/badge/License-GPLv2+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/slp/Telegram-FOSS)  
-[![](Pictures/F-Droid.png)](http://v.ht/4DyJ)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.telegram.messenger/)  
 _Non-Free Network Services_
 
 ***
