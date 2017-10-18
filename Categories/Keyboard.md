@@ -1,5 +1,5 @@
 <!--
-    Copyright (C)  2016 PRIMOKORN.
+    Copyright (C)  2016-2017 PRIMOKORN.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
@@ -9,10 +9,10 @@
 -->
 ## KEYBOARD / CLIPBOARD
 
-* [AnySoftKeyboard](http://v.ht/D9ye): AOSP LatinIME Keyboard with enhancements.  
+* [AnySoftKeyboard](https://f-droid.org/packages/com.menny.android.anysoftkeyboard/): AOSP LatinIME Keyboard with enhancements.  
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/AnySoftKeyboard/AnySoftKeyboard)  
-[![](Pictures/F-Droid.png)](http://v.ht/D9ye)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.menny.android.anysoftkeyboard/)
 
 ***
 
@@ -23,7 +23,7 @@
 
 ***
 
-* [EnhancedIME](http://v.ht/snnm): AOSP LatinIME Keyboard with enhancements.  
+* [EnhancedIME](https://forum.xda-developers.com/android/apps-games/enhancedime-aosp-latinime-enhancements-t3366639): AOSP LatinIME Keyboard with enhancements.  
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Hardslog/platform_packages_inputmethods_EnhancedIME)  
 [![](Pictures/3rd-party.png)](http://forum.xda-developers.com/devdb/project/?id=15003#downloads)
