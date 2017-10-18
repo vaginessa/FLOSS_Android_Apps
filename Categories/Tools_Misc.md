@@ -144,10 +144,17 @@ _Uses non-free software, namely crashlytics - [Github issue](http://v.ht/FkWI)_
 
 ***
 
-* [Media Merger](https://f-droid.org/packages/com.github.axet.mover//): Utitily moves /sdcard/DCIM/* and /sdcard/Pictures/Screenshots to user specified folder.
+* [Media Merger](https://f-droid.org/packages/com.github.axet.mover/): Utitily moves /sdcard/DCIM/* and /sdcard/Pictures/Screenshots to user specified folder.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/axet/android-media-merger/tree/HEAD)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.github.axet.mover//)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.github.axet.mover/)
+
+***
+
+* [Mitzuli](http://www.mitzuli.com/): The open, easy-to-use and powerful translator app for Android.
+![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://github.com/artetxem/mitzuli)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.mitzuli)
 
 ***
 
