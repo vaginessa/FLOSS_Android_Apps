@@ -9,10 +9,10 @@
 -->
 ## BUSINESS / PROFESSIONAL
 
-* [Open Note Scanner](https://f-droid.org/repository/browse/?fdid=com.todobom.opennotescanner): Scan documents, handwritten notes or arts.
+* [Open Note Scanner](https://f-droid.org/packages/com.todobom.opennotescanner): Scan documents, handwritten notes or arts.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/ctodobom/OpenNoteScanner)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.todobom.opennotescanner)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.todobom.opennotescanner)
 
 ***
 
