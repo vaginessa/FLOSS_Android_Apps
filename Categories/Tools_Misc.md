@@ -158,24 +158,23 @@ _Uses non-free software, namely crashlytics - [Github issue](http://v.ht/FkWI)_
 
 ***
 
-* [Night Screen](http://v.ht/aU7S): Prevent your eyes from being hurt by screen light.
-![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/fython/Blackbulb)  
-[![](Pictures/F-Droid.png)](http://v.ht/aU7S)
+* [Night Light](https://labs.xda-developers.com/store/app/com.corphish.nightlight.generic): It uses KCAL to adjust blue light intensity of the display colors, so that viewing the screen at dark becomes pleasant for the eyes, and help you fall asleep faster.
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/corphish/NightLight)  
+[![](Pictures/3rd-party.png)](https://labs.xda-developers.com/store/app/com.corphish.nightlight.generic)
 
 ***
 
-* [oandbackup](https://f-droid.org/repository/browse/?fdid=dk.jens.backup): Make backups of selected apps on your device and restore from those backups.
+* [oandbackup](https://f-droid.org/packages/dk.jens.backup/): Make backups of selected apps on your device and restore from those backups.
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/jensstein/oandbackup)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=dk.jens.backup)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/dk.jens.backup/)
 
 ***
 
-* [Obsqr](http://v.ht/z9AI): Fast and simple QR code scanner that uses the zbar library. Minimalistic design allows you to access QR content with a single tap.
+* [Obsqr](https://f-droid.org/packages/trikita.obsqr/): Fast and simple QR code scanner that uses the zbar library. Minimalistic design allows you to access QR content with a single tap.
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/trikita/obsqr)  
-[![](Pictures/F-Droid.png)](http://v.ht/z9AI)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/trikita.obsqr/)
 
 ***
 
