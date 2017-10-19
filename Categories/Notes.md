@@ -9,10 +9,10 @@
 -->
 ## NOTES / REMINDERS / TODO LIST
 
-* [Kolab Notes](https://f-droid.org/repository/browse/?fdid=org.kore.kolabnotes.android): Take notes locally and optionally sync them with Kolab and IMAP servers in the Kolab v3 storage format.
+* [Kolab Notes](https://f-droid.org/packages/org.kore.kolabnotes.android): Take notes locally and optionally sync them with Kolab and IMAP servers in the Kolab v3 storage format.
 ![LGPL-3.0](https://img.shields.io/badge/License-LGPL-3.0-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/konradrenner/kolabnotes-android)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=org.kore.kolabnotes.android)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.kore.kolabnotes.android)
 
 ***
 
@@ -30,89 +30,82 @@
 
 ***
 
-* [Mirakel](http://v.ht/NrjA): A simple but powerful tool for managing your TODO-lists. You can sync your lists with your own server.
-![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/MirakelX/mirakel-android)  
-[![](Pictures/F-Droid.png)](http://v.ht/NrjA)
-
-***
-
-* [NoteBuddy](https://f-droid.org/repository/browse/?fdid=nl.yoerinijs.notebuddy): Store encrypted notes.
+* [NoteBuddy](https://f-droid.org/packages/nl.yoerinijs.notebuddy): Store encrypted notes.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/YoeriNijs/NoteBuddy)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=nl.yoerinijs.notebuddy)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/nl.yoerinijs.notebuddy)
 
 ***
 
-* [Note Crypt Pro](https://f-droid.org/repository/browse/?fdid=com.notecryptpro): Keep your notes safe and secure.
+* [Note Crypt Pro](https://f-droid.org/packages/com.notecryptpro): Keep your notes safe and secure.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/RyuzakiKK/NoteCrypt)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.notecryptpro)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.notecryptpro)
 
 ***
 
-* [Notepad](http://v.ht/Y7ds): Simple note taking app that let's you draw on notes.
+* [Notepad](https://f-droid.org/packages/com.tomaszmarzeion.notepad/): Simple note taking app that let's you draw on notes.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/szafir1100/drawable-notepad)  
-[![](Pictures/F-Droid.png)](http://v.ht/Y7ds)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.tomaszmarzeion.notepad/)
 
 ***
 
-* [Notes](https://f-droid.org/repository/browse/?fdid=org.secuso.privacyfriendlynotes): Create and manage notes. It is also possible to can define categories and assign them to the notes..
+* [Notes](https://f-droid.org/packages/org.secuso.privacyfriendlynotes): Create and manage notes. It is also possible to can define categories and assign them to the notes..
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SecUSo/privacy-friendly-notes)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=org.secuso.privacyfriendlynotes)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.secuso.privacyfriendlynotes)
 
 ***
 
-* [Omni Notes FOSS](https://f-droid.org/repository/browse/?fdfilter=omni&fdid=it.feio.android.omninotes.foss): FOSS version of Omni Notes app.
+* [Omni Notes FOSS](https://f-droid.org/packages/it.feio.android.omninotes.foss): FOSS version of Omni Notes app.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/federicoiosue/Omni-Notes)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=omni&fdid=it.feio.android.omninotes.foss)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/it.feio.android.omninotes.foss)
 
 ***
 
-* [Omni Notes](http://v.ht/isNI): Note taking open-source application aimed to have both a simple interface but keeping smart behavior.
+* [Omni Notes](https://play.google.com/store/apps/details?id=it.feio.android.omninotes): Note taking open-source application aimed to have both a simple interface but keeping smart behavior.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/federicoiosue/Omni-Notes)  
-[![](Pictures/Google_Play.png)](http://v.ht/isNI)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=it.feio.android.omninotes)  
 _Uses Google Analytics, play-services, personal repos_
 
 ***
 
-* [OpenTasks](http://v.ht/EO3q): A simple task manager app, allowing you to categorise your todo list by urgency, state, timeframe etc. Tasks can be synchronised with a CalDAV server using DAVdroid.
+* [OpenTasks](https://f-droid.org/packages/org.dmfs.tasks/): A simple task manager app, allowing you to categorise your todo list by urgency, state, timeframe etc. Tasks can be synchronised with a CalDAV server using DAVdroid.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/dmfs/opentasks)  
-[![](Pictures/F-Droid.png)](http://v.ht/EO3q)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.dmfs.tasks/)
 
 ***
 
-* [Orgzly](https://f-droid.org/repository/browse/?fdfilter=Orgzly&fdid=com.orgzly): Orgzly stores notebooks in plain-text and keeps them where you choose to.
+* [Orgzly](https://f-droid.org/packages/com.orgzly/): Orgzly stores notebooks in plain-text and keeps them where you choose to.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/orgzly/orgzly-android)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=Orgzly&fdid=com.orgzly)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.orgzly/)
 
 ***
 
-* [Recurrence](http://v.ht/8KxI): Get reminded about notifications.
+* [Recurrence](https://f-droid.org/packages/com.bleyl.recurrence/): Get reminded about notifications.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/jonasbleyl/Recurrence)  
-[![](Pictures/F-Droid.png)](http://v.ht/8KxI)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.bleyl.recurrence/)
 
 ***
 
-* [SimpleNote](http://v.ht/cWvo): The simplest way to keep notes. Light, clean, and free.
+* [SimpleNote](https://play.google.com/store/apps/details?id=com.automattic.simplenote): The simplest way to keep notes. Light, clean, and free.
 ![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](http://v.ht/HOMR)  
-[![](Pictures/Google_Play.png)](http://v.ht/cWvo)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.automattic.simplenote)  
 _Uses play-services, crashlytics and a lot of third-party repositories_
 
 ***
 
-* [Simpletask Cloudless](https://f-droid.org/repository/browse/?fdfilter=simpletask&fdid=nl.mpcjanssen.simpletask): A simple task list manager that strives to have just enough features to do GTD (the Getting Things Done methodology), but no more.
+* [Simpletask Cloudless](https://f-droid.org/packages/nl.mpcjanssen.simpletask): A simple task list manager that strives to have just enough features to do GTD (the Getting Things Done methodology), but no more.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/mpcjanssen/simpletask-android)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=simpletask&fdid=nl.mpcjanssen.simpletask)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/nl.mpcjanssen.simpletask)
 
 ***
 
@@ -123,10 +116,10 @@ _Uses play-services, crashlytics and a lot of third-party repositories_
 
 ***
 
-* [SyncOrg](https://f-droid.org/repository/browse/?fdid=com.coste.syncorg): Note taking app that supports Emacs OrgMode.
+* [SyncOrg](https://f-droid.org/packages/com.coste.syncorg): Note taking app that supports Emacs OrgMode.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/wizmer/syncorg)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.coste.syncorg)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.coste.syncorg)
 
 ***
 
@@ -137,21 +130,21 @@ _Uses play-services, crashlytics and a lot of third-party repositories_
 
 ***
 
-* [Tasks](http://v.ht/u13o): Fork of Astrid Tasks & To-Do List.
+* [Tasks](https://f-droid.org/packages/org.tasks/): Fork of Astrid Tasks & To-Do List.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/abaker/tasks)  
-[![](Pictures/F-Droid.png)](http://v.ht/u13o)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.tasks/)
 
 ***
 
-* [To-Do List](http://v.ht/Q4Wr): Create and manage tasks and To-Do lists.
+* [To-Do List](https://f-droid.org/packages/org.secuso.privacyfriendlytodolist/): Create and manage tasks and To-Do lists.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SecUSo/privacy-friendly-todo-list)  
-[![](Pictures/F-Droid.png)](http://v.ht/Q4Wr)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.secuso.privacyfriendlytodolist/)
 
 ***
 
-* [Turtl](http://v.ht/JG11): Turtl lets you take notes, bookmark websites, and store documents for sensitive projects. From sharing passwords with your coworkers to tracking research on an article you’re writing, Turtl keeps it all safe from everyone but you and those you share with.
+* [Turtl](https://play.google.com/store/apps/details?id=com.lyonbros.turtl): Turtl lets you take notes, bookmark websites, and store documents for sensitive projects. From sharing passwords with your coworkers to tracking research on an article you’re writing, Turtl keeps it all safe from everyone but you and those you share with.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/turtl/mobile)  
-[![](Pictures/Google_Play.png)](http://v.ht/JG11)
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.lyonbros.turtl)
