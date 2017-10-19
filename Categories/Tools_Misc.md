@@ -128,13 +128,6 @@ _Upstream Non-Free_
 
 ***
 
-* [Obsqr](https://f-droid.org/packages/trikita.obsqr/): Fast and simple QR code scanner that uses the zbar library. Minimalistic design allows you to access QR content with a single tap.
-![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/trikita/obsqr)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/packages/trikita.obsqr/)
-
-***
-
 * [ooniprobe](https://play.google.com/store/apps/details?id=org.openobservatory.ooniprobe): Open Observatory of Network Interference. A free software, global observation network for detecting censorship, surveillance and traffic manipulation on the internet.
 ![BSD](https://img.shields.io/badge/License-BSD-1EC9AA.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/TheTorProject/ooniprobe-android)  
@@ -186,13 +179,6 @@ _Non-Free add-ons_
 
 ***
 
-* [QR Scanner](https://f-droid.org/packages/com.secuso.privacyFriendlyCodeScanner/): Scan QR codes.
-![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SecUSo/privacy-friendly-qr-scanner)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.secuso.privacyFriendlyCodeScanner/)
-
-***
-
 * [Red Moon](https://f-droid.org/packages/com.jmstudios.redmoon/): Screen filter for night time phone use.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/raatmarien/red-moon)  
@@ -218,13 +204,6 @@ _Non-Free add-ons_
 ![SimplifiedBSD](https://img.shields.io/badge/License-SimplifiedBSD-1EC9AA.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Cj-Malone/Screens)  
 [![](Pictures/F-Droid.png)](https://f-droid.org/packages/uk.co.keepawayfromfire.screens)
-
-***
-
-* [SecScanQR](https://f-droid.org/packages/de.t_dankworth.secscanqr/): Scan QR codes and share them right away with friends or copy them to the clipboard for further processing. Furthermore, with SecScanQR you can generate QR codes and all these features without a big amount of permission.
-![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Fr4gorSoftware/SecScanQR)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/packages/de.t_dankworth.secscanqr/)
 
 ***
 
