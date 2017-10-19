@@ -1,5 +1,5 @@
 <!--
-    Copyright (C)  2016 PRIMOKORN.
+    Copyright (C)  2016-2017 PRIMOKORN.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
@@ -8,10 +8,10 @@
     Free Documentation License".
 -->
 
-* [Forecastie](http://v.ht/B44M): Show weather information. Data is gathered from OpenWeatherMap, via their public API.
+* [Forecastie](https://f-droid.org/packages/cz.martykan.forecastie/): Show weather information. Data is gathered from OpenWeatherMap, via their public API.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/martykan/forecastie)  
-[![](Pictures/F-Droid.png)](http://v.ht/B44M)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/cz.martykan.forecastie/)
 
 ***
 
@@ -22,21 +22,21 @@
 
 ***
 
-* [Good Weather](http://v.ht/PSmE): Show current weather information from OpenWeatherMap.
+* [Good Weather](https://f-droid.org/packages/org.asdtm.goodweather/): Show current weather information from OpenWeatherMap.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/qqq3/good-weather)  
-[![](Pictures/F-Droid.png)](http://v.ht/PSmE)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.asdtm.goodweather/)
 
 ***
 
-* [Weather](http://v.ht/P8En): Get weather information and forecast from Open Weather Map.
+* [Weather](https://f-droid.org/packages/org.secuso.privacyfriendlyweather/): Get weather information and forecast from Open Weather Map.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SecUSo/privacy-friendly-weather)  
-[![](Pictures/F-Droid.png)](http://v.ht/P8En)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.secuso.privacyfriendlyweather/)
 
 ***
 
-* [World weather](http://v.ht/RBFc): Displays current weather and forecasts from OpenWeatherMap. Two kinds of forecast are available: 14-day daily weather and 5-day three-hourly weather.
+* [World weather](https://f-droid.org/packages/com.haringeymobile.ukweather/): Displays current weather and forecasts from OpenWeatherMap. Two kinds of forecast are available: 14-day daily weather and 5-day three-hourly weather.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Kestutis-Z/World-Weather)  
-[![](Pictures/F-Droid.png)](http://v.ht/RBFc)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.haringeymobile.ukweather/)
