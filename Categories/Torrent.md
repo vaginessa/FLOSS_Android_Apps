@@ -20,7 +20,7 @@
 * [LibreTorrent](https://forum.xda-developers.com/android/apps-games/libretorrent-t3483550): Torrent client for Android 4 and later, based on libtorrent. Download and share files directly on your device.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/proninyaroslav/libretorrent)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=libretorrent&fdid=org.proninyaroslav.libretorrent)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.proninyaroslav.libretorrent)
 
 ***
 
