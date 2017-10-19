@@ -49,6 +49,7 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 [NEWS](Categories/News.md) | RSS Feeds specific news
 [PHOTOGRAPHY](Categories/Photography.md) | Take photos and videos
 [PRODUCTIVITY](Categories/Productivity.md) | Apps that save time
+[QR CODES](Categories/QR.md) | Apps to scan and generate QR codes
 [NOTES](Categories/Notes.md) | Reminders, to-do lists and notes
 [ROOT](Categories/Root.md) | Specific app to obtain and manage root
 [SECURITY](Categories/Security.md) | Improve your security and privacy
