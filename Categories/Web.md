@@ -19,13 +19,6 @@
 
 ***
 
-* [Bromite](https://www.bromite.org/): Bromite is Chromium plus some patches for ad blocking and enhanced privacy.
-![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/bromite/bromite)  
-[![](Pictures/3rd-party.png)](https://www.bromite.org/)
-
-***
-
 * [Browser](https://f-droid.org/packages/de.baumann.browser): Original Material browser based on webview.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/scoute-dich/browser/)  
@@ -92,6 +85,13 @@ _Non-free crashlytics_
 
 ***
 
+* [Bromite](https://www.bromite.org/): Bromite is Chromium plus some patches for ad blocking and enhanced privacy.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/bromite/bromite)  
+[![](Pictures/3rd-party.png)](https://www.bromite.org/)
+
+***
+
 * [Code Aurora SWE Browser](https://forum.xda-developers.com/android/apps-games/app-code-aurora-swe-browser-m55-t3523365): Fully stock and unchanged Code Aurora Snapdragon Optimized Browser.
 ![](https://img.shields.io/badge/License-Various-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://source.codeaurora.org/quic/chrome4sdp/)  
@@ -145,3 +145,10 @@ _Firefox Focus available on Google Play_
 ![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Mozilla-lightgrey.svg?style=flat-square)](http://hg.mozilla.org/)  
 [![](Pictures/F-Droid.png)](http://v.ht/https://f-droid.org/packages/org.gnu.icecat/)
+
+***
+
+* [Waterfox](https://www.waterfoxproject.org/): A Firefox-based browser designed for privacy and user choice in mind.
+![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/MrAlex94/Waterfox)  
+[![](Pictures/3rd-party.png)](https://www.waterfoxproject.org/downloads)
