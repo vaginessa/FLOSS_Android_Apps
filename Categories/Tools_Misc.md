@@ -9,10 +9,10 @@
 -->
 ## TOOLS / MISC
 
-* [AROMA Installer](http://v.ht/34gX): For ROM Chefs/Developers only.
+* [AROMA Installer](https://forum.xda-developers.com/showthread.php?t=2409951): For ROM Chefs/Developers only.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/amarullz/AROMA-Installer)  
-[![](Pictures/3rd-party.png)](http://v.ht/34gX)
+[![](Pictures/3rd-party.png)](https://forum.xda-developers.com/showthread.php?t=2409951)
 
 ***
 
@@ -30,7 +30,7 @@
 
 ***
 
-* [BetterBatteryStats](http://v.ht/38wV): Advanced battery stats.
+* [BetterBatteryStats](https://forum.xda-developers.com/showthread.php?t=1179809): Advanced battery stats.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/asksven/BetterBatteryStats)  
 [![](Pictures/3rd-party.png)](http://forum.xda-developers.com/showpost.php?p=15869886&postcount=2)  
@@ -38,17 +38,17 @@ _Upstream Non-Free_
 
 ***
 
-* [BARIA](http://v.ht/hBzu): Backup And Restore Installed Apps (apk only).
+* [BARIA](https://f-droid.org/packages/com.easwareapps.baria/): Backup And Restore Installed Apps (apk only).
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/easwareapps/BARIA/tree/HEAD)  
-[![](Pictures/F-Droid.png)](http://v.ht/hBzu)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.easwareapps.baria/)
 
 ***
 
-* [BirthDayDroid](https://f-droid.org/repository/browse/?fdfilter=BirthDayDroid&fdid=com.tmendes.birthdaydroid): Helps you to remember your contact's birthdays. It scans your local contact list looking for birthdays.
+* [BirthDayDroid](https://f-droid.org/packages/com.tmendes.birthdaydroid): Helps you to remember your contact's birthdays. It scans your local contact list looking for birthdays.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/trmendes/BirthDayDroid)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=BirthDayDroid&fdid=com.tmendes.birthdaydroid)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.tmendes.birthdaydroid)
 
 ***
 
@@ -59,10 +59,10 @@ _Upstream Non-Free_
 
 ***
 
-* [Busybox](http://v.ht/GTJt): Install a recent and un-crippled version of BusyBox.
+* [Busybox](https://f-droid.org/packages/ru.meefik.busybox/): Install a recent and un-crippled version of BusyBox.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/meefik/busybox)  
-[![](Pictures/F-Droid.png)](http://v.ht/GTJt)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/ru.meefik.busybox/)
 
 ***
 
@@ -80,67 +80,52 @@ _Upstream Non-Free_
 
 ***
 
-* [FTP Server](http://v.ht/xwpM): This app can serve files over the internet but the most likely usage is to access files from another computer without needing a cable.
+* [FTP Server](https://f-droid.org/packages/be.ppareit.swiftp_free/): This app can serve files over the internet but the most likely usage is to access files from another computer without needing a cable.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/ppareit/swiftp)  
-[![](Pictures/F-Droid.png)](http://v.ht/xwpM)
-
-***
-
-* [Fingerprint2Sleep](http://v.ht/dAsL): Perform quick actions via tap fingerprint sensor.
-![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/ztc1997/Fingerprint2Sleep)  
-[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.ztc1997.fingerprint2sleep)  
-_Non-free: Google’s firebase_
-
-***
-
-* [GigaGet Download Manager](https://f-droid.org/repository/browse/?fdid=us.shandian.giga): Simple, multi-thread download manager.
-![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/PaperAirplane-Dev-Team/GigaGet)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=us.shandian.giga)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/be.ppareit.swiftp_free/)
 
 ***
 
 * [Hangar](http://forum.xda-developers.com/showthread.php?t=2770533): Provides a customizable shortcut launcher in your notification drawer to give you relevant, easy access to your most frequently used apps based on smart filtering algorithms.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/corcoran/Hangar)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=Hangar&fdid=ca.mimic.apphangar) [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=ca.mimic.apphangar)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/ca.mimic.apphangar) [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=ca.mimic.apphangar)
 
 ***
 
-* [LibreTasks](http://v.ht/2Ae2): Trigger actions when certain events happen. A fork of Omnidroid, now maintained and with more features. LibreTasks will allow you to set up certain triggers, such as plugging in your phone or missing a call, and allow you to specify certain actions that are done when that trigger occurs, such as sending a SMS or pausing your media.
+* [LibreTasks](https://f-droid.org/packages/libretasks.app/): Trigger actions when certain events happen. A fork of Omnidroid, now maintained and with more features. LibreTasks will allow you to set up certain triggers, such as plugging in your phone or missing a call, and allow you to specify certain actions that are done when that trigger occurs, such as sending a SMS or pausing your media.
 ![GPLv3,Apache2,LGPL](https://img.shields.io/badge/License-GPLv3,Apache2,LGPL-347D07.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/biotinker/LibreTasks/)  
-[![](Pictures/F-Droid.png)](http://v.ht/2Ae2)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/libretasks.app/)
 
 ***
 
-* [LnkShortener](https://f-droid.org/repository/browse/?fdid=de.hirtenstrasse.michael.lnkshortener): Shortens URLs using the Polr API.
+* [LnkShortener](https://f-droid.org/packages/de.hirtenstrasse.michael.lnkshortener): Shortens URLs using the Polr API.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/michaelachmann/LnkShortener)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=de.hirtenstrasse.michael.lnkshortener)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/de.hirtenstrasse.michael.lnkshortener)
 
 ***
 
-* [Logcat](https://f-droid.org/repository/browse/?fdfilter=logs&fdid=com.tananaev.logcat): Read Android logs without root access.
+* [Logcat](https://f-droid.org/packages/com.tananaev.logcat): Read Android logs without root access.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/tananaev/rootless-logcat)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=logs&fdid=com.tananaev.logcat)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.tananaev.logcat)
 
 ***
 
-* [Mather](https://f-droid.org/repository/browse/?fdid=org.icasdri.mather): A powerful expression-based calculator, unit converter, and computation engine.
+* [Mather](https://f-droid.org/packages/org.icasdri.mather): A powerful expression-based calculator, unit converter, and computation engine.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/icasdri/Mather)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=org.icasdri.mather)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.icasdri.mather)
 
 ***
 
-* [MatLog](http://v.ht/OBE0): Material-style log reader for Android based on CatLog.
+* [MatLog](https://play.google.com/store/apps/details?id=com.nolanlawson.logcat): Material-style log reader for Android based on CatLog.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](Pictures/Google_Play.png)](http://v.ht/OBE0)  
-_Uses non-free software, namely crashlytics - [Github issue](http://v.ht/FkWI)_
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.nolanlawson.logcat)  
+_Uses non-free software, namely crashlytics_
 
 ***
 
@@ -186,25 +171,25 @@ _Crashlytics_
 
 ***
 
-* [OpenAPK](https://f-droid.org/repository/browse/?fdfilter=OpenAPK&fdid=com.dkanada.openapk): A material design app manager forked from ML Manager.
+* [OpenAPK](https://f-droid.org/packages/com.dkanada.openapk): A material design app manager forked from ML Manager.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/dkanada/OpenAPK)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=OpenAPK&fdid=com.dkanada.openapk)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.dkanada.openapk)
 
 ***
 
-* [OpenGapps Downloader](https://f-droid.org/repository/browse/?fdfilter=opengapps&fdid=org.opengappsdownloader): App to auto download opengapps zip files from github.
+* [OpenGapps Downloader](https://f-droid.org/packages/org.opengappsdownloader): App to auto download opengapps zip files from github.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/daktak/opengapps_downloader)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=opengapps&fdid=org.opengappsdownloader)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.opengappsdownloader)  
 _Non-Free add-ons_
 
 ***
 
-* [OpenLink With](https://f-droid.org/repository/browse/?fdid=com.tasomaniac.openwith.floss): Open the current webpage you have in another app.
+* [OpenLink With](https://f-droid.org/packages/com.tasomaniac.openwith.floss): Open the current webpage you have in another app.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/tasomaniac/OpenLinkWith/)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.tasomaniac.openwith.floss)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.tasomaniac.openwith.floss)
 
 ***
 
@@ -215,28 +200,28 @@ _Non-Free add-ons_
 
 ***
 
-* [Port Authority](https://f-droid.org/repository/browse/?fdid=com.aaronjwood.portauthority): A handy systems and security-focused tool, Port Authority is a very fast port scanner.
+* [Port Authority](https://f-droid.org/packages/com.aaronjwood.portauthority): A handy systems and security-focused tool, Port Authority is a very fast port scanner.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/aaronjwood/PortAuthority)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.aaronjwood.portauthority)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.aaronjwood.portauthority)
 
 ***
 
-* [PowerToggles](http://v.ht/odu8): An advanced power control widget.
+* [PowerToggles](https://forum.xda-developers.com/android/apps-games/app-powertoggles-source-t3372528): An advanced power control widget.
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/sunnygoyal/PowerToggles)  
 [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.painless.pc)
 
 ***
 
-* [QR Scanner](http://v.ht/BVj7): Scan QR codes.
+* [QR Scanner](https://f-droid.org/packages/com.secuso.privacyFriendlyCodeScanner/): Scan QR codes.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SecUSo/privacy-friendly-qr-scanner)  
-[![](Pictures/F-Droid.png)](http://v.ht/BVj7)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.secuso.privacyFriendlyCodeScanner/)
 
 ***
 
-* [Rashr](http://v.ht/FIZR): Flash or backup your device's recovery and kernel without rebooting or PC or other hardware. Fast, Simple and Effective!.
+* [Rashr](https://forum.xda-developers.com/showthread.php?t=2334554): Flash or backup your device's recovery and kernel without rebooting or PC or other hardware. Fast, Simple and Effective!.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/DsLNeXuS/Rashr/)  
 [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=de.mkrtchyan.recoverytools) [![](Pictures/3rd-party.png)](https://github.com/DsLNeXuS/Rashr/raw/master/RashrApp/RashrApp-release.apk)  
@@ -244,10 +229,10 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
-* [Red Moon](http://v.ht/vKnu): Screen filter for night time phone use.
+* [Red Moon](https://f-droid.org/packages/com.jmstudios.redmoon/): Screen filter for night time phone use.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/raatmarien/red-moon)  
-[![](Pictures/F-Droid.png)](http://v.ht/vKnu)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.jmstudios.redmoon/)
 
 ***
 
@@ -258,17 +243,17 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
-* [Screen Shift](https://f-droid.org/repository/browse/?fdfilter=Screen+Shift&fdid=com.sagar.screenshift2): Change screen resolution, density and overscan.
+* [Screen Shift](https://f-droid.org/packages/com.sagar.screenshift2): Change screen resolution, density and overscan.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/aravindsagar/ScreenShift)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=Screen+Shift&fdid=com.sagar.screenshift2)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.sagar.screenshift2)
 
 ***
 
-* [Screens](https://f-droid.org/repository/browse/?fdid=uk.co.keepawayfromfire.screens): Automatically enter split screen mode from launcher shortcuts and Quick Settings tiles.
+* [Screens](https://f-droid.org/packages/uk.co.keepawayfromfire.screens): Automatically enter split screen mode from launcher shortcuts and Quick Settings tiles.
 ![SimplifiedBSD](https://img.shields.io/badge/License-SimplifiedBSD-1EC9AA.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Cj-Malone/Screens)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=uk.co.keepawayfromfire.screens)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/uk.co.keepawayfromfire.screens)
 
 ***
 
@@ -286,10 +271,10 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
-* [Share via HTTP](http://v.ht/eRI3d): Share files from your phone to one or many, quickly and easily.
+* [Share via HTTP](https://f-droid.org/packages/com.MarcosDiez.shareviahttp/): Share files from your phone to one or many, quickly and easily.
 ![NewBSD](https://img.shields.io/badge/License-NewBSD-25B3D6.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/marcosdiez/shareviahttp)  
-[![](Pictures/F-Droid.png)](http://v.ht/eRI3d)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.MarcosDiez.shareviahttp/)
 
 ***
 
@@ -300,17 +285,17 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
-* [SMS Backup+](http://v.ht/IL1T): Backup SMS and call logs to IMAP.
+* [SMS Backup+](https://f-droid.org/packages/com.zegoggles.smssync/): Backup SMS and call logs to IMAP.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/jberkel/sms-backup-plus)  
-[![](Pictures/F-Droid.png)](http://v.ht/IL1T)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.zegoggles.smssync/)
 
 ***
 
-* [Stringlate](https://f-droid.org/repository/browse/?fdfilter=Stringlate&fdid=io.github.lonamiwebs.stringlate): Fetches remote GitHub repositories containing the source code for Android applications downloading the available `strings.xml` files in them for you to translate the strings to any other locale, in order to help the authors localize their applications into other languages.
+* [Stringlate](https://f-droid.org/packages/io.github.lonamiwebs.stringlate): Fetches remote GitHub repositories containing the source code for Android applications downloading the available `strings.xml` files in them for you to translate the strings to any other locale, in order to help the authors localize their applications into other languages.
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/LonamiWebs/Stringlate)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=Stringlate&fdid=io.github.lonamiwebs.stringlate)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/io.github.lonamiwebs.stringlate)
 
 ***
 
@@ -321,10 +306,10 @@ _Admob needs to be replaced with a dummy library_
 
 ***
 
-* [Taskbar](http://v.ht/cAWj): Puts a start menu and recent apps tray on top of your screen accessible at any time.
+* [Taskbar](https://f-droid.org/packages/com.farmerbb.taskbar/): Puts a start menu and recent apps tray on top of your screen accessible at any time.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/farmerbb/Taskbar)  
-[![](Pictures/F-Droid.png)](http://v.ht/cAWj)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.farmerbb.taskbar/)
 
 ***
 
@@ -336,38 +321,38 @@ _Non-Free software: Google Analytics_
 
 ***
 
-* [Termux](https://f-droid.org/repository/browse/?fdid=com.termux): Termux combines powerful terminal emulation with an extensive Linux package collection.
+* [Termux](https://f-droid.org/packages/com.termux): Termux combines powerful terminal emulation with an extensive Linux package collection.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/termux/termux-app)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.termux)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.termux)
 
 ***
 
-* [TouchDetector](https://f-droid.org/repository/browse/?fdfilter=TouchDetector&fdid=com.msapps.touchdetector): Display your finger touches on screen.
+* [TouchDetector](https://f-droid.org/packages/com.msapps.touchdetector): Display your finger touches on screen.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/sujithkanna/TouchDetector)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=TouchDetector&fdid=com.msapps.touchdetector)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.msapps.touchdetector)
 
 ***
 
-* [TrebleShot](http://v.ht/ESVR): An pair-to-pair file and text transferring application.
+* [TrebleShot](https://f-droid.org/packages/com.genonbeta.TrebleShot/): An pair-to-pair file and text transferring application.
 ![](https://img.shields.io/badge/License-Missing-000000.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/genonbeta/TrebleShot)  
-[![](Pictures/3rd-party.png)](https://github.com/genonbeta/TrebleShot/releases/)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.genonbeta.TrebleShot/) [![](Pictures/3rd-party.png)](https://github.com/genonbeta/TrebleShot/releases/)
 
 ***
 
-* [Unit Converter Ultimate](https://f-droid.org/repository/browse/?fdfilter=unit+converter&fdid=com.physphil.android.unitconverterultimate): A simple and easy-to-use unit converter to handle any conversion you'll ever need.
+* [Unit Converter Ultimate](https://f-droid.org/packages/com.physphil.android.unitconverterultimate): A simple and easy-to-use unit converter to handle any conversion you'll ever need.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/physphil/UnitConverterUltimate)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=unit+converter&fdid=com.physphil.android.unitconverterultimate)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.physphil.android.unitconverterultimate)
 
 ***
 
-* [Wikipedia](http://v.ht/3X1S): Official Wikipedia application.
+* [Wikipedia](https://f-droid.org/packages/org.wikipedia/): Official Wikipedia application.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/wikimedia/apps-android-wikipedia)  
-[![](Pictures/F-Droid.png)](http://v.ht/3X1S)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.wikipedia/)  
 _Tracks You_
 
 ***
@@ -379,14 +364,14 @@ _Tracks You_
 
 ***
 
-* [WiFiAnalyzer](https://f-droid.org/repository/browse/?fdid=com.vrem.wifianalyzer): Optimize your WiFi network by examining surrounding WiFi networks, measuring their signal strength as well as identifying crowded channels.
+* [WiFiAnalyzer](https://f-droid.org/packages/com.vrem.wifianalyzer): Optimize your WiFi network by examining surrounding WiFi networks, measuring their signal strength as well as identifying crowded channels.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/VREMSoftwareDevelopment/WifiAnalyzer)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.vrem.wifianalyzer)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.vrem.wifianalyzer)
 
 ***
 
-* [Xposed Installer](https://f-droid.org/app/de.robv.android.xposed.installer): Official installer for the Xposed framework.
+* [Xposed Downloader](https://f-droid.org/packages/org.xposeddownloader/): App to auto download Xposed Framework zip files from xda.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/rovo89/XposedInstaller)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/app/de.robv.android.xposed.installer)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/daktak/xposed_downloader)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.xposeddownloader/)
