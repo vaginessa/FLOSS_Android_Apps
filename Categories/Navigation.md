@@ -1,5 +1,5 @@
 <!--
-    Copyright (C)  2016 PRIMOKORN.
+    Copyright (C)  2016-2017 PRIMOKORN.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
@@ -17,10 +17,10 @@ _non-free dependencies_
 
 ***
 
-* [Maps.me](http://v.ht/3Stm): An open source cross-platform offline maps application, built on top of crowd-sourced OpenStreetMap data.
+* [Maps.me](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro): An open source cross-platform offline maps application, built on top of crowd-sourced OpenStreetMap data.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/mapsme/omim/)  
-[![](Pictures/Google_Play.png)](http://v.ht/3Stm)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)  
 _[Reasons why you don't find it on F-droid](https://webcache.googleusercontent.com/search?q=cache:https://github.com/mapsme/omim/issues/85)_
 
 ***
@@ -32,10 +32,10 @@ _[Reasons why you don't find it on F-droid](https://webcache.googleusercontent.c
 
 ***
 
-* [OpenMapKit](http://v.ht/bCDyn): Browse OpenStreetMap features to create and edit OSM tags.
+* [OpenMapKit](https://f-droid.org/packages/org.redcross.openmapkit/): Browse OpenStreetMap features to create and edit OSM tags.
 ![BSD](https://img.shields.io/badge/License-BSD-1EC9AA.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/AmericanRedCross/OpenMapKitAndroid)  
-[![](Pictures/F-Droid.png)](http://v.ht/bCDyn)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.redcross.openmapkit/)
 
 ***
 
@@ -46,32 +46,30 @@ _[Reasons why you don't find it on F-droid](https://webcache.googleusercontent.c
 
 ***
 
-* [OsmAnd](http://v.ht/iXyL): Offline/online maps and navigation.
+* [OsmAnd+](https://f-droid.org/packages/net.osmand.plus/): Offline/online maps and navigation.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/osmandapp/Osmand)  
-[![](Pictures/F-Droid.png)](http://v.ht/iXyL)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/net.osmand.plus/)  
 _Non-Free Assets (the most common case is apps using artwork - images, sounds, music, etc - under a non-commercial license)_
 
 ***
 
-* [Street­Complete](https://f-droid.org/repository/browse/?fdid=de.westnordost.streetcomplete): Help to improve the OpenStreetMap with StreetComplete!  
+* [StreetComplete](https://f-droid.org/packages/de.westnordost.streetcomplete): Help to improve the OpenStreetMap with StreetComplete!  
 This app finds incomplete and extendable data in your vicinity and displays it on a map as markers. Each of those is solvable by answering a simple question to complete the info on site.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/westnordost/StreetComplete)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=de.westnordost.streetcomplete)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/de.westnordost.streetcomplete)
 
 ***
 
-* [Transportr](http://v.ht/jQqp): The public transport companion that respects your privacy and your freedom. Transportr is a non-profit app developed by people around the world to make using public transport as easy as possible wherever you are.
+* [Transportr](https://f-droid.org/packages/de.grobox.liberario/): The public transport companion that respects your privacy and your freedom. Transportr is a non-profit app developed by people around the world to make using public transport as easy as possible wherever you are.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/grote/Transportr)  
-[![](Pictures/F-Droid.png)](http://v.ht/jQqp)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/de.grobox.liberario/)
 
 ***
 
-* [ZANavi](https://f-droid.org/repository/browse/?fdid=com.zoffcc.applications.zanavi): Car Navigation System.
+* [ZANavi](https://f-droid.org/packages/com.zoffcc.applications.zanavi): Car Navigation System.
 ![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/zoff99/zanavi)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.zoffcc.applications.zanavi)
-
-***
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.zoffcc.applications.zanavi)
