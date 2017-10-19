@@ -26,7 +26,7 @@
 * [K9-Mail Material Design](https://forum.xda-developers.com/android/apps-games/app-k9-mail-material-design-source-t3415146): Material Design version of K-9 mail.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/scoute-dich/K9-MailClient)  
-[![](Pictures/3rd-party.png)](http://forum.xda-developers.com/showpost.php?p=67674989&postcount=2)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.fsck.k9.material/) [![](Pictures/3rd-party.png)](http://forum.xda-developers.com/showpost.php?p=67674989&postcount=2)
 
 ***
 
