@@ -52,13 +52,6 @@ _Upstream Non-Free_
 
 ***
 
-* [Busybox](https://f-droid.org/packages/ru.meefik.busybox/): Install a recent and un-crippled version of BusyBox.
-![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/meefik/busybox)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/packages/ru.meefik.busybox/)
-
-***
-
 * [Call Recorder](https://f-droid.org/packages/com.github.axet.callrecorder//): Simple call recorder, no ads, open-source.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/axet/android-call-recorder/tree/HEAD)  
@@ -140,14 +133,6 @@ _Crashlytics_
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/dkanada/OpenAPK)  
 [![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.dkanada.openapk)
-
-***
-
-* [OpenGapps Downloader](https://f-droid.org/packages/org.opengappsdownloader): App to auto download opengapps zip files from github.
-![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/daktak/opengapps_downloader)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.opengappsdownloader)  
-_Non-Free add-ons_
 
 ***
 
@@ -304,10 +289,3 @@ _Tracks You_
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/VREMSoftwareDevelopment/WifiAnalyzer)  
 [![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.vrem.wifianalyzer)
-
-***
-
-* [Xposed Downloader](https://f-droid.org/packages/org.xposeddownloader/): App to auto download Xposed Framework zip files from xda.
-![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/daktak/xposed_downloader)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.xposeddownloader/)
