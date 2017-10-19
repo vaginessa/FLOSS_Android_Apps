@@ -108,24 +108,10 @@ _Upstream Non-Free_
 
 ***
 
-* [Logcat](https://f-droid.org/packages/com.tananaev.logcat): Read Android logs without root access.
-![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/tananaev/rootless-logcat)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.tananaev.logcat)
-
-***
-
 * [Mather](https://f-droid.org/packages/org.icasdri.mather): A powerful expression-based calculator, unit converter, and computation engine.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/icasdri/Mather)  
 [![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.icasdri.mather)
-
-***
-
-* [MatLog](https://play.google.com/store/apps/details?id=com.nolanlawson.logcat): Material-style log reader for Android based on CatLog.
-![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.nolanlawson.logcat)  
-_Uses non-free software, namely crashlytics_
 
 ***
 
