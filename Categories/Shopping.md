@@ -9,14 +9,14 @@
 -->
 ## SHOPPING
 
-* [OI Shopping List](https://f-droid.org/repository/browse/?fdid=org.openintents.shopping): A powerful application which makes it easy to create and manage checklists.
+* [OI Shopping List](https://f-droid.org/packages/org.openintents.shopping): A powerful application which makes it easy to create and manage checklists.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/openintents/shoppinglist)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=org.openintents.shopping)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.openintents.shopping)
 
 ***
 
-* [Shopping List](http://v.ht/G2Xl): Create shopping lists and manage them by adding, editing and deleting of lists and items.
+* [Shopping List](https://f-droid.org/packages/privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist/): Create shopping lists and manage them by adding, editing and deleting of lists and items.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SecUSo/privacy-friendly-shopping-list)  
-[![](Pictures/F-Droid.png)](http://v.ht/G2Xl)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist/)
