@@ -108,11 +108,6 @@ _No source code for the small modifications_
 
 ***
 
-* [getChromium](https://f-droid.org/packages/com.anddevw.getchromium/): Helps to install/update the open-source [Chromium browser](http://v.ht/9muz/).
-![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/andDevW/getChromium)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.anddevw.getchromium/)  
-
 Other browsers available on XDA:
 1. [arter97's custom-built Chromium for Snapdragon devices](http://forum.xda-developers.com/android/apps-games/arter97-s-custom-built-chromium-t3477758)
 2. [Pyrope Browser](http://forum.xda-developers.com/android/apps-games/app-gello-browser-t3384782)
