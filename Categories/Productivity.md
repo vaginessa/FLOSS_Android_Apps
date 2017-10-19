@@ -9,17 +9,17 @@
 -->
 ## PRODUCTIVITY
 
-* [AN2Linux](https://f-droid.org/app/kiwi.root.an2linuxclient): Sync Android notifications encrypted to a Linux desktop with tcp or bluetooth.
+* [AN2Linux](https://f-droid.org/packages/kiwi.root.an2linuxclient/): Sync Android notifications encrypted to a Linux desktop with tcp or bluetooth.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/rootkiwi/an2linuxclient)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/app/kiwi.root.an2linuxclient)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/kiwi.root.an2linuxclient/)
 
 ***
 
-* [Android CUPS Print](https://f-droid.org/repository/browse/?fdid=io.github.benoitduffez.cupsprint): Have a local printer shared over CUPS or IPP? Then this app allows you to directly print to it from your Android device.
+* [Android CUPS Print](https://f-droid.org/packages/io.github.benoitduffez.cupsprint): Have a local printer shared over CUPS or IPP? Then this app allows you to directly print to it from your Android device.
 ![LGPLv3](https://img.shields.io/badge/License-LGPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/BenoitDuffez/AndroidCupsPrint/tree/fdroid)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=io.github.benoitduffez.cupsprint)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/io.github.benoitduffez.cupsprint)
 
 ***
 
@@ -44,17 +44,17 @@
 
 ***
 
-* [CuprumPDF](https://f-droid.org/repository/browse/?fdid=org.ninthfloor.copperpdf): View PDF files via pdf.js embedded into a WebView.
+* [CuprumPDF](https://f-droid.org/packages/org.ninthfloor.copperpdf): View PDF files via pdf.js embedded into a WebView.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/paride/CopperPDF)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=org.ninthfloor.copperpdf)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.ninthfloor.copperpdf)
 
 ***
 
-* [Fasthub](https://f-droid.org/repository/browse/?fdid=com.fastaccess.github): Yet another open-source GitHub client app but unlike any other app, FastHub was built from scratch.
+* [Fasthub](https://f-droid.org/packages/com.fastaccess.github): Yet another open-source GitHub client app but unlike any other app, FastHub was built from scratch.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/k0shk0sh/FastHub)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdid=com.fastaccess.github)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.fastaccess.github)  
 _Promotes a non-Free network service_
 
 ***
@@ -73,39 +73,45 @@ _Promotes a non-Free network service_
 
 ***
 
-* [LabCoat](https://f-droid.org/app/com.commit451.gitlab): GitLab client.
+* [LabCoat](https://f-droid.org/packages/com.commit451.gitlab/): GitLab client.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/Commit451/LabCoat)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/app/com.commit451.gitlab)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.commit451.gitlab/)
 
 ***
 
-* [LnkShortener](https://f-droid.org/repository/browse/?fdfilter=LnkShortener&fdid=de.hirtenstrasse.michael.lnkshortener): Shortens URL using the Polr API.
+* [LnkShortener](https://f-droid.org/packages/de.hirtenstrasse.michael.lnkshortener): Shortens URL using the Polr API.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/michaelachmann/LnkShortener)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=LnkShortener&fdid=de.hirtenstrasse.michael.lnkshortener)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/de.hirtenstrasse.michael.lnkshortener)
 
 ***
 
-* [MuPDF](http://v.ht/E7l7): Lightweight document viewer. MuPDF supports PDF 1.7 with transparency, encryption, hyperlinks, annotations, searching, form editing and more. It also reads OpenXPS and CBZ (comic book) documents.
+* [MuPDF](https://f-droid.org/packages/com.artifex.mupdfdemo/): Lightweight document viewer. MuPDF supports PDF 1.7 with transparency, encryption, hyperlinks, annotations, searching, form editing and more. It also reads OpenXPS and CBZ (comic book) documents.
 ![AGPLv3+](https://img.shields.io/badge/License-AGPLv3+-green.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Ghostscript-lightgrey.svg?style=flat-square)](http://git.ghostscript.com/?p=mupdf.git;a=summary)  
-[![](Pictures/F-Droid.png)](http://v.ht/E7l7)  
-_[Material Design version here](http://v.ht/P3mE) (Android 5.0+)_
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.artifex.mupdfdemo/)  
 
 ***
 
-* [PDF Creator](http://v.ht/8dlR): Create and edit PDF files.
+* [MuPDF Mini](https://f-droid.org/packages/com.artifex.mupdf.mini/): The mini version of MuPDF is designed to be an extra simple document viewer with no frills.
+![AGPLv3+](https://img.shields.io/badge/License-AGPLv3+-green.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Ghostscript-lightgrey.svg?style=flat-square)](https://git.ghostscript.com/?p=mupdf-android-viewer-mini.git;a=summary)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.artifex.mupdf.mini/)  
+
+***
+
+* [PDF Creator](https://f-droid.org/packages/de.baumann.pdfcreator/): Create and edit PDF files.
 ![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/scoute-dich/PDFCreator)  
-[![](Pictures/F-Droid.png)](http://v.ht/8dlR)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/de.baumann.pdfcreator/)
 
 ***
 
-* [ScreenCam Screen Recorder](http://v.ht/cEQz): (no root) User friendly minimal screen recorder for all devices with lollipop 5.0 and Up. It is opensourced and is completely free and ad free..
+* [ScreenCam Screen Recorder](https://f-droid.org/packages/com.orpheusdroid.screenrecorder/): (no root) User friendly minimal screen recorder for all devices with lollipop 5.0 and Up. It is opensourced and is completely free and ad free..
 ![AGPLv3](https://img.shields.io/badge/License-AGPLv3-green.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/vijai1996/screenrecorder)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=screencam&fdid=com.orpheusdroid.screenrecorder)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.orpheusdroid.screenrecorder/)
 
 ***
 
@@ -125,15 +131,8 @@ _Non-free dependencies: Play Services_
 
 ***
 
-* [Turbo Editor](http://v.ht/clQ9): Simple, yet powerful editor for text files.
-![GPLv3+](https://img.shields.io/badge/License-GPLv3+-brightgreen.svg?style=flat-square)
-[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/vmihalachi/turbo-editor)  
-[![](Pictures/F-Droid.png)](http://v.ht/clQ9)
-
-***
-
-* [Yalp Store](https://f-droid.org/repository/browse/?fdfilter=yalp&fdid=com.github.yeriomin.yalpstore): Download apks from Google Play Store.
+* [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore): Download apks from Google Play Store.
 ![GPLv2](https://img.shields.io/badge/License-GPLv2-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/yeriomin/YalpStore)  
-[![](Pictures/F-Droid.png)](https://f-droid.org/repository/browse/?fdfilter=yalp&fdid=com.github.yeriomin.yalpstore)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.github.yeriomin.yalpstore)  
 _Promotes a non-Free network service_
