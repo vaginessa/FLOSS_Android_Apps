@@ -19,6 +19,13 @@
 
 ***
 
+* [Bromite](https://www.bromite.org/): Bromite is Chromium plus some patches for ad blocking and enhanced privacy.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/bromite/bromite)  
+[![](Pictures/3rd-party.png)](https://www.bromite.org/)
+
+***
+
 * [Browser](https://f-droid.org/packages/de.baumann.browser): Original Material browser based on webview.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/scoute-dich/browser/)  
