@@ -26,7 +26,6 @@
 
 ***
 
-
 * [Jelly](https://forum.xda-developers.com/android/apps-games/apk-jelly-browser-t3600876): Stock browser of Lineage OS custom ROM.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/LineageOS/android_packages_apps_Jelly)  
@@ -90,6 +89,14 @@ _Non-free crashlytics_
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/bromite/bromite)  
 [![](Pictures/3rd-party.png)](https://www.bromite.org/)
+
+***
+
+* [Chromer](https://play.google.com/store/apps/details?id=arun.com.chromer): Browser based on Chrome Custom Tabs.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/arunkumar9t2/chromer)  
+[![](Pictures/F-Droid.png)](https://play.google.com/store/apps/details?id=arun.com.chromer)  
+_Craslytics_
 
 ***
 
