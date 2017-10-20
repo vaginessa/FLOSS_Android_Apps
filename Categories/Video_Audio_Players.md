@@ -38,6 +38,12 @@ _Uses proprietary play-services and some binary jar files_
 
 ***
 
+* [Libre Music](https://play.google.com/store/apps/details?id=com.damsky.danny.libremusic): Libre Music is a FOSS media player application for Android with support for reading CUE sheets.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://bitbucket.org/dannydamsky/libre-music)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.damsky.danny.libremusic)
+
+***
 
 * [mpv for Android](https://github.com/mpv-android/mpv-android): .
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
