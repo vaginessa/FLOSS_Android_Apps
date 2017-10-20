@@ -16,6 +16,13 @@
 
 ***
 
+* [Emerald Launcher](https://f-droid.org/packages/ru.henridellal.emerald/): Lightweight customizable launcher which supports icon packs and has a good number of settings for its size.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/HenriDellal/emerald)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/ru.henridellal.emerald/)
+
+***
+
 * [Fast Access](https://forum.xda-developers.com/android/apps-games/fast-access-tiny-launcher-samsung-likes-t3494817): A tiny launcher or as Samsung likes to call it Floating Toolbox.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/k0shk0sh/FastAccess)  
