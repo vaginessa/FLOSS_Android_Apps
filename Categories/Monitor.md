@@ -67,6 +67,14 @@ _Uses non-free software, namely crashlytics_
 
 ***
 
+* [Performance Tweaker](https://play.google.com/store/apps/details?id=com.performancetweaker.app): Modify kernel parameters and monitor various wakelocks.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/rahulkumar66/Performance-Tweaker)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.performancetweaker.app)  
+_JARs, proprietary user tracking (Splunk MINT)_
+
+***
+
 * [Spectrum](https://forum.xda-developers.com/android/apps-games/app-spectrum-kernel-manager-users-t3601542): A kernel manager for users.
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/frap129/spectrum)  
 [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=org.frap129.spectrum)
