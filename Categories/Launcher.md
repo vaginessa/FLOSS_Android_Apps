@@ -127,3 +127,10 @@ Pro version [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/d
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/CyanogenMod/android_packages_apps_Trebuchet)  
 [![](Pictures/3rd-party.png)](https://forum.xda-developers.com/android/apps-games/app-cm13-trebuchet-laucher-rom-6-0-1-t3350696)
+
+***
+
+* [Trebuchet LineageOS 15 for any ROM](https://forum.xda-developers.com/android/apps-games/app-lineageos-15-trebuchet-laucher-rom-t3667436): .
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://forum.xda-developers.com/showpost.php?p=73675094&postcount=16)  
+Check links in OP [![](Pictures/3rd-pary.png)](https://forum.xda-developers.com/android/apps-games/app-lineageos-15-trebuchet-laucher-rom-t3667436)
