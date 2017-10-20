@@ -9,6 +9,13 @@
 -->
 ## MONITOR
 
+* [Kernel Adiutor (Fork)](https://f-droid.org/packages/com.nhellfire.kerneladiutor/): FLOSS version of Kernel Adiutor. Tweak and monitor kernel parameters.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/NHellFire/KernelAdiutor)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.nhellfire.kerneladiutor/)
+
+***
+
 * [Kernel Adiutor](https://forum.xda-developers.com/android/apps-games/app-kernel-adiutor-t2986129): Manages your kernel parameters.
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/Grarak/KernelAdiutor)  
