@@ -80,6 +80,13 @@ _Upstream Non-Free_
 
 ***
 
+* [Init.d Light](https://f-droid.org/packages/x1125io.initdlight/): This app provides simplest functionality for starting scripts on Android startup as root.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/x1125/initd-light)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/x1125io.initdlight/)
+
+***
+
 * [LibreTasks](https://f-droid.org/packages/libretasks.app/): Trigger actions when certain events happen. A fork of Omnidroid, now maintained and with more features. LibreTasks will allow you to set up certain triggers, such as plugging in your phone or missing a call, and allow you to specify certain actions that are done when that trigger occurs, such as sending a SMS or pausing your media.
 ![GPLv3,Apache2,LGPL](https://img.shields.io/badge/License-GPLv3,Apache2,LGPL-347D07.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/biotinker/LibreTasks/)  
