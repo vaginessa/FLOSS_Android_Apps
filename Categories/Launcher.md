@@ -84,7 +84,7 @@ Pro version [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/d
 * [OpenLauncher](https://play.google.com/store/apps/details?id=com.benny.openlauncher): This an open source Android launcher project, started from scratch. We aim to create a powerful and community driven Android launcher.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/BennyKok/OpenLauncher)  
-[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.benny.openlauncher)
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.benny.openlauncher/) [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.benny.openlauncher)
 
 ***
 
