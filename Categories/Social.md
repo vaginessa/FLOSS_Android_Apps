@@ -37,6 +37,14 @@
 
 ***
 
+* [Discourse](https://play.google.com/store/apps/details?id=com.discourse): Discourse is the 100% open source discussion platform built for the next decade of the Internet. It works as a mailing list, a discussion forum and a long-form chat room.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/discourse/discoursemobile)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.discourse)  
+_non-free dependencies: firebase, gms and crashlytics_
+
+***
+
 * [Face Slim](https://f-droid.org/packages/org.indywidualni.fblite/): Unofficial app built around the mobile Facebook site.
 ![GPLv2+](https://img.shields.io/badge/License-GPLv2+-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/indywidualny/FaceSlim)  
