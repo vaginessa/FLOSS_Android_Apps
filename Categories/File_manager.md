@@ -23,6 +23,13 @@
 
 ***
 
+* [Dir](http://veniosg.github.io/Dir/): A modern Android file manager based on OI file manager.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/veniosg/Dir)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.veniosg.dir)
+
+***
+
 * [File Manager](https://f-droid.org/packages/com.simplemobiletools.filemanager/): A simple file manager for browsing and editing files and directories.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/SimpleMobileTools/Simple-File-Manager)  
@@ -41,3 +48,10 @@
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/CosimoSguanci/Material-File-Manager)  
 [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=app.android.com.materialfilemanager)
+
+***
+
+* [OI File Manager](https://f-droid.org/packages/org.openintents.filemanager/): The OpenIntents file manager allows you to browse your SD card, create directories, rename, move, and delete files. It also acts as an extension to other applications to display "Open" and "Save" dialogs.
+![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/openintents/filemanager)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/org.openintents.filemanager/)
