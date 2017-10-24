@@ -160,3 +160,10 @@ _Firefox Focus available on Google Play_
 ![MPL2](https://img.shields.io/badge/License-MPL2-yellow.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/MrAlex94/Waterfox)  
 [![](Pictures/3rd-party.png)](https://www.waterfoxproject.org/downloads)
+
+
+### MISC
+* [xBrowserSync](https://www.xbrowsersync.org/): A free tool for syncing browser data between different browsers and devices, built for privacy and anonymity.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/xBrowserSync/App)  
+[![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.xBrowserSync.android)
