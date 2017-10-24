@@ -5,6 +5,7 @@
 GitLab repo of my [XDA thread](http://forum.xda-developers.com/android/general/index-floss-list-free-libre-source-apps-t3482219/).
 
 ![Number of apps](https://img.shields.io/badge/Apps-343-brightgreen.svg?style=flat-square)  
+[Click here](https://gitlab.com/Primokorn/FLOSS_Android_apps/commits/master?utf8=%E2%9C%93&search=added) to identify new apps.  
 
 ![License](Pictures/gnu-fdl.png)  
 
