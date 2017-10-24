@@ -1,8 +1,6 @@
 # List of Free / Libre and Open Source apps for Android
 
-![FLOSS](https://img.xda-cdn.com/G5UvJb4_j1OTylVCZviLoLZEyrA=/http%3A%2F%2Fimagik.fr%2Fimages%2F2016%2F10%2F29%2FFLOSS_XDAabad3.png)
-
-GitLab repo of my [XDA thread](http://forum.xda-developers.com/android/general/index-floss-list-free-libre-source-apps-t3482219/).
+![FLOSS](https://osine.cozycloud.cc/public/files/files/29d741f0656d854c9750d3486205883a/attach/FLOSS_banner.png)
 
 ![Number of apps](https://img.shields.io/badge/Apps-343-brightgreen.svg?style=flat-square)  
 [Click here](https://gitlab.com/Primokorn/FLOSS_Android_apps/commits/master?utf8=%E2%9C%93&search=added) to identify new apps.  
