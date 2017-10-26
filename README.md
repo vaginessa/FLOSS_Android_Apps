@@ -65,4 +65,4 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 
 ***
 
-Feel free to [contribute](https://gitlab.com/Primokorn/FLOSS_Android_apps/blob/master/CONTRIBUTING.md) and read the [Wiki](https://gitlab.com/Primokorn/FLOSS_Android_apps/wikis/HELP-&-USEFUL-LINKS)
+Feel free to [contribute](https://gitlab.com/Primokorn/FLOSS_Android_apps/blob/master/CONTRIBUTING.md) and read the [Wiki](https://gitlab.com/Primokorn/FLOSS_Android_apps/wikis/home)
