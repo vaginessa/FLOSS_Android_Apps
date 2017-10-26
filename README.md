@@ -66,32 +66,7 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 
 ***
 
-
-## REFERENCES
-- [What is free software?](https://www.gnu.org/philosophy/free-sw.en.html)
-- [Why 'Free Software' is better than 'Open Source'](https://www.gnu.org/philosophy/free-software-for-freedom.en.html)
-- [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.en.html)
-- [F-Droid's Inclusion Policy](https://f-droid.org/wiki/page/Inclusion_Policy)
-- [F-Droid's Antifeatures](https://f-droid.org/wiki/page/Antifeatures)
-- [alternativeto.net](http://alternativeto.net/)
-- [Droid-Break](https://droid-break.info/)
-- [FLOSS and FOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html)
-- [Why Open Source misses the point of Free Software](https://www.gnu.org/philosophy/open-source-misses-the-point.en.html)
-- [Liberate Your Device!](https://fsfe.org/campaigns/android/liberate.en.html)
-- [Android without Google](https://android.izzysoft.de/articles/named/android-without-google-1)  
-- [How to use Android without Google Play Services](https://shadow53.com/no-gapps/)
-
-***
-
-
 ## HOW TO CONTRIBUTE
 1. Only **one** app per commit
 2. **Search** in the existing list and the closed issues before creating a Pull Request or a new Issue.
 3. Provide links, especially the **source code**.
-
-***
-
-
-## DIFFERENCES COMPARED TO F-DROID
-Several apps listed here are not available on F-Droid. F-Droid is a `FLOSS app store` so they decline any open source apps that don't respect their **Inclusion Policy**. By the way, some FLOSS apps aren't available on F-Droid (lack of time or big apps to maintain).
-I also tested more than 80% of the apps I posted in this thread so this is more or less my recommended app list.
