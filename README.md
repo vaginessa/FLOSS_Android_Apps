@@ -62,10 +62,3 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 [VEHICLES](Categories/Vehicles.md) | Auto, taxi, gas
 [WEATHER](Categories/Weather.md) | Self-explanatory
 [WEB BROWSER](Categories/Web.md) | Self-explanatory
-
-***
-
-## HOW TO CONTRIBUTE
-1. Only **one** app per commit
-2. **Search** in the existing list and the closed issues before creating a Pull Request or a new Issue.
-3. Provide links, especially the **source code**.
