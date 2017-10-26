@@ -67,6 +67,13 @@ _Non-Free Network Services_
 
 ***
 
+* [Mastalab](https://f-droid.org/packages/fr.gouv.etalab.mastodon/): Multi-account client for Mastodon.
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://bitbucket.org/tom79/mastodon_etalab/src)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/fr.gouv.etalab.mastodon/)  
+
+***
+
 * [MaterialFBook](http://forum.xda-developers.com/android/apps-games/app-materialfbook-minimalist-facebook-t3477896): Minimalist facebook client.
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/ZeeRooo/MaterialFBook)  
