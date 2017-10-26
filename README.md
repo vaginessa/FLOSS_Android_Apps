@@ -11,12 +11,11 @@
 I use Android phones for 5 years but I'm interested in FLOSS development for only 1 year. Conlusion? `FLOSS apps` are very important for the community (not only for Android OS) but they are often underestimated or not well known.
 Many awesome FLOSS apps are available for `Android` and they well deserve to be better known! Yes, there's a world behind Google, Amazon, Facebook, Apple, Microsoft,...
 
-> If you want to discover new free/libre and open source apps, give a try to the below apps! I'll add new apps as soon as I try good ones.
+> If you want to discover new free/libre and open source apps, give a try to the below apps! I'll add new apps as soon as I find good ones.
 
 > If you want to suggest new apps, feel free to share your list! :innocent:
 
 > If you want to keep using proprietary apps, go away!!! :japanese_goblin:
-
 
 ***
 
