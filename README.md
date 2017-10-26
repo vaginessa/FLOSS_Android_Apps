@@ -3,7 +3,6 @@
 ![FLOSS](https://osine.cozycloud.cc/public/files/files/29d741f0656d854c9750d3486205883a/attach/FLOSS_banner.png)
 
 ![Number of apps](https://img.shields.io/badge/Apps-344-brightgreen.svg?style=flat-square)  
-[Click here](https://gitlab.com/Primokorn/FLOSS_Android_apps/commits/master?utf8=%E2%9C%93&search=added) to identify new apps.  
 
 ![License](Pictures/gnu-fdl.png)  
 
