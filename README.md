@@ -62,3 +62,7 @@ Many awesome FLOSS apps are available for `Android` and they well deserve to be 
 [VEHICLES](Categories/Vehicles.md) | Auto, taxi, gas
 [WEATHER](Categories/Weather.md) | Self-explanatory
 [WEB BROWSER](Categories/Web.md) | Self-explanatory
+
+***
+
+Feel free to [contribute](https://gitlab.com/Primokorn/FLOSS_Android_apps/blob/master/CONTRIBUTING.md) and read the [Wiki](https://gitlab.com/Primokorn/FLOSS_Android_apps/wikis/HELP-&-USEFUL-LINKS)
