@@ -31,10 +31,10 @@
 
 ***
 
-* [Torrent Client ](https://play.google.com/store/apps/details?id=com.github.axet.torrentclient): Nice and simple torrent client. Support for creating torrent, magnet links, UPNP, PMP, uTP, PEX... Who knows what else...
+* [Torrent Client](https://play.google.com/store/apps/details?id=com.github.axet.torrentclient): Nice and simple torrent client. Support for creating torrent, magnet links, UPNP, PMP, uTP, PEX... Who knows what else...
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-GitLab-lightgrey.svg?style=flat-square)](https://gitlab.com/axet/android-torrent-client)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.github.axet.torrentclient/)  
 [![](Pictures/Google_Play.png)](https://play.google.com/store/apps/details?id=com.github.axet.torrentclient)  
-_Play Services_
 
 ***
