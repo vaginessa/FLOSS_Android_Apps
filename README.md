@@ -2,7 +2,7 @@
 
 ![FLOSS](https://osine.cozycloud.cc/public/files/files/29d741f0656d854c9750d3486205883a/attach/FLOSS_banner.png)
 
-![Number of apps](https://img.shields.io/badge/Apps-344-brightgreen.svg?style=flat-square)  
+![Number of apps](https://img.shields.io/badge/Apps-345-brightgreen.svg?style=flat-square)  
 
 ![License](Pictures/gnu-fdl.png)  
 
