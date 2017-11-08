@@ -23,6 +23,13 @@
 
 ***
 
+* [Material Notes](https://github.com/BijoySingh/Quick-Note-Android): Quick Note Android Application .
+![GPLv3](https://img.shields.io/badge/License-GPLv3-brightgreen.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/BijoySingh/Quick-Note-Android)  
+[![](Pictures/3rd-party.png)](https://github.com/BijoySingh/Quick-Note-Android/tree/master/app)
+
+***
+
 * [Memento](https://github.com/yaa110/Memento/releases/): A simple note taking app (categories, drawing notes, backup/restore, Rich Text WYSIWYG Editor...).
 ![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/yaa110/Memento)  
