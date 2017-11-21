@@ -36,6 +36,13 @@
 
 ***
 
+* [LibreSubstratum](https://f-droid.org/packages/com.jereksel.libresubstratum/): Alternative app for Substratum Theme Engine.
+![MIT](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)
+[![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/jereksel/LibreSubstratum)  
+[![](Pictures/F-Droid.png)](https://f-droid.org/packages/com.jereksel.libresubstratum/)
+
+***
+
 * [Material Glass](https://forum.xda-developers.com/google-nexus-5/themes-apps/theme-material-glass-t3005025): Dark theme for CMTE and Substratum - Android 5.x and 6.x.
 ![Apache2](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg?style=flat-square)
 [![](https://img.shields.io/badge/Source-Github-lightgrey.svg?style=flat-square)](https://github.com/asdfasdfvful/Material-Glass)  
